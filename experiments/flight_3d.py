@@ -13,6 +13,9 @@ from src.drone_env import DroneNavEnv
 CALM = "results/models/final/dqn_calm_last_move_500k.zip"
 GUST = "results/models/curve_gust/dqn_500000_steps.zip"
 R2 = "results/models/startgoal_fix_seed2/dqn_500000_steps.zip"
+M2 = "results/models/scale32memory_seed2/dqn_22000000_steps.zip"
+K2 = "results/models/scale32long_K_seed2/dqn_14000000_steps.zip"
+BIG = {"size": 32, "max_steps": 800, "vision": "diamond", "random_start_goal": True}
 
 FLIGHTS = [
     ("Map 30,050, calm air: A* (sees the whole map)", None, 30050, {}),
@@ -21,6 +24,8 @@ FLIGHTS = [
     ("Map 30,000, 10% gusts: calm DQN (a gust pushes it off the map)", CALM, 30000, {"gust_prob": 0.1}),
     ("Map 70,109, random start/goal: random-trained DQN R", R2, 70109, {"random_start_goal": True}),
     ("Map 70,109, random start/goal: corner-trained DQN C (loops)", CALM, 70109, {"random_start_goal": True}),
+    ("Map 84,297, 32 x 32: memory DQN M (reaches the goal)", M2, 84297, {**BIG, "visit_memory": True}),
+    ("Map 84,297, 32 x 32: DQN K without memory (loops)", K2, 84297, {**BIG, "visit_memory": False}),
 ]
 
 

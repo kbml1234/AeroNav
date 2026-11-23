@@ -152,6 +152,10 @@ function buildWorld(f) {
   trailPoints = [];
   trail = new THREE.Line(new THREE.BufferGeometry(), new THREE.LineBasicMaterial({ color: 0x2f6fbf }));
   world.add(trail);
+  const half = n / 2 + 1;
+  Object.assign(sun.shadow.camera, { left: -half, right: half, top: half, bottom: -half, far: n * 4 });
+  sun.shadow.camera.updateProjectionMatrix();
+  sun.position.set(0.75 * n, 1.75 * n, 0.5 * n);
   camera.position.set(0, n * 1.05, n * 1.05);
   controls.target.set(0, 0, 0);
 }
@@ -161,6 +165,7 @@ function load(i) {
   buildWorld(flight);
   t = 0; crashed = false;
   drone.position.copy(toXZ(flight.start));
+  drone.scale.setScalar(Math.max(1, n / 14));
   drone.rotation.set(0, 0, 0);
   addTrail(flight.start);
   document.getElementById("ending").textContent = "-";
