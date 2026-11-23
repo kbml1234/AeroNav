@@ -1,0 +1,9 @@
+{'extra_moves': 1000000, 'success_%': 51.0, 'crash_%': 0.0, 'timeout_%': 49.0, 'learning_rate': 0.0001}
+{'extra_moves': 2000000, 'success_%': 59.0, 'crash_%': 0.0, 'timeout_%': 41.0, 'learning_rate': 0.0001}
+{'extra_moves': 3000000, 'success_%': 54.3, 'crash_%': 0.0, 'timeout_%': 45.7, 'learning_rate': 0.0001}
+{'extra_moves': 4000000, 'success_%': 65.7, 'crash_%': 0.0, 'timeout_%': 34.3, 'learning_rate': 0.0001}
+{'extra_moves': 5000000, 'success_%': 62.0, 'crash_%': 0.0, 'timeout_%': 38.0, 'learning_rate': 0.0001}
+{'extra_moves': 6000000, 'success_%': 57.0, 'crash_%': 0.0, 'timeout_%': 43.0, 'learning_rate': 0.0001}
+{'extra_moves': 7000000, 'success_%': 64.0, 'crash_%': 0.0, 'timeout_%': 36.0, 'learning_rate': 0.0001}
+{'extra_moves': 8000000, 'success_%': 61.3, 'crash_%': 0.0, 'timeout_%': 38.7, 'learning_rate': 0.0001}
+done 28000000

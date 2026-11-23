@@ -1,0 +1,83 @@
+{
+  "note": "Map seed splits. The ranges never overlap, so no test map appears in training or validation.",
+  "size": 8,
+  "density": 0.15,
+  "train": {
+    "low": 1000000,
+    "high": 2147483647
+  },
+  "validation": {
+    "low": 20000,
+    "high": 20300
+  },
+  "test": {
+    "low": 30000,
+    "high": 30300
+  },
+  "wind_test": {
+    "low": 40000,
+    "high": 40300
+  },
+  "vision_test": {
+    "low": 50000,
+    "high": 50300
+  },
+  "scale_validation": {
+    "low": 61000,
+    "high": 61300,
+    "size": 16
+  },
+  "scale_test": {
+    "low": 60000,
+    "high": 60300,
+    "size": 16
+  },
+  "reward_test": {
+    "low": 62000,
+    "high": 62300,
+    "size": 16
+  },
+  "buffer_test": {
+    "low": 63000,
+    "high": 63300,
+    "size": 16
+  },
+  "middle_test": {
+    "low": 64000,
+    "high": 64300,
+    "size": 16
+  },
+  "startgoal_test": {
+    "low": 70000,
+    "high": 70300
+  },
+  "startgoal_validation": {
+    "low": 71000,
+    "high": 71300
+  },
+  "scale32_test": {
+    "low": 80000,
+    "high": 80300,
+    "size": 32
+  },
+  "scale32_validation": {
+    "low": 81000,
+    "high": 81300,
+    "size": 32
+  },
+  "scale32_long_test": {
+    "low": 82000,
+    "high": 82300,
+    "size": 32
+  },
+  "scale32_finetune_test": {
+    "low": 83000,
+    "high": 83300,
+    "size": 32
+  },
+  "memory_test": {
+    "low": 84000,
+    "high": 84300,
+    "size": 32
+  }
+}

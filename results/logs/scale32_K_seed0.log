@@ -1,0 +1,9 @@
+stage 1: 1,000,000 moves on 8 x 8 done, total 1,000,000, exploration 0.472
+stage 2: 2,000,000 moves on 16 x 16 done, total 3,000,000, exploration 0.050
+stage 3: 3,000,000 moves on 32 x 32 done, total 6,000,000, exploration 0.050
+{'checkpoint': 'dqn_1000000_steps', 'success_%': 24.666666666666668, 'crash_%': 0.0, 'timeout_%': 75.33333333333333}
+{'checkpoint': 'dqn_2000000_steps', 'success_%': 6.333333333333334, 'crash_%': 0.0, 'timeout_%': 93.66666666666667}
+{'checkpoint': 'dqn_3000000_steps', 'success_%': 17.0, 'crash_%': 0.0, 'timeout_%': 83.0}
+{'checkpoint': 'dqn_4000000_steps', 'success_%': 16.666666666666664, 'crash_%': 0.0, 'timeout_%': 83.33333333333333}
+{'checkpoint': 'dqn_5000000_steps', 'success_%': 22.0, 'crash_%': 0.0, 'timeout_%': 78.0}
+{'checkpoint': 'dqn_6000000_steps', 'success_%': 16.333333333333332, 'crash_%': 0.0, 'timeout_%': 83.66666666666667}

@@ -1,0 +1,2101 @@
+drone,train_seed,map_seed,ending,moves,shortest,efficiency
+A*,,82000,goal,48,48,1.0
+A*,,82001,goal,44,44,1.0
+A*,,82002,goal,44,44,1.0
+A*,,82003,goal,44,44,1.0
+A*,,82004,goal,43,43,1.0
+A*,,82005,goal,49,49,1.0
+A*,,82006,goal,43,43,1.0
+A*,,82007,goal,44,44,1.0
+A*,,82008,goal,44,44,1.0
+A*,,82009,goal,51,51,1.0
+A*,,82010,goal,48,48,1.0
+A*,,82011,goal,46,46,1.0
+A*,,82012,goal,43,43,1.0
+A*,,82013,goal,43,43,1.0
+A*,,82014,goal,44,44,1.0
+A*,,82015,goal,49,49,1.0
+A*,,82016,goal,44,44,1.0
+A*,,82017,goal,51,51,1.0
+A*,,82018,goal,43,43,1.0
+A*,,82019,goal,44,44,1.0
+A*,,82020,goal,44,44,1.0
+A*,,82021,goal,44,44,1.0
+A*,,82022,goal,43,43,1.0
+A*,,82023,goal,44,44,1.0
+A*,,82024,goal,47,47,1.0
+A*,,82025,goal,46,46,1.0
+A*,,82026,goal,47,47,1.0
+A*,,82027,goal,43,43,1.0
+A*,,82028,goal,43,43,1.0
+A*,,82029,goal,46,46,1.0
+A*,,82030,goal,44,44,1.0
+A*,,82031,goal,43,43,1.0
+A*,,82032,goal,44,44,1.0
+A*,,82033,goal,44,44,1.0
+A*,,82034,goal,44,44,1.0
+A*,,82035,goal,45,45,1.0
+A*,,82036,goal,47,47,1.0
+A*,,82037,goal,45,45,1.0
+A*,,82038,goal,49,49,1.0
+A*,,82039,goal,44,44,1.0
+A*,,82040,goal,43,43,1.0
+A*,,82041,goal,45,45,1.0
+A*,,82042,goal,43,43,1.0
+A*,,82043,goal,43,43,1.0
+A*,,82044,goal,51,51,1.0
+A*,,82045,goal,46,46,1.0
+A*,,82046,goal,44,44,1.0
+A*,,82047,goal,45,45,1.0
+A*,,82048,goal,46,46,1.0
+A*,,82049,goal,44,44,1.0
+A*,,82050,goal,43,43,1.0
+A*,,82051,goal,46,46,1.0
+A*,,82052,goal,43,43,1.0
+A*,,82053,goal,43,43,1.0
+A*,,82054,goal,44,44,1.0
+A*,,82055,goal,43,43,1.0
+A*,,82056,goal,48,48,1.0
+A*,,82057,goal,43,43,1.0
+A*,,82058,goal,43,43,1.0
+A*,,82059,goal,43,43,1.0
+A*,,82060,goal,43,43,1.0
+A*,,82061,goal,48,48,1.0
+A*,,82062,goal,50,50,1.0
+A*,,82063,goal,43,43,1.0
+A*,,82064,goal,46,46,1.0
+A*,,82065,goal,43,43,1.0
+A*,,82066,goal,43,43,1.0
+A*,,82067,goal,43,43,1.0
+A*,,82068,goal,45,45,1.0
+A*,,82069,goal,44,44,1.0
+A*,,82070,goal,46,46,1.0
+A*,,82071,goal,45,45,1.0
+A*,,82072,goal,43,43,1.0
+A*,,82073,goal,43,43,1.0
+A*,,82074,goal,43,43,1.0
+A*,,82075,goal,43,43,1.0
+A*,,82076,goal,44,44,1.0
+A*,,82077,goal,44,44,1.0
+A*,,82078,goal,43,43,1.0
+A*,,82079,goal,43,43,1.0
+A*,,82080,goal,43,43,1.0
+A*,,82081,goal,43,43,1.0
+A*,,82082,goal,47,47,1.0
+A*,,82083,goal,43,43,1.0
+A*,,82084,goal,43,43,1.0
+A*,,82085,goal,44,44,1.0
+A*,,82086,goal,49,49,1.0
+A*,,82087,goal,54,54,1.0
+A*,,82088,goal,47,47,1.0
+A*,,82089,goal,46,46,1.0
+A*,,82090,goal,43,43,1.0
+A*,,82091,goal,44,44,1.0
+A*,,82092,goal,44,44,1.0
+A*,,82093,goal,43,43,1.0
+A*,,82094,goal,58,58,1.0
+A*,,82095,goal,44,44,1.0
+A*,,82096,goal,45,45,1.0
+A*,,82097,goal,44,44,1.0
+A*,,82098,goal,44,44,1.0
+A*,,82099,goal,47,47,1.0
+A*,,82100,goal,43,43,1.0
+A*,,82101,goal,43,43,1.0
+A*,,82102,goal,45,45,1.0
+A*,,82103,goal,44,44,1.0
+A*,,82104,goal,45,45,1.0
+A*,,82105,goal,43,43,1.0
+A*,,82106,goal,44,44,1.0
+A*,,82107,goal,46,46,1.0
+A*,,82108,goal,43,43,1.0
+A*,,82109,goal,47,47,1.0
+A*,,82110,goal,47,47,1.0
+A*,,82111,goal,43,43,1.0
+A*,,82112,goal,43,43,1.0
+A*,,82113,goal,44,44,1.0
+A*,,82114,goal,43,43,1.0
+A*,,82115,goal,44,44,1.0
+A*,,82116,goal,43,43,1.0
+A*,,82117,goal,50,50,1.0
+A*,,82118,goal,46,46,1.0
+A*,,82119,goal,45,45,1.0
+A*,,82120,goal,44,44,1.0
+A*,,82121,goal,49,49,1.0
+A*,,82122,goal,45,45,1.0
+A*,,82123,goal,43,43,1.0
+A*,,82124,goal,48,48,1.0
+A*,,82125,goal,43,43,1.0
+A*,,82126,goal,46,46,1.0
+A*,,82127,goal,43,43,1.0
+A*,,82128,goal,43,43,1.0
+A*,,82129,goal,43,43,1.0
+A*,,82130,goal,43,43,1.0
+A*,,82131,goal,43,43,1.0
+A*,,82132,goal,44,44,1.0
+A*,,82133,goal,51,51,1.0
+A*,,82134,goal,45,45,1.0
+A*,,82135,goal,49,49,1.0
+A*,,82136,goal,43,43,1.0
+A*,,82137,goal,44,44,1.0
+A*,,82138,goal,43,43,1.0
+A*,,82139,goal,45,45,1.0
+A*,,82140,goal,47,47,1.0
+A*,,82141,goal,50,50,1.0
+A*,,82142,goal,43,43,1.0
+A*,,82143,goal,46,46,1.0
+A*,,82144,goal,44,44,1.0
+A*,,82145,goal,45,45,1.0
+A*,,82146,goal,47,47,1.0
+A*,,82147,goal,50,50,1.0
+A*,,82148,goal,44,44,1.0
+A*,,82149,goal,47,47,1.0
+A*,,82150,goal,46,46,1.0
+A*,,82151,goal,44,44,1.0
+A*,,82152,goal,47,47,1.0
+A*,,82153,goal,47,47,1.0
+A*,,82154,goal,43,43,1.0
+A*,,82155,goal,56,56,1.0
+A*,,82156,goal,44,44,1.0
+A*,,82157,goal,45,45,1.0
+A*,,82158,goal,43,43,1.0
+A*,,82159,goal,47,47,1.0
+A*,,82160,goal,45,45,1.0
+A*,,82161,goal,43,43,1.0
+A*,,82162,goal,44,44,1.0
+A*,,82163,goal,44,44,1.0
+A*,,82164,goal,44,44,1.0
+A*,,82165,goal,46,46,1.0
+A*,,82166,goal,44,44,1.0
+A*,,82167,goal,45,45,1.0
+A*,,82168,goal,43,43,1.0
+A*,,82169,goal,43,43,1.0
+A*,,82170,goal,44,44,1.0
+A*,,82171,goal,45,45,1.0
+A*,,82172,goal,43,43,1.0
+A*,,82173,goal,45,45,1.0
+A*,,82174,goal,46,46,1.0
+A*,,82175,goal,43,43,1.0
+A*,,82176,goal,44,44,1.0
+A*,,82177,goal,44,44,1.0
+A*,,82178,goal,45,45,1.0
+A*,,82179,goal,47,47,1.0
+A*,,82180,goal,45,45,1.0
+A*,,82181,goal,43,43,1.0
+A*,,82182,goal,49,49,1.0
+A*,,82183,goal,48,48,1.0
+A*,,82184,goal,43,43,1.0
+A*,,82185,goal,45,45,1.0
+A*,,82186,goal,43,43,1.0
+A*,,82187,goal,49,49,1.0
+A*,,82188,goal,43,43,1.0
+A*,,82189,goal,45,45,1.0
+A*,,82190,goal,44,44,1.0
+A*,,82191,goal,43,43,1.0
+A*,,82192,goal,45,45,1.0
+A*,,82193,goal,45,45,1.0
+A*,,82194,goal,43,43,1.0
+A*,,82195,goal,43,43,1.0
+A*,,82196,goal,44,44,1.0
+A*,,82197,goal,46,46,1.0
+A*,,82198,goal,50,50,1.0
+A*,,82199,goal,43,43,1.0
+A*,,82200,goal,43,43,1.0
+A*,,82201,goal,44,44,1.0
+A*,,82202,goal,43,43,1.0
+A*,,82203,goal,43,43,1.0
+A*,,82204,goal,50,50,1.0
+A*,,82205,goal,43,43,1.0
+A*,,82206,goal,48,48,1.0
+A*,,82207,goal,46,46,1.0
+A*,,82208,goal,43,43,1.0
+A*,,82209,goal,44,44,1.0
+A*,,82210,goal,45,45,1.0
+A*,,82211,goal,44,44,1.0
+A*,,82212,goal,43,43,1.0
+A*,,82213,goal,46,46,1.0
+A*,,82214,goal,43,43,1.0
+A*,,82215,goal,46,46,1.0
+A*,,82216,goal,43,43,1.0
+A*,,82217,goal,47,47,1.0
+A*,,82218,goal,44,44,1.0
+A*,,82219,goal,49,49,1.0
+A*,,82220,goal,43,43,1.0
+A*,,82221,goal,43,43,1.0
+A*,,82222,goal,44,44,1.0
+A*,,82223,goal,43,43,1.0
+A*,,82224,goal,43,43,1.0
+A*,,82225,goal,47,47,1.0
+A*,,82226,goal,46,46,1.0
+A*,,82227,goal,45,45,1.0
+A*,,82228,goal,49,49,1.0
+A*,,82229,goal,46,46,1.0
+A*,,82230,goal,44,44,1.0
+A*,,82231,goal,43,43,1.0
+A*,,82232,goal,43,43,1.0
+A*,,82233,goal,44,44,1.0
+A*,,82234,goal,44,44,1.0
+A*,,82235,goal,48,48,1.0
+A*,,82236,goal,50,50,1.0
+A*,,82237,goal,49,49,1.0
+A*,,82238,goal,45,45,1.0
+A*,,82239,goal,44,44,1.0
+A*,,82240,goal,46,46,1.0
+A*,,82241,goal,43,43,1.0
+A*,,82242,goal,47,47,1.0
+A*,,82243,goal,45,45,1.0
+A*,,82244,goal,47,47,1.0
+A*,,82245,goal,43,43,1.0
+A*,,82246,goal,47,47,1.0
+A*,,82247,goal,46,46,1.0
+A*,,82248,goal,44,44,1.0
+A*,,82249,goal,43,43,1.0
+A*,,82250,goal,44,44,1.0
+A*,,82251,goal,47,47,1.0
+A*,,82252,goal,43,43,1.0
+A*,,82253,goal,44,44,1.0
+A*,,82254,goal,43,43,1.0
+A*,,82255,goal,43,43,1.0
+A*,,82256,goal,46,46,1.0
+A*,,82257,goal,43,43,1.0
+A*,,82258,goal,43,43,1.0
+A*,,82259,goal,47,47,1.0
+A*,,82260,goal,43,43,1.0
+A*,,82261,goal,45,45,1.0
+A*,,82262,goal,43,43,1.0
+A*,,82263,goal,43,43,1.0
+A*,,82264,goal,50,50,1.0
+A*,,82265,goal,46,46,1.0
+A*,,82266,goal,44,44,1.0
+A*,,82267,goal,44,44,1.0
+A*,,82268,goal,45,45,1.0
+A*,,82269,goal,50,50,1.0
+A*,,82270,goal,43,43,1.0
+A*,,82271,goal,44,44,1.0
+A*,,82272,goal,43,43,1.0
+A*,,82273,goal,43,43,1.0
+A*,,82274,goal,44,44,1.0
+A*,,82275,goal,44,44,1.0
+A*,,82276,goal,44,44,1.0
+A*,,82277,goal,43,43,1.0
+A*,,82278,goal,43,43,1.0
+A*,,82279,goal,43,43,1.0
+A*,,82280,goal,45,45,1.0
+A*,,82281,goal,46,46,1.0
+A*,,82282,goal,44,44,1.0
+A*,,82283,goal,44,44,1.0
+A*,,82284,goal,48,48,1.0
+A*,,82285,goal,47,47,1.0
+A*,,82286,goal,49,49,1.0
+A*,,82287,goal,46,46,1.0
+A*,,82288,goal,45,45,1.0
+A*,,82289,goal,43,43,1.0
+A*,,82290,goal,43,43,1.0
+A*,,82291,goal,45,45,1.0
+A*,,82292,goal,47,47,1.0
+A*,,82293,goal,45,45,1.0
+A*,,82294,goal,46,46,1.0
+A*,,82295,goal,54,54,1.0
+A*,,82296,goal,43,43,1.0
+A*,,82297,goal,47,47,1.0
+A*,,82298,goal,50,50,1.0
+A*,,82299,goal,43,43,1.0
+D direct,0,82000,timeout,800,48,
+D direct,0,82001,goal,44,44,1.0
+D direct,0,82002,goal,46,44,0.9565217391304348
+D direct,0,82003,goal,46,44,0.9565217391304348
+D direct,0,82004,timeout,800,43,
+D direct,0,82005,timeout,800,49,
+D direct,0,82006,goal,45,43,0.9555555555555556
+D direct,0,82007,goal,44,44,1.0
+D direct,0,82008,goal,44,44,1.0
+D direct,0,82009,timeout,800,51,
+D direct,0,82010,timeout,800,48,
+D direct,0,82011,timeout,800,46,
+D direct,0,82012,timeout,800,43,
+D direct,0,82013,goal,43,43,1.0
+D direct,0,82014,goal,50,44,0.88
+D direct,0,82015,goal,49,49,1.0
+D direct,0,82016,timeout,800,44,
+D direct,0,82017,timeout,800,51,
+D direct,0,82018,goal,47,43,0.9148936170212766
+D direct,0,82019,goal,44,44,1.0
+D direct,0,82020,timeout,800,44,
+D direct,0,82021,goal,50,44,0.88
+D direct,0,82022,timeout,800,43,
+D direct,0,82023,goal,48,44,0.9166666666666666
+D direct,0,82024,timeout,800,47,
+D direct,0,82025,timeout,800,46,
+D direct,0,82026,goal,49,47,0.9591836734693877
+D direct,0,82027,timeout,800,43,
+D direct,0,82028,goal,43,43,1.0
+D direct,0,82029,timeout,800,46,
+D direct,0,82030,goal,44,44,1.0
+D direct,0,82031,timeout,800,43,
+D direct,0,82032,goal,44,44,1.0
+D direct,0,82033,goal,46,44,0.9565217391304348
+D direct,0,82034,goal,46,44,0.9565217391304348
+D direct,0,82035,goal,51,45,0.8823529411764706
+D direct,0,82036,goal,47,47,1.0
+D direct,0,82037,goal,45,45,1.0
+D direct,0,82038,goal,49,49,1.0
+D direct,0,82039,goal,44,44,1.0
+D direct,0,82040,timeout,800,43,
+D direct,0,82041,goal,47,45,0.9574468085106383
+D direct,0,82042,timeout,800,43,
+D direct,0,82043,goal,45,43,0.9555555555555556
+D direct,0,82044,timeout,800,51,
+D direct,0,82045,timeout,800,46,
+D direct,0,82046,goal,50,44,0.88
+D direct,0,82047,goal,47,45,0.9574468085106383
+D direct,0,82048,goal,46,46,1.0
+D direct,0,82049,goal,44,44,1.0
+D direct,0,82050,goal,43,43,1.0
+D direct,0,82051,timeout,800,46,
+D direct,0,82052,goal,43,43,1.0
+D direct,0,82053,goal,43,43,1.0
+D direct,0,82054,goal,44,44,1.0
+D direct,0,82055,timeout,800,43,
+D direct,0,82056,goal,52,48,0.9230769230769231
+D direct,0,82057,goal,45,43,0.9555555555555556
+D direct,0,82058,goal,49,43,0.8775510204081632
+D direct,0,82059,timeout,800,43,
+D direct,0,82060,timeout,800,43,
+D direct,0,82061,goal,56,48,0.8571428571428571
+D direct,0,82062,timeout,800,50,
+D direct,0,82063,timeout,800,43,
+D direct,0,82064,goal,48,46,0.9583333333333334
+D direct,0,82065,timeout,800,43,
+D direct,0,82066,goal,45,43,0.9555555555555556
+D direct,0,82067,goal,47,43,0.9148936170212766
+D direct,0,82068,goal,45,45,1.0
+D direct,0,82069,timeout,800,44,
+D direct,0,82070,timeout,800,46,
+D direct,0,82071,goal,45,45,1.0
+D direct,0,82072,goal,45,43,0.9555555555555556
+D direct,0,82073,timeout,800,43,
+D direct,0,82074,timeout,800,43,
+D direct,0,82075,timeout,800,43,
+D direct,0,82076,timeout,800,44,
+D direct,0,82077,goal,46,44,0.9565217391304348
+D direct,0,82078,timeout,800,43,
+D direct,0,82079,timeout,800,43,
+D direct,0,82080,timeout,800,43,
+D direct,0,82081,goal,43,43,1.0
+D direct,0,82082,timeout,800,47,
+D direct,0,82083,goal,45,43,0.9555555555555556
+D direct,0,82084,goal,43,43,1.0
+D direct,0,82085,timeout,800,44,
+D direct,0,82086,goal,51,49,0.9607843137254902
+D direct,0,82087,goal,54,54,1.0
+D direct,0,82088,goal,47,47,1.0
+D direct,0,82089,goal,48,46,0.9583333333333334
+D direct,0,82090,timeout,800,43,
+D direct,0,82091,goal,48,44,0.9166666666666666
+D direct,0,82092,timeout,800,44,
+D direct,0,82093,timeout,800,43,
+D direct,0,82094,goal,64,58,0.90625
+D direct,0,82095,goal,44,44,1.0
+D direct,0,82096,goal,51,45,0.8823529411764706
+D direct,0,82097,goal,44,44,1.0
+D direct,0,82098,timeout,800,44,
+D direct,0,82099,goal,49,47,0.9591836734693877
+D direct,0,82100,goal,45,43,0.9555555555555556
+D direct,0,82101,goal,49,43,0.8775510204081632
+D direct,0,82102,goal,45,45,1.0
+D direct,0,82103,timeout,800,44,
+D direct,0,82104,goal,45,45,1.0
+D direct,0,82105,timeout,800,43,
+D direct,0,82106,goal,46,44,0.9565217391304348
+D direct,0,82107,timeout,800,46,
+D direct,0,82108,timeout,800,43,
+D direct,0,82109,goal,49,47,0.9591836734693877
+D direct,0,82110,goal,47,47,1.0
+D direct,0,82111,goal,43,43,1.0
+D direct,0,82112,goal,43,43,1.0
+D direct,0,82113,goal,50,44,0.88
+D direct,0,82114,goal,43,43,1.0
+D direct,0,82115,timeout,800,44,
+D direct,0,82116,timeout,800,43,
+D direct,0,82117,goal,52,50,0.9615384615384616
+D direct,0,82118,goal,54,46,0.8518518518518519
+D direct,0,82119,goal,45,45,1.0
+D direct,0,82120,goal,44,44,1.0
+D direct,0,82121,goal,61,49,0.8032786885245902
+D direct,0,82122,timeout,800,45,
+D direct,0,82123,timeout,800,43,
+D direct,0,82124,timeout,800,48,
+D direct,0,82125,timeout,800,43,
+D direct,0,82126,goal,50,46,0.92
+D direct,0,82127,goal,43,43,1.0
+D direct,0,82128,timeout,800,43,
+D direct,0,82129,goal,45,43,0.9555555555555556
+D direct,0,82130,timeout,800,43,
+D direct,0,82131,goal,45,43,0.9555555555555556
+D direct,0,82132,goal,48,44,0.9166666666666666
+D direct,0,82133,goal,51,51,1.0
+D direct,0,82134,goal,45,45,1.0
+D direct,0,82135,goal,57,49,0.8596491228070176
+D direct,0,82136,goal,45,43,0.9555555555555556
+D direct,0,82137,goal,44,44,1.0
+D direct,0,82138,timeout,800,43,
+D direct,0,82139,timeout,800,45,
+D direct,0,82140,goal,47,47,1.0
+D direct,0,82141,timeout,800,50,
+D direct,0,82142,timeout,800,43,
+D direct,0,82143,timeout,800,46,
+D direct,0,82144,goal,44,44,1.0
+D direct,0,82145,timeout,800,45,
+D direct,0,82146,goal,53,47,0.8867924528301887
+D direct,0,82147,timeout,800,50,
+D direct,0,82148,goal,48,44,0.9166666666666666
+D direct,0,82149,timeout,800,47,
+D direct,0,82150,goal,46,46,1.0
+D direct,0,82151,goal,46,44,0.9565217391304348
+D direct,0,82152,timeout,800,47,
+D direct,0,82153,goal,47,47,1.0
+D direct,0,82154,timeout,800,43,
+D direct,0,82155,timeout,800,56,
+D direct,0,82156,timeout,800,44,
+D direct,0,82157,goal,49,45,0.9183673469387755
+D direct,0,82158,timeout,800,43,
+D direct,0,82159,timeout,800,47,
+D direct,0,82160,timeout,800,45,
+D direct,0,82161,goal,45,43,0.9555555555555556
+D direct,0,82162,goal,44,44,1.0
+D direct,0,82163,timeout,800,44,
+D direct,0,82164,timeout,800,44,
+D direct,0,82165,goal,46,46,1.0
+D direct,0,82166,goal,44,44,1.0
+D direct,0,82167,goal,47,45,0.9574468085106383
+D direct,0,82168,goal,43,43,1.0
+D direct,0,82169,goal,43,43,1.0
+D direct,0,82170,goal,52,44,0.8461538461538461
+D direct,0,82171,timeout,800,45,
+D direct,0,82172,timeout,800,43,
+D direct,0,82173,goal,47,45,0.9574468085106383
+D direct,0,82174,goal,46,46,1.0
+D direct,0,82175,timeout,800,43,
+D direct,0,82176,timeout,800,44,
+D direct,0,82177,goal,50,44,0.88
+D direct,0,82178,goal,45,45,1.0
+D direct,0,82179,goal,51,47,0.9215686274509803
+D direct,0,82180,goal,45,45,1.0
+D direct,0,82181,timeout,800,43,
+D direct,0,82182,timeout,800,49,
+D direct,0,82183,goal,50,48,0.96
+D direct,0,82184,goal,43,43,1.0
+D direct,0,82185,timeout,800,45,
+D direct,0,82186,goal,47,43,0.9148936170212766
+D direct,0,82187,goal,51,49,0.9607843137254902
+D direct,0,82188,goal,43,43,1.0
+D direct,0,82189,timeout,800,45,
+D direct,0,82190,goal,44,44,1.0
+D direct,0,82191,goal,43,43,1.0
+D direct,0,82192,goal,45,45,1.0
+D direct,0,82193,timeout,800,45,
+D direct,0,82194,goal,47,43,0.9148936170212766
+D direct,0,82195,goal,43,43,1.0
+D direct,0,82196,goal,46,44,0.9565217391304348
+D direct,0,82197,goal,48,46,0.9583333333333334
+D direct,0,82198,goal,52,50,0.9615384615384616
+D direct,0,82199,goal,43,43,1.0
+D direct,0,82200,goal,43,43,1.0
+D direct,0,82201,goal,52,44,0.8461538461538461
+D direct,0,82202,timeout,800,43,
+D direct,0,82203,goal,43,43,1.0
+D direct,0,82204,timeout,800,50,
+D direct,0,82205,timeout,800,43,
+D direct,0,82206,goal,48,48,1.0
+D direct,0,82207,goal,48,46,0.9583333333333334
+D direct,0,82208,timeout,800,43,
+D direct,0,82209,timeout,800,44,
+D direct,0,82210,timeout,800,45,
+D direct,0,82211,goal,44,44,1.0
+D direct,0,82212,timeout,800,43,
+D direct,0,82213,timeout,800,46,
+D direct,0,82214,goal,43,43,1.0
+D direct,0,82215,goal,46,46,1.0
+D direct,0,82216,goal,43,43,1.0
+D direct,0,82217,timeout,800,47,
+D direct,0,82218,goal,46,44,0.9565217391304348
+D direct,0,82219,goal,53,49,0.9245283018867925
+D direct,0,82220,goal,45,43,0.9555555555555556
+D direct,0,82221,goal,43,43,1.0
+D direct,0,82222,timeout,800,44,
+D direct,0,82223,goal,49,43,0.8775510204081632
+D direct,0,82224,goal,43,43,1.0
+D direct,0,82225,goal,49,47,0.9591836734693877
+D direct,0,82226,goal,48,46,0.9583333333333334
+D direct,0,82227,goal,49,45,0.9183673469387755
+D direct,0,82228,goal,51,49,0.9607843137254902
+D direct,0,82229,timeout,800,46,
+D direct,0,82230,goal,44,44,1.0
+D direct,0,82231,goal,47,43,0.9148936170212766
+D direct,0,82232,goal,43,43,1.0
+D direct,0,82233,goal,46,44,0.9565217391304348
+D direct,0,82234,goal,46,44,0.9565217391304348
+D direct,0,82235,timeout,800,48,
+D direct,0,82236,goal,52,50,0.9615384615384616
+D direct,0,82237,goal,51,49,0.9607843137254902
+D direct,0,82238,goal,45,45,1.0
+D direct,0,82239,goal,46,44,0.9565217391304348
+D direct,0,82240,timeout,800,46,
+D direct,0,82241,goal,45,43,0.9555555555555556
+D direct,0,82242,timeout,800,47,
+D direct,0,82243,goal,47,45,0.9574468085106383
+D direct,0,82244,timeout,800,47,
+D direct,0,82245,goal,43,43,1.0
+D direct,0,82246,timeout,800,47,
+D direct,0,82247,timeout,800,46,
+D direct,0,82248,goal,46,44,0.9565217391304348
+D direct,0,82249,timeout,800,43,
+D direct,0,82250,goal,48,44,0.9166666666666666
+D direct,0,82251,goal,47,47,1.0
+D direct,0,82252,goal,45,43,0.9555555555555556
+D direct,0,82253,goal,54,44,0.8148148148148148
+D direct,0,82254,goal,47,43,0.9148936170212766
+D direct,0,82255,goal,49,43,0.8775510204081632
+D direct,0,82256,goal,46,46,1.0
+D direct,0,82257,timeout,800,43,
+D direct,0,82258,goal,47,43,0.9148936170212766
+D direct,0,82259,timeout,800,47,
+D direct,0,82260,goal,43,43,1.0
+D direct,0,82261,goal,49,45,0.9183673469387755
+D direct,0,82262,goal,47,43,0.9148936170212766
+D direct,0,82263,timeout,800,43,
+D direct,0,82264,goal,52,50,0.9615384615384616
+D direct,0,82265,goal,46,46,1.0
+D direct,0,82266,goal,50,44,0.88
+D direct,0,82267,timeout,800,44,
+D direct,0,82268,goal,47,45,0.9574468085106383
+D direct,0,82269,goal,58,50,0.8620689655172413
+D direct,0,82270,goal,45,43,0.9555555555555556
+D direct,0,82271,goal,44,44,1.0
+D direct,0,82272,goal,43,43,1.0
+D direct,0,82273,timeout,800,43,
+D direct,0,82274,goal,46,44,0.9565217391304348
+D direct,0,82275,goal,44,44,1.0
+D direct,0,82276,timeout,800,44,
+D direct,0,82277,goal,43,43,1.0
+D direct,0,82278,goal,45,43,0.9555555555555556
+D direct,0,82279,goal,43,43,1.0
+D direct,0,82280,goal,47,45,0.9574468085106383
+D direct,0,82281,timeout,800,46,
+D direct,0,82282,goal,50,44,0.88
+D direct,0,82283,goal,48,44,0.9166666666666666
+D direct,0,82284,goal,48,48,1.0
+D direct,0,82285,goal,49,47,0.9591836734693877
+D direct,0,82286,goal,51,49,0.9607843137254902
+D direct,0,82287,goal,48,46,0.9583333333333334
+D direct,0,82288,timeout,800,45,
+D direct,0,82289,goal,45,43,0.9555555555555556
+D direct,0,82290,timeout,800,43,
+D direct,0,82291,goal,45,45,1.0
+D direct,0,82292,goal,49,47,0.9591836734693877
+D direct,0,82293,timeout,800,45,
+D direct,0,82294,goal,52,46,0.8846153846153846
+D direct,0,82295,timeout,800,54,
+D direct,0,82296,goal,43,43,1.0
+D direct,0,82297,goal,47,47,1.0
+D direct,0,82298,timeout,800,50,
+D direct,0,82299,goal,45,43,0.9555555555555556
+D direct,1,82000,timeout,800,48,
+D direct,1,82001,timeout,800,44,
+D direct,1,82002,goal,52,44,0.8461538461538461
+D direct,1,82003,timeout,800,44,
+D direct,1,82004,goal,43,43,1.0
+D direct,1,82005,goal,53,49,0.9245283018867925
+D direct,1,82006,timeout,800,43,
+D direct,1,82007,goal,44,44,1.0
+D direct,1,82008,goal,44,44,1.0
+D direct,1,82009,timeout,800,51,
+D direct,1,82010,timeout,800,48,
+D direct,1,82011,timeout,800,46,
+D direct,1,82012,timeout,800,43,
+D direct,1,82013,goal,43,43,1.0
+D direct,1,82014,timeout,800,44,
+D direct,1,82015,goal,49,49,1.0
+D direct,1,82016,goal,56,44,0.7857142857142857
+D direct,1,82017,timeout,800,51,
+D direct,1,82018,goal,51,43,0.8431372549019608
+D direct,1,82019,timeout,800,44,
+D direct,1,82020,goal,48,44,0.9166666666666666
+D direct,1,82021,timeout,800,44,
+D direct,1,82022,timeout,800,43,
+D direct,1,82023,goal,44,44,1.0
+D direct,1,82024,timeout,800,47,
+D direct,1,82025,timeout,800,46,
+D direct,1,82026,timeout,800,47,
+D direct,1,82027,timeout,800,43,
+D direct,1,82028,goal,49,43,0.8775510204081632
+D direct,1,82029,goal,54,46,0.8518518518518519
+D direct,1,82030,goal,44,44,1.0
+D direct,1,82031,goal,55,43,0.7818181818181819
+D direct,1,82032,goal,46,44,0.9565217391304348
+D direct,1,82033,goal,46,44,0.9565217391304348
+D direct,1,82034,timeout,800,44,
+D direct,1,82035,goal,63,45,0.7142857142857143
+D direct,1,82036,timeout,800,47,
+D direct,1,82037,goal,53,45,0.8490566037735849
+D direct,1,82038,goal,51,49,0.9607843137254902
+D direct,1,82039,goal,46,44,0.9565217391304348
+D direct,1,82040,timeout,800,43,
+D direct,1,82041,goal,47,45,0.9574468085106383
+D direct,1,82042,goal,51,43,0.8431372549019608
+D direct,1,82043,timeout,800,43,
+D direct,1,82044,timeout,800,51,
+D direct,1,82045,timeout,800,46,
+D direct,1,82046,goal,50,44,0.88
+D direct,1,82047,goal,45,45,1.0
+D direct,1,82048,timeout,800,46,
+D direct,1,82049,goal,46,44,0.9565217391304348
+D direct,1,82050,goal,43,43,1.0
+D direct,1,82051,goal,48,46,0.9583333333333334
+D direct,1,82052,timeout,800,43,
+D direct,1,82053,goal,51,43,0.8431372549019608
+D direct,1,82054,timeout,800,44,
+D direct,1,82055,timeout,800,43,
+D direct,1,82056,timeout,800,48,
+D direct,1,82057,goal,47,43,0.9148936170212766
+D direct,1,82058,timeout,800,43,
+D direct,1,82059,timeout,800,43,
+D direct,1,82060,timeout,800,43,
+D direct,1,82061,timeout,800,48,
+D direct,1,82062,timeout,800,50,
+D direct,1,82063,timeout,800,43,
+D direct,1,82064,goal,58,46,0.7931034482758621
+D direct,1,82065,goal,49,43,0.8775510204081632
+D direct,1,82066,goal,43,43,1.0
+D direct,1,82067,timeout,800,43,
+D direct,1,82068,goal,53,45,0.8490566037735849
+D direct,1,82069,goal,44,44,1.0
+D direct,1,82070,timeout,800,46,
+D direct,1,82071,timeout,800,45,
+D direct,1,82072,timeout,800,43,
+D direct,1,82073,goal,55,43,0.7818181818181819
+D direct,1,82074,goal,43,43,1.0
+D direct,1,82075,goal,43,43,1.0
+D direct,1,82076,goal,48,44,0.9166666666666666
+D direct,1,82077,goal,48,44,0.9166666666666666
+D direct,1,82078,goal,53,43,0.8113207547169812
+D direct,1,82079,goal,49,43,0.8775510204081632
+D direct,1,82080,goal,45,43,0.9555555555555556
+D direct,1,82081,goal,43,43,1.0
+D direct,1,82082,timeout,800,47,
+D direct,1,82083,goal,43,43,1.0
+D direct,1,82084,goal,45,43,0.9555555555555556
+D direct,1,82085,timeout,800,44,
+D direct,1,82086,goal,49,49,1.0
+D direct,1,82087,timeout,800,54,
+D direct,1,82088,timeout,800,47,
+D direct,1,82089,goal,50,46,0.92
+D direct,1,82090,timeout,800,43,
+D direct,1,82091,timeout,800,44,
+D direct,1,82092,timeout,800,44,
+D direct,1,82093,goal,45,43,0.9555555555555556
+D direct,1,82094,goal,58,58,1.0
+D direct,1,82095,timeout,800,44,
+D direct,1,82096,timeout,800,45,
+D direct,1,82097,timeout,800,44,
+D direct,1,82098,timeout,800,44,
+D direct,1,82099,timeout,800,47,
+D direct,1,82100,goal,43,43,1.0
+D direct,1,82101,goal,43,43,1.0
+D direct,1,82102,goal,45,45,1.0
+D direct,1,82103,timeout,800,44,
+D direct,1,82104,timeout,800,45,
+D direct,1,82105,timeout,800,43,
+D direct,1,82106,timeout,800,44,
+D direct,1,82107,goal,46,46,1.0
+D direct,1,82108,goal,49,43,0.8775510204081632
+D direct,1,82109,goal,47,47,1.0
+D direct,1,82110,goal,47,47,1.0
+D direct,1,82111,goal,51,43,0.8431372549019608
+D direct,1,82112,goal,49,43,0.8775510204081632
+D direct,1,82113,goal,50,44,0.88
+D direct,1,82114,goal,45,43,0.9555555555555556
+D direct,1,82115,timeout,800,44,
+D direct,1,82116,timeout,800,43,
+D direct,1,82117,timeout,800,50,
+D direct,1,82118,goal,48,46,0.9583333333333334
+D direct,1,82119,goal,45,45,1.0
+D direct,1,82120,timeout,800,44,
+D direct,1,82121,goal,53,49,0.9245283018867925
+D direct,1,82122,goal,45,45,1.0
+D direct,1,82123,goal,43,43,1.0
+D direct,1,82124,timeout,800,48,
+D direct,1,82125,timeout,800,43,
+D direct,1,82126,goal,52,46,0.8846153846153846
+D direct,1,82127,timeout,800,43,
+D direct,1,82128,timeout,800,43,
+D direct,1,82129,goal,43,43,1.0
+D direct,1,82130,goal,43,43,1.0
+D direct,1,82131,goal,43,43,1.0
+D direct,1,82132,timeout,800,44,
+D direct,1,82133,goal,55,51,0.9272727272727272
+D direct,1,82134,goal,57,45,0.7894736842105263
+D direct,1,82135,goal,53,49,0.9245283018867925
+D direct,1,82136,timeout,800,43,
+D direct,1,82137,timeout,800,44,
+D direct,1,82138,timeout,800,43,
+D direct,1,82139,timeout,800,45,
+D direct,1,82140,goal,51,47,0.9215686274509803
+D direct,1,82141,timeout,800,50,
+D direct,1,82142,timeout,800,43,
+D direct,1,82143,goal,48,46,0.9583333333333334
+D direct,1,82144,goal,48,44,0.9166666666666666
+D direct,1,82145,timeout,800,45,
+D direct,1,82146,goal,57,47,0.8245614035087719
+D direct,1,82147,timeout,800,50,
+D direct,1,82148,timeout,800,44,
+D direct,1,82149,timeout,800,47,
+D direct,1,82150,goal,58,46,0.7931034482758621
+D direct,1,82151,goal,44,44,1.0
+D direct,1,82152,timeout,800,47,
+D direct,1,82153,goal,47,47,1.0
+D direct,1,82154,timeout,800,43,
+D direct,1,82155,timeout,800,56,
+D direct,1,82156,goal,50,44,0.88
+D direct,1,82157,timeout,800,45,
+D direct,1,82158,goal,47,43,0.9148936170212766
+D direct,1,82159,timeout,800,47,
+D direct,1,82160,goal,45,45,1.0
+D direct,1,82161,goal,51,43,0.8431372549019608
+D direct,1,82162,timeout,800,44,
+D direct,1,82163,timeout,800,44,
+D direct,1,82164,goal,48,44,0.9166666666666666
+D direct,1,82165,timeout,800,46,
+D direct,1,82166,timeout,800,44,
+D direct,1,82167,goal,47,45,0.9574468085106383
+D direct,1,82168,timeout,800,43,
+D direct,1,82169,goal,45,43,0.9555555555555556
+D direct,1,82170,goal,48,44,0.9166666666666666
+D direct,1,82171,timeout,800,45,
+D direct,1,82172,timeout,800,43,
+D direct,1,82173,timeout,800,45,
+D direct,1,82174,timeout,800,46,
+D direct,1,82175,goal,47,43,0.9148936170212766
+D direct,1,82176,timeout,800,44,
+D direct,1,82177,goal,48,44,0.9166666666666666
+D direct,1,82178,timeout,800,45,
+D direct,1,82179,timeout,800,47,
+D direct,1,82180,goal,51,45,0.8823529411764706
+D direct,1,82181,timeout,800,43,
+D direct,1,82182,goal,53,49,0.9245283018867925
+D direct,1,82183,goal,48,48,1.0
+D direct,1,82184,timeout,800,43,
+D direct,1,82185,timeout,800,45,
+D direct,1,82186,goal,47,43,0.9148936170212766
+D direct,1,82187,timeout,800,49,
+D direct,1,82188,goal,47,43,0.9148936170212766
+D direct,1,82189,goal,45,45,1.0
+D direct,1,82190,timeout,800,44,
+D direct,1,82191,timeout,800,43,
+D direct,1,82192,timeout,800,45,
+D direct,1,82193,timeout,800,45,
+D direct,1,82194,goal,49,43,0.8775510204081632
+D direct,1,82195,timeout,800,43,
+D direct,1,82196,goal,52,44,0.8461538461538461
+D direct,1,82197,goal,46,46,1.0
+D direct,1,82198,goal,56,50,0.8928571428571429
+D direct,1,82199,timeout,800,43,
+D direct,1,82200,timeout,800,43,
+D direct,1,82201,timeout,800,44,
+D direct,1,82202,timeout,800,43,
+D direct,1,82203,timeout,800,43,
+D direct,1,82204,goal,50,50,1.0
+D direct,1,82205,goal,45,43,0.9555555555555556
+D direct,1,82206,goal,58,48,0.8275862068965517
+D direct,1,82207,timeout,800,46,
+D direct,1,82208,timeout,800,43,
+D direct,1,82209,goal,46,44,0.9565217391304348
+D direct,1,82210,timeout,800,45,
+D direct,1,82211,goal,60,44,0.7333333333333333
+D direct,1,82212,timeout,800,43,
+D direct,1,82213,timeout,800,46,
+D direct,1,82214,goal,51,43,0.8431372549019608
+D direct,1,82215,goal,56,46,0.8214285714285714
+D direct,1,82216,timeout,800,43,
+D direct,1,82217,goal,51,47,0.9215686274509803
+D direct,1,82218,goal,46,44,0.9565217391304348
+D direct,1,82219,timeout,800,49,
+D direct,1,82220,goal,45,43,0.9555555555555556
+D direct,1,82221,timeout,800,43,
+D direct,1,82222,goal,50,44,0.88
+D direct,1,82223,goal,47,43,0.9148936170212766
+D direct,1,82224,goal,45,43,0.9555555555555556
+D direct,1,82225,timeout,800,47,
+D direct,1,82226,timeout,800,46,
+D direct,1,82227,goal,45,45,1.0
+D direct,1,82228,timeout,800,49,
+D direct,1,82229,goal,52,46,0.8846153846153846
+D direct,1,82230,timeout,800,44,
+D direct,1,82231,timeout,800,43,
+D direct,1,82232,timeout,800,43,
+D direct,1,82233,goal,48,44,0.9166666666666666
+D direct,1,82234,goal,46,44,0.9565217391304348
+D direct,1,82235,timeout,800,48,
+D direct,1,82236,goal,54,50,0.9259259259259259
+D direct,1,82237,timeout,800,49,
+D direct,1,82238,timeout,800,45,
+D direct,1,82239,timeout,800,44,
+D direct,1,82240,timeout,800,46,
+D direct,1,82241,goal,43,43,1.0
+D direct,1,82242,timeout,800,47,
+D direct,1,82243,goal,47,45,0.9574468085106383
+D direct,1,82244,timeout,800,47,
+D direct,1,82245,goal,47,43,0.9148936170212766
+D direct,1,82246,goal,49,47,0.9591836734693877
+D direct,1,82247,timeout,800,46,
+D direct,1,82248,timeout,800,44,
+D direct,1,82249,timeout,800,43,
+D direct,1,82250,goal,48,44,0.9166666666666666
+D direct,1,82251,goal,53,47,0.8867924528301887
+D direct,1,82252,timeout,800,43,
+D direct,1,82253,timeout,800,44,
+D direct,1,82254,goal,47,43,0.9148936170212766
+D direct,1,82255,goal,49,43,0.8775510204081632
+D direct,1,82256,timeout,800,46,
+D direct,1,82257,goal,43,43,1.0
+D direct,1,82258,goal,47,43,0.9148936170212766
+D direct,1,82259,timeout,800,47,
+D direct,1,82260,timeout,800,43,
+D direct,1,82261,goal,47,45,0.9574468085106383
+D direct,1,82262,timeout,800,43,
+D direct,1,82263,timeout,800,43,
+D direct,1,82264,goal,50,50,1.0
+D direct,1,82265,goal,46,46,1.0
+D direct,1,82266,goal,60,44,0.7333333333333333
+D direct,1,82267,goal,48,44,0.9166666666666666
+D direct,1,82268,goal,53,45,0.8490566037735849
+D direct,1,82269,goal,52,50,0.9615384615384616
+D direct,1,82270,goal,57,43,0.7543859649122807
+D direct,1,82271,timeout,800,44,
+D direct,1,82272,timeout,800,43,
+D direct,1,82273,goal,47,43,0.9148936170212766
+D direct,1,82274,goal,44,44,1.0
+D direct,1,82275,goal,44,44,1.0
+D direct,1,82276,timeout,800,44,
+D direct,1,82277,timeout,800,43,
+D direct,1,82278,timeout,800,43,
+D direct,1,82279,timeout,800,43,
+D direct,1,82280,goal,59,45,0.7627118644067796
+D direct,1,82281,timeout,800,46,
+D direct,1,82282,goal,46,44,0.9565217391304348
+D direct,1,82283,timeout,800,44,
+D direct,1,82284,timeout,800,48,
+D direct,1,82285,goal,47,47,1.0
+D direct,1,82286,goal,51,49,0.9607843137254902
+D direct,1,82287,timeout,800,46,
+D direct,1,82288,timeout,800,45,
+D direct,1,82289,goal,53,43,0.8113207547169812
+D direct,1,82290,goal,43,43,1.0
+D direct,1,82291,goal,45,45,1.0
+D direct,1,82292,goal,47,47,1.0
+D direct,1,82293,timeout,800,45,
+D direct,1,82294,timeout,800,46,
+D direct,1,82295,timeout,800,54,
+D direct,1,82296,goal,49,43,0.8775510204081632
+D direct,1,82297,timeout,800,47,
+D direct,1,82298,goal,52,50,0.9615384615384616
+D direct,1,82299,goal,47,43,0.9148936170212766
+D direct,2,82000,timeout,800,48,
+D direct,2,82001,timeout,800,44,
+D direct,2,82002,timeout,800,44,
+D direct,2,82003,timeout,800,44,
+D direct,2,82004,goal,43,43,1.0
+D direct,2,82005,timeout,800,49,
+D direct,2,82006,timeout,800,43,
+D direct,2,82007,timeout,800,44,
+D direct,2,82008,goal,44,44,1.0
+D direct,2,82009,goal,51,51,1.0
+D direct,2,82010,timeout,800,48,
+D direct,2,82011,timeout,800,46,
+D direct,2,82012,timeout,800,43,
+D direct,2,82013,goal,45,43,0.9555555555555556
+D direct,2,82014,timeout,800,44,
+D direct,2,82015,goal,49,49,1.0
+D direct,2,82016,goal,44,44,1.0
+D direct,2,82017,timeout,800,51,
+D direct,2,82018,goal,45,43,0.9555555555555556
+D direct,2,82019,goal,44,44,1.0
+D direct,2,82020,goal,50,44,0.88
+D direct,2,82021,timeout,800,44,
+D direct,2,82022,timeout,800,43,
+D direct,2,82023,goal,44,44,1.0
+D direct,2,82024,timeout,800,47,
+D direct,2,82025,timeout,800,46,
+D direct,2,82026,goal,53,47,0.8867924528301887
+D direct,2,82027,timeout,800,43,
+D direct,2,82028,timeout,800,43,
+D direct,2,82029,goal,48,46,0.9583333333333334
+D direct,2,82030,goal,48,44,0.9166666666666666
+D direct,2,82031,timeout,800,43,
+D direct,2,82032,goal,48,44,0.9166666666666666
+D direct,2,82033,goal,46,44,0.9565217391304348
+D direct,2,82034,goal,46,44,0.9565217391304348
+D direct,2,82035,timeout,800,45,
+D direct,2,82036,goal,49,47,0.9591836734693877
+D direct,2,82037,goal,45,45,1.0
+D direct,2,82038,goal,51,49,0.9607843137254902
+D direct,2,82039,goal,46,44,0.9565217391304348
+D direct,2,82040,timeout,800,43,
+D direct,2,82041,timeout,800,45,
+D direct,2,82042,timeout,800,43,
+D direct,2,82043,goal,49,43,0.8775510204081632
+D direct,2,82044,timeout,800,51,
+D direct,2,82045,timeout,800,46,
+D direct,2,82046,goal,46,44,0.9565217391304348
+D direct,2,82047,goal,45,45,1.0
+D direct,2,82048,timeout,800,46,
+D direct,2,82049,goal,44,44,1.0
+D direct,2,82050,timeout,800,43,
+D direct,2,82051,timeout,800,46,
+D direct,2,82052,goal,47,43,0.9148936170212766
+D direct,2,82053,goal,47,43,0.9148936170212766
+D direct,2,82054,timeout,800,44,
+D direct,2,82055,timeout,800,43,
+D direct,2,82056,timeout,800,48,
+D direct,2,82057,goal,47,43,0.9148936170212766
+D direct,2,82058,timeout,800,43,
+D direct,2,82059,timeout,800,43,
+D direct,2,82060,goal,43,43,1.0
+D direct,2,82061,timeout,800,48,
+D direct,2,82062,timeout,800,50,
+D direct,2,82063,timeout,800,43,
+D direct,2,82064,goal,56,46,0.8214285714285714
+D direct,2,82065,timeout,800,43,
+D direct,2,82066,timeout,800,43,
+D direct,2,82067,goal,47,43,0.9148936170212766
+D direct,2,82068,timeout,800,45,
+D direct,2,82069,goal,44,44,1.0
+D direct,2,82070,timeout,800,46,
+D direct,2,82071,timeout,800,45,
+D direct,2,82072,goal,49,43,0.8775510204081632
+D direct,2,82073,timeout,800,43,
+D direct,2,82074,timeout,800,43,
+D direct,2,82075,goal,43,43,1.0
+D direct,2,82076,timeout,800,44,
+D direct,2,82077,goal,44,44,1.0
+D direct,2,82078,timeout,800,43,
+D direct,2,82079,timeout,800,43,
+D direct,2,82080,timeout,800,43,
+D direct,2,82081,goal,43,43,1.0
+D direct,2,82082,timeout,800,47,
+D direct,2,82083,goal,43,43,1.0
+D direct,2,82084,goal,45,43,0.9555555555555556
+D direct,2,82085,timeout,800,44,
+D direct,2,82086,goal,49,49,1.0
+D direct,2,82087,goal,56,54,0.9642857142857143
+D direct,2,82088,timeout,800,47,
+D direct,2,82089,goal,46,46,1.0
+D direct,2,82090,goal,45,43,0.9555555555555556
+D direct,2,82091,timeout,800,44,
+D direct,2,82092,goal,46,44,0.9565217391304348
+D direct,2,82093,goal,47,43,0.9148936170212766
+D direct,2,82094,goal,58,58,1.0
+D direct,2,82095,goal,50,44,0.88
+D direct,2,82096,timeout,800,45,
+D direct,2,82097,timeout,800,44,
+D direct,2,82098,timeout,800,44,
+D direct,2,82099,timeout,800,47,
+D direct,2,82100,goal,45,43,0.9555555555555556
+D direct,2,82101,goal,43,43,1.0
+D direct,2,82102,goal,45,45,1.0
+D direct,2,82103,timeout,800,44,
+D direct,2,82104,timeout,800,45,
+D direct,2,82105,timeout,800,43,
+D direct,2,82106,goal,44,44,1.0
+D direct,2,82107,goal,50,46,0.92
+D direct,2,82108,goal,43,43,1.0
+D direct,2,82109,goal,47,47,1.0
+D direct,2,82110,timeout,800,47,
+D direct,2,82111,goal,45,43,0.9555555555555556
+D direct,2,82112,goal,45,43,0.9555555555555556
+D direct,2,82113,timeout,800,44,
+D direct,2,82114,goal,43,43,1.0
+D direct,2,82115,timeout,800,44,
+D direct,2,82116,timeout,800,43,
+D direct,2,82117,timeout,800,50,
+D direct,2,82118,timeout,800,46,
+D direct,2,82119,goal,45,45,1.0
+D direct,2,82120,timeout,800,44,
+D direct,2,82121,goal,49,49,1.0
+D direct,2,82122,goal,47,45,0.9574468085106383
+D direct,2,82123,goal,43,43,1.0
+D direct,2,82124,timeout,800,48,
+D direct,2,82125,timeout,800,43,
+D direct,2,82126,timeout,800,46,
+D direct,2,82127,goal,51,43,0.8431372549019608
+D direct,2,82128,timeout,800,43,
+D direct,2,82129,timeout,800,43,
+D direct,2,82130,timeout,800,43,
+D direct,2,82131,timeout,800,43,
+D direct,2,82132,timeout,800,44,
+D direct,2,82133,goal,51,51,1.0
+D direct,2,82134,goal,45,45,1.0
+D direct,2,82135,goal,49,49,1.0
+D direct,2,82136,timeout,800,43,
+D direct,2,82137,goal,44,44,1.0
+D direct,2,82138,goal,55,43,0.7818181818181819
+D direct,2,82139,goal,47,45,0.9574468085106383
+D direct,2,82140,goal,47,47,1.0
+D direct,2,82141,timeout,800,50,
+D direct,2,82142,goal,47,43,0.9148936170212766
+D direct,2,82143,timeout,800,46,
+D direct,2,82144,goal,48,44,0.9166666666666666
+D direct,2,82145,goal,45,45,1.0
+D direct,2,82146,goal,47,47,1.0
+D direct,2,82147,timeout,800,50,
+D direct,2,82148,goal,54,44,0.8148148148148148
+D direct,2,82149,timeout,800,47,
+D direct,2,82150,goal,48,46,0.9583333333333334
+D direct,2,82151,goal,46,44,0.9565217391304348
+D direct,2,82152,timeout,800,47,
+D direct,2,82153,timeout,800,47,
+D direct,2,82154,goal,43,43,1.0
+D direct,2,82155,timeout,800,56,
+D direct,2,82156,timeout,800,44,
+D direct,2,82157,goal,47,45,0.9574468085106383
+D direct,2,82158,timeout,800,43,
+D direct,2,82159,timeout,800,47,
+D direct,2,82160,goal,47,45,0.9574468085106383
+D direct,2,82161,goal,51,43,0.8431372549019608
+D direct,2,82162,goal,46,44,0.9565217391304348
+D direct,2,82163,timeout,800,44,
+D direct,2,82164,goal,44,44,1.0
+D direct,2,82165,timeout,800,46,
+D direct,2,82166,goal,48,44,0.9166666666666666
+D direct,2,82167,timeout,800,45,
+D direct,2,82168,goal,49,43,0.8775510204081632
+D direct,2,82169,goal,43,43,1.0
+D direct,2,82170,goal,44,44,1.0
+D direct,2,82171,timeout,800,45,
+D direct,2,82172,goal,45,43,0.9555555555555556
+D direct,2,82173,goal,51,45,0.8823529411764706
+D direct,2,82174,goal,54,46,0.8518518518518519
+D direct,2,82175,goal,45,43,0.9555555555555556
+D direct,2,82176,timeout,800,44,
+D direct,2,82177,goal,46,44,0.9565217391304348
+D direct,2,82178,goal,47,45,0.9574468085106383
+D direct,2,82179,goal,47,47,1.0
+D direct,2,82180,timeout,800,45,
+D direct,2,82181,goal,43,43,1.0
+D direct,2,82182,goal,49,49,1.0
+D direct,2,82183,goal,48,48,1.0
+D direct,2,82184,goal,45,43,0.9555555555555556
+D direct,2,82185,timeout,800,45,
+D direct,2,82186,goal,45,43,0.9555555555555556
+D direct,2,82187,timeout,800,49,
+D direct,2,82188,goal,45,43,0.9555555555555556
+D direct,2,82189,timeout,800,45,
+D direct,2,82190,timeout,800,44,
+D direct,2,82191,goal,43,43,1.0
+D direct,2,82192,goal,47,45,0.9574468085106383
+D direct,2,82193,timeout,800,45,
+D direct,2,82194,timeout,800,43,
+D direct,2,82195,goal,43,43,1.0
+D direct,2,82196,goal,50,44,0.88
+D direct,2,82197,goal,46,46,1.0
+D direct,2,82198,goal,52,50,0.9615384615384616
+D direct,2,82199,goal,45,43,0.9555555555555556
+D direct,2,82200,timeout,800,43,
+D direct,2,82201,timeout,800,44,
+D direct,2,82202,timeout,800,43,
+D direct,2,82203,timeout,800,43,
+D direct,2,82204,timeout,800,50,
+D direct,2,82205,goal,43,43,1.0
+D direct,2,82206,timeout,800,48,
+D direct,2,82207,goal,52,46,0.8846153846153846
+D direct,2,82208,goal,45,43,0.9555555555555556
+D direct,2,82209,goal,44,44,1.0
+D direct,2,82210,timeout,800,45,
+D direct,2,82211,goal,48,44,0.9166666666666666
+D direct,2,82212,goal,43,43,1.0
+D direct,2,82213,timeout,800,46,
+D direct,2,82214,goal,49,43,0.8775510204081632
+D direct,2,82215,timeout,800,46,
+D direct,2,82216,goal,45,43,0.9555555555555556
+D direct,2,82217,timeout,800,47,
+D direct,2,82218,timeout,800,44,
+D direct,2,82219,goal,55,49,0.8909090909090909
+D direct,2,82220,goal,45,43,0.9555555555555556
+D direct,2,82221,timeout,800,43,
+D direct,2,82222,timeout,800,44,
+D direct,2,82223,timeout,800,43,
+D direct,2,82224,goal,43,43,1.0
+D direct,2,82225,goal,49,47,0.9591836734693877
+D direct,2,82226,timeout,800,46,
+D direct,2,82227,goal,57,45,0.7894736842105263
+D direct,2,82228,timeout,800,49,
+D direct,2,82229,timeout,800,46,
+D direct,2,82230,timeout,800,44,
+D direct,2,82231,goal,47,43,0.9148936170212766
+D direct,2,82232,goal,49,43,0.8775510204081632
+D direct,2,82233,timeout,800,44,
+D direct,2,82234,timeout,800,44,
+D direct,2,82235,timeout,800,48,
+D direct,2,82236,goal,54,50,0.9259259259259259
+D direct,2,82237,timeout,800,49,
+D direct,2,82238,goal,49,45,0.9183673469387755
+D direct,2,82239,goal,48,44,0.9166666666666666
+D direct,2,82240,timeout,800,46,
+D direct,2,82241,goal,45,43,0.9555555555555556
+D direct,2,82242,timeout,800,47,
+D direct,2,82243,goal,55,45,0.8181818181818182
+D direct,2,82244,timeout,800,47,
+D direct,2,82245,goal,45,43,0.9555555555555556
+D direct,2,82246,goal,47,47,1.0
+D direct,2,82247,timeout,800,46,
+D direct,2,82248,timeout,800,44,
+D direct,2,82249,goal,43,43,1.0
+D direct,2,82250,goal,44,44,1.0
+D direct,2,82251,goal,49,47,0.9591836734693877
+D direct,2,82252,timeout,800,43,
+D direct,2,82253,timeout,800,44,
+D direct,2,82254,goal,51,43,0.8431372549019608
+D direct,2,82255,timeout,800,43,
+D direct,2,82256,timeout,800,46,
+D direct,2,82257,timeout,800,43,
+D direct,2,82258,goal,45,43,0.9555555555555556
+D direct,2,82259,goal,47,47,1.0
+D direct,2,82260,goal,53,43,0.8113207547169812
+D direct,2,82261,goal,45,45,1.0
+D direct,2,82262,timeout,800,43,
+D direct,2,82263,goal,45,43,0.9555555555555556
+D direct,2,82264,goal,50,50,1.0
+D direct,2,82265,timeout,800,46,
+D direct,2,82266,goal,54,44,0.8148148148148148
+D direct,2,82267,timeout,800,44,
+D direct,2,82268,goal,47,45,0.9574468085106383
+D direct,2,82269,goal,54,50,0.9259259259259259
+D direct,2,82270,goal,49,43,0.8775510204081632
+D direct,2,82271,goal,44,44,1.0
+D direct,2,82272,goal,43,43,1.0
+D direct,2,82273,goal,47,43,0.9148936170212766
+D direct,2,82274,goal,44,44,1.0
+D direct,2,82275,goal,44,44,1.0
+D direct,2,82276,goal,48,44,0.9166666666666666
+D direct,2,82277,goal,45,43,0.9555555555555556
+D direct,2,82278,timeout,800,43,
+D direct,2,82279,timeout,800,43,
+D direct,2,82280,timeout,800,45,
+D direct,2,82281,goal,50,46,0.92
+D direct,2,82282,goal,50,44,0.88
+D direct,2,82283,timeout,800,44,
+D direct,2,82284,goal,48,48,1.0
+D direct,2,82285,timeout,800,47,
+D direct,2,82286,goal,55,49,0.8909090909090909
+D direct,2,82287,goal,46,46,1.0
+D direct,2,82288,goal,45,45,1.0
+D direct,2,82289,timeout,800,43,
+D direct,2,82290,goal,45,43,0.9555555555555556
+D direct,2,82291,timeout,800,45,
+D direct,2,82292,goal,51,47,0.9215686274509803
+D direct,2,82293,timeout,800,45,
+D direct,2,82294,timeout,800,46,
+D direct,2,82295,timeout,800,54,
+D direct,2,82296,goal,43,43,1.0
+D direct,2,82297,goal,47,47,1.0
+D direct,2,82298,goal,50,50,1.0
+D direct,2,82299,goal,43,43,1.0
+K curriculum,0,82000,goal,48,48,1.0
+K curriculum,0,82001,timeout,800,44,
+K curriculum,0,82002,timeout,800,44,
+K curriculum,0,82003,goal,50,44,0.88
+K curriculum,0,82004,goal,43,43,1.0
+K curriculum,0,82005,timeout,800,49,
+K curriculum,0,82006,timeout,800,43,
+K curriculum,0,82007,goal,52,44,0.8461538461538461
+K curriculum,0,82008,goal,46,44,0.9565217391304348
+K curriculum,0,82009,goal,51,51,1.0
+K curriculum,0,82010,timeout,800,48,
+K curriculum,0,82011,goal,46,46,1.0
+K curriculum,0,82012,timeout,800,43,
+K curriculum,0,82013,goal,43,43,1.0
+K curriculum,0,82014,goal,46,44,0.9565217391304348
+K curriculum,0,82015,goal,55,49,0.8909090909090909
+K curriculum,0,82016,goal,46,44,0.9565217391304348
+K curriculum,0,82017,timeout,800,51,
+K curriculum,0,82018,goal,43,43,1.0
+K curriculum,0,82019,goal,44,44,1.0
+K curriculum,0,82020,timeout,800,44,
+K curriculum,0,82021,goal,46,44,0.9565217391304348
+K curriculum,0,82022,timeout,800,43,
+K curriculum,0,82023,goal,46,44,0.9565217391304348
+K curriculum,0,82024,timeout,800,47,
+K curriculum,0,82025,goal,50,46,0.92
+K curriculum,0,82026,goal,47,47,1.0
+K curriculum,0,82027,goal,47,43,0.9148936170212766
+K curriculum,0,82028,timeout,800,43,
+K curriculum,0,82029,timeout,800,46,
+K curriculum,0,82030,goal,44,44,1.0
+K curriculum,0,82031,timeout,800,43,
+K curriculum,0,82032,goal,44,44,1.0
+K curriculum,0,82033,goal,44,44,1.0
+K curriculum,0,82034,timeout,800,44,
+K curriculum,0,82035,goal,45,45,1.0
+K curriculum,0,82036,goal,51,47,0.9215686274509803
+K curriculum,0,82037,goal,47,45,0.9574468085106383
+K curriculum,0,82038,goal,53,49,0.9245283018867925
+K curriculum,0,82039,goal,46,44,0.9565217391304348
+K curriculum,0,82040,timeout,800,43,
+K curriculum,0,82041,goal,47,45,0.9574468085106383
+K curriculum,0,82042,goal,43,43,1.0
+K curriculum,0,82043,goal,45,43,0.9555555555555556
+K curriculum,0,82044,timeout,800,51,
+K curriculum,0,82045,timeout,800,46,
+K curriculum,0,82046,goal,48,44,0.9166666666666666
+K curriculum,0,82047,goal,47,45,0.9574468085106383
+K curriculum,0,82048,timeout,800,46,
+K curriculum,0,82049,goal,44,44,1.0
+K curriculum,0,82050,timeout,800,43,
+K curriculum,0,82051,timeout,800,46,
+K curriculum,0,82052,goal,45,43,0.9555555555555556
+K curriculum,0,82053,goal,45,43,0.9555555555555556
+K curriculum,0,82054,timeout,800,44,
+K curriculum,0,82055,timeout,800,43,
+K curriculum,0,82056,timeout,800,48,
+K curriculum,0,82057,goal,43,43,1.0
+K curriculum,0,82058,timeout,800,43,
+K curriculum,0,82059,timeout,800,43,
+K curriculum,0,82060,timeout,800,43,
+K curriculum,0,82061,goal,48,48,1.0
+K curriculum,0,82062,timeout,800,50,
+K curriculum,0,82063,timeout,800,43,
+K curriculum,0,82064,goal,48,46,0.9583333333333334
+K curriculum,0,82065,goal,43,43,1.0
+K curriculum,0,82066,goal,43,43,1.0
+K curriculum,0,82067,timeout,800,43,
+K curriculum,0,82068,goal,45,45,1.0
+K curriculum,0,82069,goal,48,44,0.9166666666666666
+K curriculum,0,82070,timeout,800,46,
+K curriculum,0,82071,goal,45,45,1.0
+K curriculum,0,82072,goal,49,43,0.8775510204081632
+K curriculum,0,82073,timeout,800,43,
+K curriculum,0,82074,goal,43,43,1.0
+K curriculum,0,82075,goal,43,43,1.0
+K curriculum,0,82076,goal,48,44,0.9166666666666666
+K curriculum,0,82077,goal,46,44,0.9565217391304348
+K curriculum,0,82078,timeout,800,43,
+K curriculum,0,82079,goal,43,43,1.0
+K curriculum,0,82080,timeout,800,43,
+K curriculum,0,82081,goal,47,43,0.9148936170212766
+K curriculum,0,82082,timeout,800,47,
+K curriculum,0,82083,goal,45,43,0.9555555555555556
+K curriculum,0,82084,goal,43,43,1.0
+K curriculum,0,82085,timeout,800,44,
+K curriculum,0,82086,goal,51,49,0.9607843137254902
+K curriculum,0,82087,timeout,800,54,
+K curriculum,0,82088,goal,47,47,1.0
+K curriculum,0,82089,goal,46,46,1.0
+K curriculum,0,82090,timeout,800,43,
+K curriculum,0,82091,goal,48,44,0.9166666666666666
+K curriculum,0,82092,goal,48,44,0.9166666666666666
+K curriculum,0,82093,goal,45,43,0.9555555555555556
+K curriculum,0,82094,goal,64,58,0.90625
+K curriculum,0,82095,timeout,800,44,
+K curriculum,0,82096,timeout,800,45,
+K curriculum,0,82097,goal,44,44,1.0
+K curriculum,0,82098,timeout,800,44,
+K curriculum,0,82099,goal,49,47,0.9591836734693877
+K curriculum,0,82100,goal,47,43,0.9148936170212766
+K curriculum,0,82101,goal,45,43,0.9555555555555556
+K curriculum,0,82102,goal,45,45,1.0
+K curriculum,0,82103,timeout,800,44,
+K curriculum,0,82104,goal,49,45,0.9183673469387755
+K curriculum,0,82105,timeout,800,43,
+K curriculum,0,82106,goal,44,44,1.0
+K curriculum,0,82107,goal,46,46,1.0
+K curriculum,0,82108,timeout,800,43,
+K curriculum,0,82109,goal,49,47,0.9591836734693877
+K curriculum,0,82110,goal,47,47,1.0
+K curriculum,0,82111,goal,47,43,0.9148936170212766
+K curriculum,0,82112,goal,43,43,1.0
+K curriculum,0,82113,goal,44,44,1.0
+K curriculum,0,82114,goal,49,43,0.8775510204081632
+K curriculum,0,82115,timeout,800,44,
+K curriculum,0,82116,goal,47,43,0.9148936170212766
+K curriculum,0,82117,goal,50,50,1.0
+K curriculum,0,82118,goal,46,46,1.0
+K curriculum,0,82119,goal,47,45,0.9574468085106383
+K curriculum,0,82120,goal,44,44,1.0
+K curriculum,0,82121,goal,49,49,1.0
+K curriculum,0,82122,timeout,800,45,
+K curriculum,0,82123,timeout,800,43,
+K curriculum,0,82124,timeout,800,48,
+K curriculum,0,82125,timeout,800,43,
+K curriculum,0,82126,goal,52,46,0.8846153846153846
+K curriculum,0,82127,goal,43,43,1.0
+K curriculum,0,82128,goal,43,43,1.0
+K curriculum,0,82129,timeout,800,43,
+K curriculum,0,82130,timeout,800,43,
+K curriculum,0,82131,timeout,800,43,
+K curriculum,0,82132,goal,44,44,1.0
+K curriculum,0,82133,goal,51,51,1.0
+K curriculum,0,82134,goal,45,45,1.0
+K curriculum,0,82135,goal,49,49,1.0
+K curriculum,0,82136,goal,43,43,1.0
+K curriculum,0,82137,goal,44,44,1.0
+K curriculum,0,82138,goal,49,43,0.8775510204081632
+K curriculum,0,82139,timeout,800,45,
+K curriculum,0,82140,goal,51,47,0.9215686274509803
+K curriculum,0,82141,timeout,800,50,
+K curriculum,0,82142,goal,43,43,1.0
+K curriculum,0,82143,timeout,800,46,
+K curriculum,0,82144,goal,44,44,1.0
+K curriculum,0,82145,timeout,800,45,
+K curriculum,0,82146,timeout,800,47,
+K curriculum,0,82147,timeout,800,50,
+K curriculum,0,82148,goal,44,44,1.0
+K curriculum,0,82149,goal,47,47,1.0
+K curriculum,0,82150,timeout,800,46,
+K curriculum,0,82151,goal,50,44,0.88
+K curriculum,0,82152,goal,51,47,0.9215686274509803
+K curriculum,0,82153,timeout,800,47,
+K curriculum,0,82154,timeout,800,43,
+K curriculum,0,82155,timeout,800,56,
+K curriculum,0,82156,goal,44,44,1.0
+K curriculum,0,82157,goal,49,45,0.9183673469387755
+K curriculum,0,82158,goal,43,43,1.0
+K curriculum,0,82159,timeout,800,47,
+K curriculum,0,82160,timeout,800,45,
+K curriculum,0,82161,goal,45,43,0.9555555555555556
+K curriculum,0,82162,timeout,800,44,
+K curriculum,0,82163,timeout,800,44,
+K curriculum,0,82164,goal,44,44,1.0
+K curriculum,0,82165,goal,48,46,0.9583333333333334
+K curriculum,0,82166,goal,44,44,1.0
+K curriculum,0,82167,timeout,800,45,
+K curriculum,0,82168,goal,43,43,1.0
+K curriculum,0,82169,goal,45,43,0.9555555555555556
+K curriculum,0,82170,goal,46,44,0.9565217391304348
+K curriculum,0,82171,timeout,800,45,
+K curriculum,0,82172,goal,43,43,1.0
+K curriculum,0,82173,goal,49,45,0.9183673469387755
+K curriculum,0,82174,timeout,800,46,
+K curriculum,0,82175,goal,43,43,1.0
+K curriculum,0,82176,goal,52,44,0.8461538461538461
+K curriculum,0,82177,goal,48,44,0.9166666666666666
+K curriculum,0,82178,goal,47,45,0.9574468085106383
+K curriculum,0,82179,timeout,800,47,
+K curriculum,0,82180,goal,51,45,0.8823529411764706
+K curriculum,0,82181,goal,43,43,1.0
+K curriculum,0,82182,timeout,800,49,
+K curriculum,0,82183,goal,50,48,0.96
+K curriculum,0,82184,goal,43,43,1.0
+K curriculum,0,82185,goal,55,45,0.8181818181818182
+K curriculum,0,82186,goal,47,43,0.9148936170212766
+K curriculum,0,82187,timeout,800,49,
+K curriculum,0,82188,goal,43,43,1.0
+K curriculum,0,82189,goal,47,45,0.9574468085106383
+K curriculum,0,82190,timeout,800,44,
+K curriculum,0,82191,goal,47,43,0.9148936170212766
+K curriculum,0,82192,goal,47,45,0.9574468085106383
+K curriculum,0,82193,timeout,800,45,
+K curriculum,0,82194,goal,45,43,0.9555555555555556
+K curriculum,0,82195,goal,43,43,1.0
+K curriculum,0,82196,timeout,800,44,
+K curriculum,0,82197,goal,46,46,1.0
+K curriculum,0,82198,goal,50,50,1.0
+K curriculum,0,82199,goal,43,43,1.0
+K curriculum,0,82200,goal,45,43,0.9555555555555556
+K curriculum,0,82201,goal,44,44,1.0
+K curriculum,0,82202,timeout,800,43,
+K curriculum,0,82203,goal,43,43,1.0
+K curriculum,0,82204,timeout,800,50,
+K curriculum,0,82205,goal,45,43,0.9555555555555556
+K curriculum,0,82206,timeout,800,48,
+K curriculum,0,82207,goal,46,46,1.0
+K curriculum,0,82208,goal,47,43,0.9148936170212766
+K curriculum,0,82209,timeout,800,44,
+K curriculum,0,82210,timeout,800,45,
+K curriculum,0,82211,goal,46,44,0.9565217391304348
+K curriculum,0,82212,goal,47,43,0.9148936170212766
+K curriculum,0,82213,timeout,800,46,
+K curriculum,0,82214,goal,49,43,0.8775510204081632
+K curriculum,0,82215,goal,46,46,1.0
+K curriculum,0,82216,goal,43,43,1.0
+K curriculum,0,82217,goal,49,47,0.9591836734693877
+K curriculum,0,82218,timeout,800,44,
+K curriculum,0,82219,goal,51,49,0.9607843137254902
+K curriculum,0,82220,goal,45,43,0.9555555555555556
+K curriculum,0,82221,timeout,800,43,
+K curriculum,0,82222,timeout,800,44,
+K curriculum,0,82223,goal,47,43,0.9148936170212766
+K curriculum,0,82224,goal,43,43,1.0
+K curriculum,0,82225,goal,55,47,0.8545454545454545
+K curriculum,0,82226,timeout,800,46,
+K curriculum,0,82227,goal,45,45,1.0
+K curriculum,0,82228,timeout,800,49,
+K curriculum,0,82229,goal,48,46,0.9583333333333334
+K curriculum,0,82230,timeout,800,44,
+K curriculum,0,82231,goal,49,43,0.8775510204081632
+K curriculum,0,82232,timeout,800,43,
+K curriculum,0,82233,goal,44,44,1.0
+K curriculum,0,82234,goal,46,44,0.9565217391304348
+K curriculum,0,82235,timeout,800,48,
+K curriculum,0,82236,goal,50,50,1.0
+K curriculum,0,82237,goal,49,49,1.0
+K curriculum,0,82238,goal,45,45,1.0
+K curriculum,0,82239,goal,46,44,0.9565217391304348
+K curriculum,0,82240,goal,52,46,0.8846153846153846
+K curriculum,0,82241,timeout,800,43,
+K curriculum,0,82242,timeout,800,47,
+K curriculum,0,82243,goal,47,45,0.9574468085106383
+K curriculum,0,82244,timeout,800,47,
+K curriculum,0,82245,goal,43,43,1.0
+K curriculum,0,82246,goal,47,47,1.0
+K curriculum,0,82247,timeout,800,46,
+K curriculum,0,82248,goal,44,44,1.0
+K curriculum,0,82249,goal,43,43,1.0
+K curriculum,0,82250,timeout,800,44,
+K curriculum,0,82251,goal,47,47,1.0
+K curriculum,0,82252,goal,43,43,1.0
+K curriculum,0,82253,goal,46,44,0.9565217391304348
+K curriculum,0,82254,goal,45,43,0.9555555555555556
+K curriculum,0,82255,goal,45,43,0.9555555555555556
+K curriculum,0,82256,goal,48,46,0.9583333333333334
+K curriculum,0,82257,goal,45,43,0.9555555555555556
+K curriculum,0,82258,goal,47,43,0.9148936170212766
+K curriculum,0,82259,goal,47,47,1.0
+K curriculum,0,82260,timeout,800,43,
+K curriculum,0,82261,timeout,800,45,
+K curriculum,0,82262,timeout,800,43,
+K curriculum,0,82263,timeout,800,43,
+K curriculum,0,82264,goal,50,50,1.0
+K curriculum,0,82265,timeout,800,46,
+K curriculum,0,82266,goal,46,44,0.9565217391304348
+K curriculum,0,82267,goal,48,44,0.9166666666666666
+K curriculum,0,82268,goal,45,45,1.0
+K curriculum,0,82269,goal,56,50,0.8928571428571429
+K curriculum,0,82270,goal,45,43,0.9555555555555556
+K curriculum,0,82271,goal,46,44,0.9565217391304348
+K curriculum,0,82272,goal,45,43,0.9555555555555556
+K curriculum,0,82273,goal,43,43,1.0
+K curriculum,0,82274,goal,50,44,0.88
+K curriculum,0,82275,goal,44,44,1.0
+K curriculum,0,82276,goal,54,44,0.8148148148148148
+K curriculum,0,82277,goal,43,43,1.0
+K curriculum,0,82278,goal,47,43,0.9148936170212766
+K curriculum,0,82279,timeout,800,43,
+K curriculum,0,82280,goal,47,45,0.9574468085106383
+K curriculum,0,82281,timeout,800,46,
+K curriculum,0,82282,goal,50,44,0.88
+K curriculum,0,82283,timeout,800,44,
+K curriculum,0,82284,timeout,800,48,
+K curriculum,0,82285,timeout,800,47,
+K curriculum,0,82286,timeout,800,49,
+K curriculum,0,82287,goal,46,46,1.0
+K curriculum,0,82288,goal,45,45,1.0
+K curriculum,0,82289,goal,47,43,0.9148936170212766
+K curriculum,0,82290,goal,47,43,0.9148936170212766
+K curriculum,0,82291,goal,45,45,1.0
+K curriculum,0,82292,goal,51,47,0.9215686274509803
+K curriculum,0,82293,goal,45,45,1.0
+K curriculum,0,82294,timeout,800,46,
+K curriculum,0,82295,timeout,800,54,
+K curriculum,0,82296,timeout,800,43,
+K curriculum,0,82297,goal,51,47,0.9215686274509803
+K curriculum,0,82298,goal,52,50,0.9615384615384616
+K curriculum,0,82299,goal,47,43,0.9148936170212766
+K curriculum,1,82000,timeout,800,48,
+K curriculum,1,82001,timeout,800,44,
+K curriculum,1,82002,timeout,800,44,
+K curriculum,1,82003,timeout,800,44,
+K curriculum,1,82004,timeout,800,43,
+K curriculum,1,82005,timeout,800,49,
+K curriculum,1,82006,goal,45,43,0.9555555555555556
+K curriculum,1,82007,timeout,800,44,
+K curriculum,1,82008,goal,46,44,0.9565217391304348
+K curriculum,1,82009,goal,51,51,1.0
+K curriculum,1,82010,timeout,800,48,
+K curriculum,1,82011,goal,50,46,0.92
+K curriculum,1,82012,timeout,800,43,
+K curriculum,1,82013,timeout,800,43,
+K curriculum,1,82014,timeout,800,44,
+K curriculum,1,82015,goal,51,49,0.9607843137254902
+K curriculum,1,82016,timeout,800,44,
+K curriculum,1,82017,goal,53,51,0.9622641509433962
+K curriculum,1,82018,timeout,800,43,
+K curriculum,1,82019,goal,44,44,1.0
+K curriculum,1,82020,goal,50,44,0.88
+K curriculum,1,82021,timeout,800,44,
+K curriculum,1,82022,timeout,800,43,
+K curriculum,1,82023,goal,48,44,0.9166666666666666
+K curriculum,1,82024,timeout,800,47,
+K curriculum,1,82025,goal,54,46,0.8518518518518519
+K curriculum,1,82026,goal,51,47,0.9215686274509803
+K curriculum,1,82027,goal,49,43,0.8775510204081632
+K curriculum,1,82028,goal,47,43,0.9148936170212766
+K curriculum,1,82029,goal,64,46,0.71875
+K curriculum,1,82030,goal,44,44,1.0
+K curriculum,1,82031,timeout,800,43,
+K curriculum,1,82032,goal,44,44,1.0
+K curriculum,1,82033,goal,44,44,1.0
+K curriculum,1,82034,goal,44,44,1.0
+K curriculum,1,82035,timeout,800,45,
+K curriculum,1,82036,goal,53,47,0.8867924528301887
+K curriculum,1,82037,goal,53,45,0.8490566037735849
+K curriculum,1,82038,timeout,800,49,
+K curriculum,1,82039,goal,44,44,1.0
+K curriculum,1,82040,timeout,800,43,
+K curriculum,1,82041,timeout,800,45,
+K curriculum,1,82042,timeout,800,43,
+K curriculum,1,82043,goal,43,43,1.0
+K curriculum,1,82044,timeout,800,51,
+K curriculum,1,82045,timeout,800,46,
+K curriculum,1,82046,goal,50,44,0.88
+K curriculum,1,82047,goal,57,45,0.7894736842105263
+K curriculum,1,82048,timeout,800,46,
+K curriculum,1,82049,goal,44,44,1.0
+K curriculum,1,82050,goal,47,43,0.9148936170212766
+K curriculum,1,82051,goal,54,46,0.8518518518518519
+K curriculum,1,82052,goal,49,43,0.8775510204081632
+K curriculum,1,82053,goal,49,43,0.8775510204081632
+K curriculum,1,82054,timeout,800,44,
+K curriculum,1,82055,timeout,800,43,
+K curriculum,1,82056,goal,62,48,0.7741935483870968
+K curriculum,1,82057,goal,49,43,0.8775510204081632
+K curriculum,1,82058,goal,47,43,0.9148936170212766
+K curriculum,1,82059,goal,45,43,0.9555555555555556
+K curriculum,1,82060,goal,43,43,1.0
+K curriculum,1,82061,timeout,800,48,
+K curriculum,1,82062,timeout,800,50,
+K curriculum,1,82063,timeout,800,43,
+K curriculum,1,82064,goal,56,46,0.8214285714285714
+K curriculum,1,82065,goal,43,43,1.0
+K curriculum,1,82066,goal,47,43,0.9148936170212766
+K curriculum,1,82067,timeout,800,43,
+K curriculum,1,82068,goal,45,45,1.0
+K curriculum,1,82069,goal,48,44,0.9166666666666666
+K curriculum,1,82070,goal,52,46,0.8846153846153846
+K curriculum,1,82071,goal,45,45,1.0
+K curriculum,1,82072,goal,43,43,1.0
+K curriculum,1,82073,timeout,800,43,
+K curriculum,1,82074,timeout,800,43,
+K curriculum,1,82075,goal,43,43,1.0
+K curriculum,1,82076,goal,44,44,1.0
+K curriculum,1,82077,goal,46,44,0.9565217391304348
+K curriculum,1,82078,timeout,800,43,
+K curriculum,1,82079,goal,43,43,1.0
+K curriculum,1,82080,timeout,800,43,
+K curriculum,1,82081,goal,43,43,1.0
+K curriculum,1,82082,timeout,800,47,
+K curriculum,1,82083,goal,43,43,1.0
+K curriculum,1,82084,goal,45,43,0.9555555555555556
+K curriculum,1,82085,timeout,800,44,
+K curriculum,1,82086,timeout,800,49,
+K curriculum,1,82087,timeout,800,54,
+K curriculum,1,82088,goal,49,47,0.9591836734693877
+K curriculum,1,82089,goal,46,46,1.0
+K curriculum,1,82090,timeout,800,43,
+K curriculum,1,82091,timeout,800,44,
+K curriculum,1,82092,timeout,800,44,
+K curriculum,1,82093,timeout,800,43,
+K curriculum,1,82094,goal,60,58,0.9666666666666667
+K curriculum,1,82095,goal,44,44,1.0
+K curriculum,1,82096,timeout,800,45,
+K curriculum,1,82097,timeout,800,44,
+K curriculum,1,82098,timeout,800,44,
+K curriculum,1,82099,timeout,800,47,
+K curriculum,1,82100,goal,47,43,0.9148936170212766
+K curriculum,1,82101,timeout,800,43,
+K curriculum,1,82102,timeout,800,45,
+K curriculum,1,82103,timeout,800,44,
+K curriculum,1,82104,goal,51,45,0.8823529411764706
+K curriculum,1,82105,timeout,800,43,
+K curriculum,1,82106,goal,56,44,0.7857142857142857
+K curriculum,1,82107,goal,52,46,0.8846153846153846
+K curriculum,1,82108,goal,55,43,0.7818181818181819
+K curriculum,1,82109,goal,47,47,1.0
+K curriculum,1,82110,timeout,800,47,
+K curriculum,1,82111,goal,47,43,0.9148936170212766
+K curriculum,1,82112,goal,49,43,0.8775510204081632
+K curriculum,1,82113,timeout,800,44,
+K curriculum,1,82114,goal,43,43,1.0
+K curriculum,1,82115,timeout,800,44,
+K curriculum,1,82116,goal,47,43,0.9148936170212766
+K curriculum,1,82117,goal,54,50,0.9259259259259259
+K curriculum,1,82118,goal,50,46,0.92
+K curriculum,1,82119,goal,47,45,0.9574468085106383
+K curriculum,1,82120,goal,44,44,1.0
+K curriculum,1,82121,goal,49,49,1.0
+K curriculum,1,82122,goal,45,45,1.0
+K curriculum,1,82123,timeout,800,43,
+K curriculum,1,82124,goal,48,48,1.0
+K curriculum,1,82125,timeout,800,43,
+K curriculum,1,82126,goal,52,46,0.8846153846153846
+K curriculum,1,82127,goal,45,43,0.9555555555555556
+K curriculum,1,82128,goal,47,43,0.9148936170212766
+K curriculum,1,82129,timeout,800,43,
+K curriculum,1,82130,timeout,800,43,
+K curriculum,1,82131,goal,43,43,1.0
+K curriculum,1,82132,timeout,800,44,
+K curriculum,1,82133,goal,51,51,1.0
+K curriculum,1,82134,timeout,800,45,
+K curriculum,1,82135,goal,53,49,0.9245283018867925
+K curriculum,1,82136,timeout,800,43,
+K curriculum,1,82137,timeout,800,44,
+K curriculum,1,82138,goal,53,43,0.8113207547169812
+K curriculum,1,82139,goal,55,45,0.8181818181818182
+K curriculum,1,82140,timeout,800,47,
+K curriculum,1,82141,timeout,800,50,
+K curriculum,1,82142,timeout,800,43,
+K curriculum,1,82143,goal,48,46,0.9583333333333334
+K curriculum,1,82144,goal,52,44,0.8461538461538461
+K curriculum,1,82145,timeout,800,45,
+K curriculum,1,82146,goal,55,47,0.8545454545454545
+K curriculum,1,82147,timeout,800,50,
+K curriculum,1,82148,timeout,800,44,
+K curriculum,1,82149,goal,47,47,1.0
+K curriculum,1,82150,goal,48,46,0.9583333333333334
+K curriculum,1,82151,goal,44,44,1.0
+K curriculum,1,82152,timeout,800,47,
+K curriculum,1,82153,goal,47,47,1.0
+K curriculum,1,82154,timeout,800,43,
+K curriculum,1,82155,timeout,800,56,
+K curriculum,1,82156,goal,44,44,1.0
+K curriculum,1,82157,timeout,800,45,
+K curriculum,1,82158,goal,45,43,0.9555555555555556
+K curriculum,1,82159,timeout,800,47,
+K curriculum,1,82160,timeout,800,45,
+K curriculum,1,82161,goal,45,43,0.9555555555555556
+K curriculum,1,82162,goal,48,44,0.9166666666666666
+K curriculum,1,82163,timeout,800,44,
+K curriculum,1,82164,goal,46,44,0.9565217391304348
+K curriculum,1,82165,goal,52,46,0.8846153846153846
+K curriculum,1,82166,goal,44,44,1.0
+K curriculum,1,82167,goal,49,45,0.9183673469387755
+K curriculum,1,82168,timeout,800,43,
+K curriculum,1,82169,goal,43,43,1.0
+K curriculum,1,82170,goal,46,44,0.9565217391304348
+K curriculum,1,82171,timeout,800,45,
+K curriculum,1,82172,goal,47,43,0.9148936170212766
+K curriculum,1,82173,goal,45,45,1.0
+K curriculum,1,82174,timeout,800,46,
+K curriculum,1,82175,timeout,800,43,
+K curriculum,1,82176,goal,56,44,0.7857142857142857
+K curriculum,1,82177,timeout,800,44,
+K curriculum,1,82178,goal,47,45,0.9574468085106383
+K curriculum,1,82179,goal,53,47,0.8867924528301887
+K curriculum,1,82180,goal,51,45,0.8823529411764706
+K curriculum,1,82181,timeout,800,43,
+K curriculum,1,82182,timeout,800,49,
+K curriculum,1,82183,timeout,800,48,
+K curriculum,1,82184,timeout,800,43,
+K curriculum,1,82185,timeout,800,45,
+K curriculum,1,82186,goal,43,43,1.0
+K curriculum,1,82187,timeout,800,49,
+K curriculum,1,82188,goal,53,43,0.8113207547169812
+K curriculum,1,82189,goal,45,45,1.0
+K curriculum,1,82190,timeout,800,44,
+K curriculum,1,82191,goal,47,43,0.9148936170212766
+K curriculum,1,82192,timeout,800,45,
+K curriculum,1,82193,timeout,800,45,
+K curriculum,1,82194,goal,45,43,0.9555555555555556
+K curriculum,1,82195,goal,43,43,1.0
+K curriculum,1,82196,goal,52,44,0.8461538461538461
+K curriculum,1,82197,goal,50,46,0.92
+K curriculum,1,82198,goal,54,50,0.9259259259259259
+K curriculum,1,82199,goal,43,43,1.0
+K curriculum,1,82200,timeout,800,43,
+K curriculum,1,82201,timeout,800,44,
+K curriculum,1,82202,timeout,800,43,
+K curriculum,1,82203,goal,47,43,0.9148936170212766
+K curriculum,1,82204,goal,50,50,1.0
+K curriculum,1,82205,goal,49,43,0.8775510204081632
+K curriculum,1,82206,timeout,800,48,
+K curriculum,1,82207,timeout,800,46,
+K curriculum,1,82208,timeout,800,43,
+K curriculum,1,82209,timeout,800,44,
+K curriculum,1,82210,timeout,800,45,
+K curriculum,1,82211,timeout,800,44,
+K curriculum,1,82212,timeout,800,43,
+K curriculum,1,82213,timeout,800,46,
+K curriculum,1,82214,goal,53,43,0.8113207547169812
+K curriculum,1,82215,timeout,800,46,
+K curriculum,1,82216,goal,47,43,0.9148936170212766
+K curriculum,1,82217,goal,47,47,1.0
+K curriculum,1,82218,timeout,800,44,
+K curriculum,1,82219,goal,59,49,0.8305084745762712
+K curriculum,1,82220,goal,59,43,0.7288135593220338
+K curriculum,1,82221,timeout,800,43,
+K curriculum,1,82222,timeout,800,44,
+K curriculum,1,82223,goal,45,43,0.9555555555555556
+K curriculum,1,82224,goal,43,43,1.0
+K curriculum,1,82225,timeout,800,47,
+K curriculum,1,82226,timeout,800,46,
+K curriculum,1,82227,goal,49,45,0.9183673469387755
+K curriculum,1,82228,goal,57,49,0.8596491228070176
+K curriculum,1,82229,goal,48,46,0.9583333333333334
+K curriculum,1,82230,goal,54,44,0.8148148148148148
+K curriculum,1,82231,timeout,800,43,
+K curriculum,1,82232,timeout,800,43,
+K curriculum,1,82233,goal,44,44,1.0
+K curriculum,1,82234,goal,46,44,0.9565217391304348
+K curriculum,1,82235,timeout,800,48,
+K curriculum,1,82236,goal,50,50,1.0
+K curriculum,1,82237,timeout,800,49,
+K curriculum,1,82238,goal,45,45,1.0
+K curriculum,1,82239,goal,56,44,0.7857142857142857
+K curriculum,1,82240,timeout,800,46,
+K curriculum,1,82241,goal,45,43,0.9555555555555556
+K curriculum,1,82242,timeout,800,47,
+K curriculum,1,82243,goal,53,45,0.8490566037735849
+K curriculum,1,82244,timeout,800,47,
+K curriculum,1,82245,goal,43,43,1.0
+K curriculum,1,82246,goal,57,47,0.8245614035087719
+K curriculum,1,82247,timeout,800,46,
+K curriculum,1,82248,timeout,800,44,
+K curriculum,1,82249,goal,43,43,1.0
+K curriculum,1,82250,timeout,800,44,
+K curriculum,1,82251,goal,53,47,0.8867924528301887
+K curriculum,1,82252,timeout,800,43,
+K curriculum,1,82253,timeout,800,44,
+K curriculum,1,82254,goal,55,43,0.7818181818181819
+K curriculum,1,82255,goal,43,43,1.0
+K curriculum,1,82256,goal,46,46,1.0
+K curriculum,1,82257,goal,51,43,0.8431372549019608
+K curriculum,1,82258,timeout,800,43,
+K curriculum,1,82259,timeout,800,47,
+K curriculum,1,82260,timeout,800,43,
+K curriculum,1,82261,goal,47,45,0.9574468085106383
+K curriculum,1,82262,timeout,800,43,
+K curriculum,1,82263,goal,45,43,0.9555555555555556
+K curriculum,1,82264,timeout,800,50,
+K curriculum,1,82265,goal,58,46,0.7931034482758621
+K curriculum,1,82266,timeout,800,44,
+K curriculum,1,82267,timeout,800,44,
+K curriculum,1,82268,goal,45,45,1.0
+K curriculum,1,82269,goal,52,50,0.9615384615384616
+K curriculum,1,82270,goal,47,43,0.9148936170212766
+K curriculum,1,82271,goal,44,44,1.0
+K curriculum,1,82272,goal,45,43,0.9555555555555556
+K curriculum,1,82273,goal,45,43,0.9555555555555556
+K curriculum,1,82274,timeout,800,44,
+K curriculum,1,82275,goal,48,44,0.9166666666666666
+K curriculum,1,82276,timeout,800,44,
+K curriculum,1,82277,goal,49,43,0.8775510204081632
+K curriculum,1,82278,goal,53,43,0.8113207547169812
+K curriculum,1,82279,goal,43,43,1.0
+K curriculum,1,82280,timeout,800,45,
+K curriculum,1,82281,goal,50,46,0.92
+K curriculum,1,82282,goal,44,44,1.0
+K curriculum,1,82283,goal,50,44,0.88
+K curriculum,1,82284,goal,50,48,0.96
+K curriculum,1,82285,goal,49,47,0.9591836734693877
+K curriculum,1,82286,goal,49,49,1.0
+K curriculum,1,82287,timeout,800,46,
+K curriculum,1,82288,goal,51,45,0.8823529411764706
+K curriculum,1,82289,goal,47,43,0.9148936170212766
+K curriculum,1,82290,goal,43,43,1.0
+K curriculum,1,82291,goal,45,45,1.0
+K curriculum,1,82292,goal,47,47,1.0
+K curriculum,1,82293,goal,47,45,0.9574468085106383
+K curriculum,1,82294,goal,58,46,0.7931034482758621
+K curriculum,1,82295,goal,62,54,0.8709677419354839
+K curriculum,1,82296,goal,43,43,1.0
+K curriculum,1,82297,goal,47,47,1.0
+K curriculum,1,82298,goal,52,50,0.9615384615384616
+K curriculum,1,82299,goal,45,43,0.9555555555555556
+K curriculum,2,82000,goal,50,48,0.96
+K curriculum,2,82001,timeout,800,44,
+K curriculum,2,82002,goal,46,44,0.9565217391304348
+K curriculum,2,82003,timeout,800,44,
+K curriculum,2,82004,goal,43,43,1.0
+K curriculum,2,82005,timeout,800,49,
+K curriculum,2,82006,goal,47,43,0.9148936170212766
+K curriculum,2,82007,goal,48,44,0.9166666666666666
+K curriculum,2,82008,goal,46,44,0.9565217391304348
+K curriculum,2,82009,goal,51,51,1.0
+K curriculum,2,82010,timeout,800,48,
+K curriculum,2,82011,goal,46,46,1.0
+K curriculum,2,82012,timeout,800,43,
+K curriculum,2,82013,timeout,800,43,
+K curriculum,2,82014,timeout,800,44,
+K curriculum,2,82015,goal,49,49,1.0
+K curriculum,2,82016,goal,46,44,0.9565217391304348
+K curriculum,2,82017,timeout,800,51,
+K curriculum,2,82018,goal,43,43,1.0
+K curriculum,2,82019,goal,44,44,1.0
+K curriculum,2,82020,goal,44,44,1.0
+K curriculum,2,82021,timeout,800,44,
+K curriculum,2,82022,timeout,800,43,
+K curriculum,2,82023,goal,44,44,1.0
+K curriculum,2,82024,timeout,800,47,
+K curriculum,2,82025,goal,54,46,0.8518518518518519
+K curriculum,2,82026,goal,49,47,0.9591836734693877
+K curriculum,2,82027,timeout,800,43,
+K curriculum,2,82028,timeout,800,43,
+K curriculum,2,82029,goal,50,46,0.92
+K curriculum,2,82030,goal,46,44,0.9565217391304348
+K curriculum,2,82031,timeout,800,43,
+K curriculum,2,82032,goal,44,44,1.0
+K curriculum,2,82033,goal,46,44,0.9565217391304348
+K curriculum,2,82034,goal,46,44,0.9565217391304348
+K curriculum,2,82035,goal,51,45,0.8823529411764706
+K curriculum,2,82036,timeout,800,47,
+K curriculum,2,82037,goal,47,45,0.9574468085106383
+K curriculum,2,82038,goal,51,49,0.9607843137254902
+K curriculum,2,82039,goal,44,44,1.0
+K curriculum,2,82040,timeout,800,43,
+K curriculum,2,82041,timeout,800,45,
+K curriculum,2,82042,timeout,800,43,
+K curriculum,2,82043,goal,45,43,0.9555555555555556
+K curriculum,2,82044,timeout,800,51,
+K curriculum,2,82045,timeout,800,46,
+K curriculum,2,82046,goal,50,44,0.88
+K curriculum,2,82047,goal,47,45,0.9574468085106383
+K curriculum,2,82048,goal,48,46,0.9583333333333334
+K curriculum,2,82049,goal,44,44,1.0
+K curriculum,2,82050,timeout,800,43,
+K curriculum,2,82051,timeout,800,46,
+K curriculum,2,82052,goal,45,43,0.9555555555555556
+K curriculum,2,82053,goal,45,43,0.9555555555555556
+K curriculum,2,82054,timeout,800,44,
+K curriculum,2,82055,timeout,800,43,
+K curriculum,2,82056,goal,48,48,1.0
+K curriculum,2,82057,goal,45,43,0.9555555555555556
+K curriculum,2,82058,timeout,800,43,
+K curriculum,2,82059,goal,43,43,1.0
+K curriculum,2,82060,goal,43,43,1.0
+K curriculum,2,82061,goal,56,48,0.8571428571428571
+K curriculum,2,82062,timeout,800,50,
+K curriculum,2,82063,timeout,800,43,
+K curriculum,2,82064,goal,52,46,0.8846153846153846
+K curriculum,2,82065,goal,45,43,0.9555555555555556
+K curriculum,2,82066,goal,43,43,1.0
+K curriculum,2,82067,timeout,800,43,
+K curriculum,2,82068,goal,47,45,0.9574468085106383
+K curriculum,2,82069,goal,44,44,1.0
+K curriculum,2,82070,timeout,800,46,
+K curriculum,2,82071,goal,45,45,1.0
+K curriculum,2,82072,goal,45,43,0.9555555555555556
+K curriculum,2,82073,timeout,800,43,
+K curriculum,2,82074,goal,45,43,0.9555555555555556
+K curriculum,2,82075,timeout,800,43,
+K curriculum,2,82076,timeout,800,44,
+K curriculum,2,82077,goal,46,44,0.9565217391304348
+K curriculum,2,82078,goal,53,43,0.8113207547169812
+K curriculum,2,82079,goal,49,43,0.8775510204081632
+K curriculum,2,82080,timeout,800,43,
+K curriculum,2,82081,goal,45,43,0.9555555555555556
+K curriculum,2,82082,timeout,800,47,
+K curriculum,2,82083,timeout,800,43,
+K curriculum,2,82084,goal,43,43,1.0
+K curriculum,2,82085,timeout,800,44,
+K curriculum,2,82086,goal,57,49,0.8596491228070176
+K curriculum,2,82087,goal,54,54,1.0
+K curriculum,2,82088,goal,47,47,1.0
+K curriculum,2,82089,goal,50,46,0.92
+K curriculum,2,82090,timeout,800,43,
+K curriculum,2,82091,timeout,800,44,
+K curriculum,2,82092,timeout,800,44,
+K curriculum,2,82093,timeout,800,43,
+K curriculum,2,82094,goal,62,58,0.9354838709677419
+K curriculum,2,82095,timeout,800,44,
+K curriculum,2,82096,goal,51,45,0.8823529411764706
+K curriculum,2,82097,timeout,800,44,
+K curriculum,2,82098,goal,46,44,0.9565217391304348
+K curriculum,2,82099,goal,47,47,1.0
+K curriculum,2,82100,goal,45,43,0.9555555555555556
+K curriculum,2,82101,goal,43,43,1.0
+K curriculum,2,82102,goal,45,45,1.0
+K curriculum,2,82103,timeout,800,44,
+K curriculum,2,82104,goal,51,45,0.8823529411764706
+K curriculum,2,82105,timeout,800,43,
+K curriculum,2,82106,goal,46,44,0.9565217391304348
+K curriculum,2,82107,timeout,800,46,
+K curriculum,2,82108,goal,45,43,0.9555555555555556
+K curriculum,2,82109,goal,51,47,0.9215686274509803
+K curriculum,2,82110,goal,49,47,0.9591836734693877
+K curriculum,2,82111,goal,47,43,0.9148936170212766
+K curriculum,2,82112,goal,47,43,0.9148936170212766
+K curriculum,2,82113,timeout,800,44,
+K curriculum,2,82114,goal,45,43,0.9555555555555556
+K curriculum,2,82115,timeout,800,44,
+K curriculum,2,82116,goal,43,43,1.0
+K curriculum,2,82117,goal,54,50,0.9259259259259259
+K curriculum,2,82118,goal,46,46,1.0
+K curriculum,2,82119,goal,45,45,1.0
+K curriculum,2,82120,goal,54,44,0.8148148148148148
+K curriculum,2,82121,goal,51,49,0.9607843137254902
+K curriculum,2,82122,timeout,800,45,
+K curriculum,2,82123,timeout,800,43,
+K curriculum,2,82124,timeout,800,48,
+K curriculum,2,82125,timeout,800,43,
+K curriculum,2,82126,goal,48,46,0.9583333333333334
+K curriculum,2,82127,goal,43,43,1.0
+K curriculum,2,82128,goal,43,43,1.0
+K curriculum,2,82129,timeout,800,43,
+K curriculum,2,82130,goal,43,43,1.0
+K curriculum,2,82131,goal,45,43,0.9555555555555556
+K curriculum,2,82132,goal,46,44,0.9565217391304348
+K curriculum,2,82133,goal,53,51,0.9622641509433962
+K curriculum,2,82134,goal,45,45,1.0
+K curriculum,2,82135,goal,51,49,0.9607843137254902
+K curriculum,2,82136,goal,49,43,0.8775510204081632
+K curriculum,2,82137,goal,50,44,0.88
+K curriculum,2,82138,goal,43,43,1.0
+K curriculum,2,82139,timeout,800,45,
+K curriculum,2,82140,goal,49,47,0.9591836734693877
+K curriculum,2,82141,timeout,800,50,
+K curriculum,2,82142,goal,49,43,0.8775510204081632
+K curriculum,2,82143,timeout,800,46,
+K curriculum,2,82144,goal,48,44,0.9166666666666666
+K curriculum,2,82145,goal,45,45,1.0
+K curriculum,2,82146,goal,47,47,1.0
+K curriculum,2,82147,timeout,800,50,
+K curriculum,2,82148,goal,48,44,0.9166666666666666
+K curriculum,2,82149,goal,47,47,1.0
+K curriculum,2,82150,goal,48,46,0.9583333333333334
+K curriculum,2,82151,goal,46,44,0.9565217391304348
+K curriculum,2,82152,timeout,800,47,
+K curriculum,2,82153,timeout,800,47,
+K curriculum,2,82154,timeout,800,43,
+K curriculum,2,82155,goal,60,56,0.9333333333333333
+K curriculum,2,82156,goal,44,44,1.0
+K curriculum,2,82157,timeout,800,45,
+K curriculum,2,82158,goal,45,43,0.9555555555555556
+K curriculum,2,82159,timeout,800,47,
+K curriculum,2,82160,goal,47,45,0.9574468085106383
+K curriculum,2,82161,goal,43,43,1.0
+K curriculum,2,82162,goal,46,44,0.9565217391304348
+K curriculum,2,82163,timeout,800,44,
+K curriculum,2,82164,timeout,800,44,
+K curriculum,2,82165,goal,48,46,0.9583333333333334
+K curriculum,2,82166,goal,44,44,1.0
+K curriculum,2,82167,goal,47,45,0.9574468085106383
+K curriculum,2,82168,goal,49,43,0.8775510204081632
+K curriculum,2,82169,goal,43,43,1.0
+K curriculum,2,82170,timeout,800,44,
+K curriculum,2,82171,timeout,800,45,
+K curriculum,2,82172,goal,43,43,1.0
+K curriculum,2,82173,goal,45,45,1.0
+K curriculum,2,82174,timeout,800,46,
+K curriculum,2,82175,timeout,800,43,
+K curriculum,2,82176,goal,50,44,0.88
+K curriculum,2,82177,goal,44,44,1.0
+K curriculum,2,82178,goal,47,45,0.9574468085106383
+K curriculum,2,82179,timeout,800,47,
+K curriculum,2,82180,goal,49,45,0.9183673469387755
+K curriculum,2,82181,goal,43,43,1.0
+K curriculum,2,82182,timeout,800,49,
+K curriculum,2,82183,goal,50,48,0.96
+K curriculum,2,82184,goal,47,43,0.9148936170212766
+K curriculum,2,82185,timeout,800,45,
+K curriculum,2,82186,goal,45,43,0.9555555555555556
+K curriculum,2,82187,timeout,800,49,
+K curriculum,2,82188,goal,43,43,1.0
+K curriculum,2,82189,goal,45,45,1.0
+K curriculum,2,82190,timeout,800,44,
+K curriculum,2,82191,goal,45,43,0.9555555555555556
+K curriculum,2,82192,goal,49,45,0.9183673469387755
+K curriculum,2,82193,timeout,800,45,
+K curriculum,2,82194,goal,43,43,1.0
+K curriculum,2,82195,goal,43,43,1.0
+K curriculum,2,82196,goal,46,44,0.9565217391304348
+K curriculum,2,82197,goal,46,46,1.0
+K curriculum,2,82198,goal,54,50,0.9259259259259259
+K curriculum,2,82199,goal,43,43,1.0
+K curriculum,2,82200,timeout,800,43,
+K curriculum,2,82201,timeout,800,44,
+K curriculum,2,82202,timeout,800,43,
+K curriculum,2,82203,goal,43,43,1.0
+K curriculum,2,82204,timeout,800,50,
+K curriculum,2,82205,goal,43,43,1.0
+K curriculum,2,82206,timeout,800,48,
+K curriculum,2,82207,goal,48,46,0.9583333333333334
+K curriculum,2,82208,timeout,800,43,
+K curriculum,2,82209,timeout,800,44,
+K curriculum,2,82210,timeout,800,45,
+K curriculum,2,82211,goal,48,44,0.9166666666666666
+K curriculum,2,82212,timeout,800,43,
+K curriculum,2,82213,goal,54,46,0.8518518518518519
+K curriculum,2,82214,goal,43,43,1.0
+K curriculum,2,82215,goal,48,46,0.9583333333333334
+K curriculum,2,82216,goal,43,43,1.0
+K curriculum,2,82217,goal,47,47,1.0
+K curriculum,2,82218,goal,50,44,0.88
+K curriculum,2,82219,goal,49,49,1.0
+K curriculum,2,82220,goal,43,43,1.0
+K curriculum,2,82221,timeout,800,43,
+K curriculum,2,82222,timeout,800,44,
+K curriculum,2,82223,timeout,800,43,
+K curriculum,2,82224,goal,49,43,0.8775510204081632
+K curriculum,2,82225,timeout,800,47,
+K curriculum,2,82226,timeout,800,46,
+K curriculum,2,82227,goal,45,45,1.0
+K curriculum,2,82228,timeout,800,49,
+K curriculum,2,82229,goal,50,46,0.92
+K curriculum,2,82230,timeout,800,44,
+K curriculum,2,82231,timeout,800,43,
+K curriculum,2,82232,timeout,800,43,
+K curriculum,2,82233,timeout,800,44,
+K curriculum,2,82234,goal,50,44,0.88
+K curriculum,2,82235,timeout,800,48,
+K curriculum,2,82236,goal,50,50,1.0
+K curriculum,2,82237,goal,51,49,0.9607843137254902
+K curriculum,2,82238,goal,45,45,1.0
+K curriculum,2,82239,goal,50,44,0.88
+K curriculum,2,82240,timeout,800,46,
+K curriculum,2,82241,goal,49,43,0.8775510204081632
+K curriculum,2,82242,timeout,800,47,
+K curriculum,2,82243,goal,47,45,0.9574468085106383
+K curriculum,2,82244,timeout,800,47,
+K curriculum,2,82245,goal,43,43,1.0
+K curriculum,2,82246,goal,47,47,1.0
+K curriculum,2,82247,timeout,800,46,
+K curriculum,2,82248,goal,44,44,1.0
+K curriculum,2,82249,goal,43,43,1.0
+K curriculum,2,82250,timeout,800,44,
+K curriculum,2,82251,goal,47,47,1.0
+K curriculum,2,82252,goal,43,43,1.0
+K curriculum,2,82253,goal,44,44,1.0
+K curriculum,2,82254,goal,53,43,0.8113207547169812
+K curriculum,2,82255,goal,47,43,0.9148936170212766
+K curriculum,2,82256,goal,46,46,1.0
+K curriculum,2,82257,goal,43,43,1.0
+K curriculum,2,82258,timeout,800,43,
+K curriculum,2,82259,goal,47,47,1.0
+K curriculum,2,82260,timeout,800,43,
+K curriculum,2,82261,goal,45,45,1.0
+K curriculum,2,82262,timeout,800,43,
+K curriculum,2,82263,goal,43,43,1.0
+K curriculum,2,82264,goal,52,50,0.9615384615384616
+K curriculum,2,82265,timeout,800,46,
+K curriculum,2,82266,goal,44,44,1.0
+K curriculum,2,82267,goal,46,44,0.9565217391304348
+K curriculum,2,82268,goal,45,45,1.0
+K curriculum,2,82269,goal,50,50,1.0
+K curriculum,2,82270,goal,43,43,1.0
+K curriculum,2,82271,goal,44,44,1.0
+K curriculum,2,82272,goal,43,43,1.0
+K curriculum,2,82273,timeout,800,43,
+K curriculum,2,82274,goal,44,44,1.0
+K curriculum,2,82275,goal,48,44,0.9166666666666666
+K curriculum,2,82276,goal,54,44,0.8148148148148148
+K curriculum,2,82277,goal,49,43,0.8775510204081632
+K curriculum,2,82278,timeout,800,43,
+K curriculum,2,82279,goal,43,43,1.0
+K curriculum,2,82280,timeout,800,45,
+K curriculum,2,82281,goal,48,46,0.9583333333333334
+K curriculum,2,82282,goal,46,44,0.9565217391304348
+K curriculum,2,82283,goal,46,44,0.9565217391304348
+K curriculum,2,82284,goal,48,48,1.0
+K curriculum,2,82285,goal,51,47,0.9215686274509803
+K curriculum,2,82286,goal,49,49,1.0
+K curriculum,2,82287,timeout,800,46,
+K curriculum,2,82288,goal,45,45,1.0
+K curriculum,2,82289,goal,43,43,1.0
+K curriculum,2,82290,timeout,800,43,
+K curriculum,2,82291,goal,45,45,1.0
+K curriculum,2,82292,timeout,800,47,
+K curriculum,2,82293,timeout,800,45,
+K curriculum,2,82294,goal,54,46,0.8518518518518519
+K curriculum,2,82295,timeout,800,54,
+K curriculum,2,82296,goal,45,43,0.9555555555555556
+K curriculum,2,82297,goal,49,47,0.9591836734693877
+K curriculum,2,82298,goal,52,50,0.9615384615384616
+K curriculum,2,82299,timeout,800,43,

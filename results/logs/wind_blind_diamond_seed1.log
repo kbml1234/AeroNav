@@ -1,0 +1,17 @@
+wind_blind_diamond_seed1: trained in 1.5 minutes
+{'variant': 'blind_diamond', 'seed': 1, 'direction': 'N', 'strength_%': 0, 'n': 300, 'success_%': 93.3, 'crashes': 0, 'timeouts': 20, 'train_minutes': 1.5}
+{'variant': 'blind_diamond', 'seed': 1, 'direction': 'N', 'strength_%': 10, 'n': 300, 'success_%': 67.0, 'crashes': 95, 'timeouts': 4, 'train_minutes': 1.5}
+{'variant': 'blind_diamond', 'seed': 1, 'direction': 'N', 'strength_%': 20, 'n': 300, 'success_%': 38.7, 'crashes': 182, 'timeouts': 2, 'train_minutes': 1.5}
+{'variant': 'blind_diamond', 'seed': 1, 'direction': 'N', 'strength_%': 30, 'n': 300, 'success_%': 17.0, 'crashes': 249, 'timeouts': 0, 'train_minutes': 1.5}
+{'variant': 'blind_diamond', 'seed': 1, 'direction': 'E', 'strength_%': 0, 'n': 300, 'success_%': 93.3, 'crashes': 0, 'timeouts': 20, 'train_minutes': 1.5}
+{'variant': 'blind_diamond', 'seed': 1, 'direction': 'E', 'strength_%': 10, 'n': 300, 'success_%': 66.3, 'crashes': 98, 'timeouts': 3, 'train_minutes': 1.5}
+{'variant': 'blind_diamond', 'seed': 1, 'direction': 'E', 'strength_%': 20, 'n': 300, 'success_%': 42.3, 'crashes': 173, 'timeouts': 0, 'train_minutes': 1.5}
+{'variant': 'blind_diamond', 'seed': 1, 'direction': 'E', 'strength_%': 30, 'n': 300, 'success_%': 28.3, 'crashes': 215, 'timeouts': 0, 'train_minutes': 1.5}
+{'variant': 'blind_diamond', 'seed': 1, 'direction': 'S', 'strength_%': 0, 'n': 300, 'success_%': 93.3, 'crashes': 0, 'timeouts': 20, 'train_minutes': 1.5}
+{'variant': 'blind_diamond', 'seed': 1, 'direction': 'S', 'strength_%': 10, 'n': 300, 'success_%': 73.7, 'crashes': 78, 'timeouts': 1, 'train_minutes': 1.5}
+{'variant': 'blind_diamond', 'seed': 1, 'direction': 'S', 'strength_%': 20, 'n': 300, 'success_%': 49.0, 'crashes': 153, 'timeouts': 0, 'train_minutes': 1.5}
+{'variant': 'blind_diamond', 'seed': 1, 'direction': 'S', 'strength_%': 30, 'n': 300, 'success_%': 34.0, 'crashes': 198, 'timeouts': 0, 'train_minutes': 1.5}
+{'variant': 'blind_diamond', 'seed': 1, 'direction': 'W', 'strength_%': 0, 'n': 300, 'success_%': 93.3, 'crashes': 0, 'timeouts': 20, 'train_minutes': 1.5}
+{'variant': 'blind_diamond', 'seed': 1, 'direction': 'W', 'strength_%': 10, 'n': 300, 'success_%': 62.0, 'crashes': 113, 'timeouts': 1, 'train_minutes': 1.5}
+{'variant': 'blind_diamond', 'seed': 1, 'direction': 'W', 'strength_%': 20, 'n': 300, 'success_%': 27.0, 'crashes': 219, 'timeouts': 0, 'train_minutes': 1.5}
+{'variant': 'blind_diamond', 'seed': 1, 'direction': 'W', 'strength_%': 30, 'n': 300, 'success_%': 9.7, 'crashes': 271, 'timeouts': 0, 'train_minutes': 1.5}

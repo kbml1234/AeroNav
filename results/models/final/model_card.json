@@ -1,0 +1,63 @@
+{
+  "name": "calm DQN with last-move inputs",
+  "file": "results/models/final/dqn_calm_last_move_500k.zip",
+  "sha256": "ac66cc4ec05c072305d5d1904bcde112f08281a1d68f964be445de83a2a53e70",
+  "selection_rule": "last checkpoint (500,000 training moves), chosen before any test map was used",
+  "environment": {
+    "size": 8,
+    "obstacle_density": 0.15,
+    "max_steps": 200,
+    "include_last_move": true,
+    "inputs": 12,
+    "rewards": {
+      "goal": 100,
+      "crash": -30,
+      "move": -1
+    },
+    "gusts": 0.0
+  },
+  "training": {
+    "algorithm": "DQN",
+    "total_moves": 500000,
+    "seed": 0,
+    "map_seeds": {
+      "low": 1000000,
+      "high": 2147483647
+    },
+    "settings": {
+      "learning_rate": 0.0003,
+      "buffer_size": 50000,
+      "learning_starts": 2000,
+      "batch_size": 64,
+      "gamma": 0.99,
+      "exploration_fraction": 0.3,
+      "exploration_final_eps": 0.05,
+      "policy_kwargs": {
+        "net_arch": [
+          64,
+          64
+        ]
+      }
+    },
+    "network": "12 -> 64 -> 64 -> 4",
+    "parameters": 5252
+  },
+  "validation": {
+    "maps": "seeds 20000-20299",
+    "n": 300,
+    "success_%": 88.0,
+    "collisions": 0,
+    "timeouts": 36,
+    "mean_goal_steps": 14.54
+  },
+  "test": "not run yet when this card was saved",
+  "versions": {
+    "stable_baselines3": "2.9.0",
+    "torch": "2.14.1",
+    "gymnasium": "1.4.0"
+  },
+  "demo": {
+    "goal": "validation map 20000",
+    "loop": "validation map 20003"
+  }
+}

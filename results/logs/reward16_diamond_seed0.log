@@ -1,0 +1,11 @@
+reward16_diamond_seed0: trained in 15.4 minutes
+{'vision': 'diamond', 'seed': 0, 'train_moves': 500000, 'n': 300, 'success_%': 45.0, 'crash_%': 0.0, 'timeout_%': 55.0, 'train_minutes': 15.4}
+{'vision': 'diamond', 'seed': 0, 'train_moves': 1000000, 'n': 300, 'success_%': 63.3, 'crash_%': 0.0, 'timeout_%': 36.7, 'train_minutes': 15.4}
+{'vision': 'diamond', 'seed': 0, 'train_moves': 1500000, 'n': 300, 'success_%': 0.0, 'crash_%': 0.0, 'timeout_%': 100.0, 'train_minutes': 15.4}
+{'vision': 'diamond', 'seed': 0, 'train_moves': 2000000, 'n': 300, 'success_%': 4.3, 'crash_%': 0.0, 'timeout_%': 95.7, 'train_minutes': 15.4}
+{'vision': 'diamond', 'seed': 0, 'train_moves': 2500000, 'n': 300, 'success_%': 7.3, 'crash_%': 0.0, 'timeout_%': 92.7, 'train_minutes': 15.4}
+{'vision': 'diamond', 'seed': 0, 'train_moves': 3000000, 'n': 300, 'success_%': 73.7, 'crash_%': 0.0, 'timeout_%': 26.3, 'train_minutes': 15.4}
+{'vision': 'diamond', 'seed': 0, 'train_moves': 3500000, 'n': 300, 'success_%': 8.7, 'crash_%': 0.0, 'timeout_%': 91.3, 'train_minutes': 15.4}
+{'vision': 'diamond', 'seed': 0, 'train_moves': 4000000, 'n': 300, 'success_%': 66.7, 'crash_%': 0.0, 'timeout_%': 33.3, 'train_minutes': 15.4}
+{'vision': 'diamond', 'seed': 0, 'train_moves': 4500000, 'n': 300, 'success_%': 86.0, 'crash_%': 0.0, 'timeout_%': 14.0, 'train_minutes': 15.4}
+{'vision': 'diamond', 'seed': 0, 'train_moves': 5000000, 'n': 300, 'success_%': 87.3, 'crash_%': 0.0, 'timeout_%': 12.7, 'train_minutes': 15.4}

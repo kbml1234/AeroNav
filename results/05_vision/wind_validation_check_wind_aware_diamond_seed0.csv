@@ -1,0 +1,17 @@
+variant,seed,direction,strength_%,n,success_%,crashes,timeouts,train_minutes
+aware_diamond,0,N,0,300,90.7,1,27,1.5
+aware_diamond,0,N,10,300,72.3,80,3,1.5
+aware_diamond,0,N,20,300,47.3,156,2,1.5
+aware_diamond,0,N,30,300,22.3,232,1,1.5
+aware_diamond,0,E,0,300,91.0,1,26,1.5
+aware_diamond,0,E,10,300,79.0,62,1,1.5
+aware_diamond,0,E,20,300,63.7,109,0,1.5
+aware_diamond,0,E,30,300,52.7,142,0,1.5
+aware_diamond,0,S,0,300,88.7,1,33,1.5
+aware_diamond,0,S,10,300,62.3,110,3,1.5
+aware_diamond,0,S,20,300,32.0,204,0,1.5
+aware_diamond,0,S,30,300,16.3,251,0,1.5
+aware_diamond,0,W,0,300,86.7,0,40,1.5
+aware_diamond,0,W,10,300,50.3,145,4,1.5
+aware_diamond,0,W,20,300,20.7,237,1,1.5
+aware_diamond,0,W,30,300,4.7,286,0,1.5

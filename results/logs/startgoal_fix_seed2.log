@@ -1,0 +1,10 @@
+{'train_moves': 50000, 'success_%': 47.0, 'crash_%': 0.0, 'timeout_%': 53.0, 'mean_goal_steps': 10.560283687943262}
+{'train_moves': 100000, 'success_%': 50.0, 'crash_%': 0.0, 'timeout_%': 50.0, 'mean_goal_steps': 10.74}
+{'train_moves': 150000, 'success_%': 76.33333333333333, 'crash_%': 0.0, 'timeout_%': 23.666666666666668, 'mean_goal_steps': 11.558951965065502}
+{'train_moves': 200000, 'success_%': 79.66666666666666, 'crash_%': 0.0, 'timeout_%': 20.333333333333332, 'mean_goal_steps': 11.560669456066945}
+{'train_moves': 250000, 'success_%': 81.33333333333333, 'crash_%': 0.0, 'timeout_%': 18.666666666666668, 'mean_goal_steps': 11.569672131147541}
+{'train_moves': 300000, 'success_%': 76.33333333333333, 'crash_%': 0.0, 'timeout_%': 23.666666666666668, 'mean_goal_steps': 11.336244541484715}
+{'train_moves': 350000, 'success_%': 67.66666666666666, 'crash_%': 0.0, 'timeout_%': 32.333333333333336, 'mean_goal_steps': 11.05911330049261}
+{'train_moves': 400000, 'success_%': 65.33333333333333, 'crash_%': 0.0, 'timeout_%': 34.666666666666664, 'mean_goal_steps': 12.16326530612245}
+{'train_moves': 450000, 'success_%': 63.33333333333333, 'crash_%': 0.0, 'timeout_%': 36.666666666666664, 'mean_goal_steps': 11.81578947368421}
+{'train_moves': 500000, 'success_%': 77.33333333333333, 'crash_%': 0.0, 'timeout_%': 22.666666666666668, 'mean_goal_steps': 11.504310344827585}

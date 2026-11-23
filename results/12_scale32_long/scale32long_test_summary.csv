@@ -1,0 +1,8 @@
+drone,train_seed,n,success_%,crash_%,timeout_%,moves_on_successes,efficiency_on_successes
+A*,,300,100.0,0.0,0.0,44.98,1.0
+D direct,0,300,63.3,0.0,36.7,46.86,0.961
+D direct,1,300,50.0,0.0,50.0,48.66,0.927
+D direct,2,300,53.0,0.0,47.0,47.14,0.953
+K curriculum,0,300,64.3,0.0,35.7,46.63,0.962
+K curriculum,1,300,57.0,0.0,43.0,48.52,0.932
+K curriculum,2,300,63.0,0.0,37.0,47.01,0.959

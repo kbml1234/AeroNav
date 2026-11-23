@@ -1,0 +1,17 @@
+wind_aware_diamond_seed0: trained in 1.5 minutes
+{'variant': 'aware_diamond', 'seed': 0, 'direction': 'N', 'strength_%': 0, 'n': 300, 'success_%': 90.7, 'crashes': 1, 'timeouts': 27, 'train_minutes': 1.5}
+{'variant': 'aware_diamond', 'seed': 0, 'direction': 'N', 'strength_%': 10, 'n': 300, 'success_%': 72.3, 'crashes': 80, 'timeouts': 3, 'train_minutes': 1.5}
+{'variant': 'aware_diamond', 'seed': 0, 'direction': 'N', 'strength_%': 20, 'n': 300, 'success_%': 47.3, 'crashes': 156, 'timeouts': 2, 'train_minutes': 1.5}
+{'variant': 'aware_diamond', 'seed': 0, 'direction': 'N', 'strength_%': 30, 'n': 300, 'success_%': 22.3, 'crashes': 232, 'timeouts': 1, 'train_minutes': 1.5}
+{'variant': 'aware_diamond', 'seed': 0, 'direction': 'E', 'strength_%': 0, 'n': 300, 'success_%': 91.0, 'crashes': 1, 'timeouts': 26, 'train_minutes': 1.5}
+{'variant': 'aware_diamond', 'seed': 0, 'direction': 'E', 'strength_%': 10, 'n': 300, 'success_%': 79.0, 'crashes': 62, 'timeouts': 1, 'train_minutes': 1.5}
+{'variant': 'aware_diamond', 'seed': 0, 'direction': 'E', 'strength_%': 20, 'n': 300, 'success_%': 63.7, 'crashes': 109, 'timeouts': 0, 'train_minutes': 1.5}
+{'variant': 'aware_diamond', 'seed': 0, 'direction': 'E', 'strength_%': 30, 'n': 300, 'success_%': 52.7, 'crashes': 142, 'timeouts': 0, 'train_minutes': 1.5}
+{'variant': 'aware_diamond', 'seed': 0, 'direction': 'S', 'strength_%': 0, 'n': 300, 'success_%': 88.7, 'crashes': 1, 'timeouts': 33, 'train_minutes': 1.5}
+{'variant': 'aware_diamond', 'seed': 0, 'direction': 'S', 'strength_%': 10, 'n': 300, 'success_%': 62.3, 'crashes': 110, 'timeouts': 3, 'train_minutes': 1.5}
+{'variant': 'aware_diamond', 'seed': 0, 'direction': 'S', 'strength_%': 20, 'n': 300, 'success_%': 32.0, 'crashes': 204, 'timeouts': 0, 'train_minutes': 1.5}
+{'variant': 'aware_diamond', 'seed': 0, 'direction': 'S', 'strength_%': 30, 'n': 300, 'success_%': 16.3, 'crashes': 251, 'timeouts': 0, 'train_minutes': 1.5}
+{'variant': 'aware_diamond', 'seed': 0, 'direction': 'W', 'strength_%': 0, 'n': 300, 'success_%': 86.7, 'crashes': 0, 'timeouts': 40, 'train_minutes': 1.5}
+{'variant': 'aware_diamond', 'seed': 0, 'direction': 'W', 'strength_%': 10, 'n': 300, 'success_%': 50.3, 'crashes': 145, 'timeouts': 4, 'train_minutes': 1.5}
+{'variant': 'aware_diamond', 'seed': 0, 'direction': 'W', 'strength_%': 20, 'n': 300, 'success_%': 20.7, 'crashes': 237, 'timeouts': 1, 'train_minutes': 1.5}
+{'variant': 'aware_diamond', 'seed': 0, 'direction': 'W', 'strength_%': 30, 'n': 300, 'success_%': 4.7, 'crashes': 286, 'timeouts': 0, 'train_minutes': 1.5}

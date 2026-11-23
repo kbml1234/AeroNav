@@ -1,0 +1,2101 @@
+drone,train_seed,map_seed,ending,moves,efficiency
+A*,,62000,goal,30,1.0
+A*,,62001,goal,30,1.0
+A*,,62002,goal,30,1.0
+A*,,62003,goal,30,1.0
+A*,,62004,goal,30,1.0
+A*,,62005,goal,30,1.0
+A*,,62006,goal,30,1.0
+A*,,62007,goal,30,1.0
+A*,,62008,goal,30,1.0
+A*,,62009,goal,30,1.0
+A*,,62010,goal,30,1.0
+A*,,62011,goal,30,1.0
+A*,,62012,goal,30,1.0
+A*,,62013,goal,30,1.0
+A*,,62014,goal,30,1.0
+A*,,62015,goal,30,1.0
+A*,,62016,goal,30,1.0
+A*,,62017,goal,30,1.0
+A*,,62018,goal,30,1.0
+A*,,62019,goal,30,1.0
+A*,,62020,goal,30,1.0
+A*,,62021,goal,30,1.0
+A*,,62022,goal,30,1.0
+A*,,62023,goal,30,1.0
+A*,,62024,goal,30,1.0
+A*,,62025,goal,30,1.0
+A*,,62026,goal,30,1.0
+A*,,62027,goal,30,1.0
+A*,,62028,goal,30,1.0
+A*,,62029,goal,30,1.0
+A*,,62030,goal,30,1.0
+A*,,62031,goal,30,1.0
+A*,,62032,goal,30,1.0
+A*,,62033,goal,30,1.0
+A*,,62034,goal,30,1.0
+A*,,62035,goal,30,1.0
+A*,,62036,goal,30,1.0
+A*,,62037,goal,30,1.0
+A*,,62038,goal,30,1.0
+A*,,62039,goal,30,1.0
+A*,,62040,goal,30,1.0
+A*,,62041,goal,30,1.0
+A*,,62042,goal,30,1.0
+A*,,62043,goal,30,1.0
+A*,,62044,goal,30,1.0
+A*,,62045,goal,30,1.0
+A*,,62046,goal,30,1.0
+A*,,62047,goal,30,1.0
+A*,,62048,goal,30,1.0
+A*,,62049,goal,30,1.0
+A*,,62050,goal,30,1.0
+A*,,62051,goal,30,1.0
+A*,,62052,goal,30,1.0
+A*,,62053,goal,30,1.0
+A*,,62054,goal,30,1.0
+A*,,62055,goal,30,1.0
+A*,,62056,goal,30,1.0
+A*,,62057,goal,30,1.0
+A*,,62058,goal,30,1.0
+A*,,62059,goal,30,1.0
+A*,,62060,goal,30,1.0
+A*,,62061,goal,30,1.0
+A*,,62062,goal,30,1.0
+A*,,62063,goal,30,1.0
+A*,,62064,goal,30,1.0
+A*,,62065,goal,30,1.0
+A*,,62066,goal,30,1.0
+A*,,62067,goal,30,1.0
+A*,,62068,goal,30,1.0
+A*,,62069,goal,30,1.0
+A*,,62070,goal,30,1.0
+A*,,62071,goal,30,1.0
+A*,,62072,goal,30,1.0
+A*,,62073,goal,30,1.0
+A*,,62074,goal,30,1.0
+A*,,62075,goal,30,1.0
+A*,,62076,goal,30,1.0
+A*,,62077,goal,30,1.0
+A*,,62078,goal,30,1.0
+A*,,62079,goal,30,1.0
+A*,,62080,goal,30,1.0
+A*,,62081,goal,30,1.0
+A*,,62082,goal,30,1.0
+A*,,62083,goal,30,1.0
+A*,,62084,goal,30,1.0
+A*,,62085,goal,30,1.0
+A*,,62086,goal,30,1.0
+A*,,62087,goal,30,1.0
+A*,,62088,goal,30,1.0
+A*,,62089,goal,30,1.0
+A*,,62090,goal,30,1.0
+A*,,62091,goal,30,1.0
+A*,,62092,goal,30,1.0
+A*,,62093,goal,30,1.0
+A*,,62094,goal,30,1.0
+A*,,62095,goal,30,1.0
+A*,,62096,goal,30,1.0
+A*,,62097,goal,30,1.0
+A*,,62098,goal,30,1.0
+A*,,62099,goal,30,1.0
+A*,,62100,goal,30,1.0
+A*,,62101,goal,30,1.0
+A*,,62102,goal,30,1.0
+A*,,62103,goal,30,1.0
+A*,,62104,goal,30,1.0
+A*,,62105,goal,30,1.0
+A*,,62106,goal,30,1.0
+A*,,62107,goal,30,1.0
+A*,,62108,goal,30,1.0
+A*,,62109,goal,30,1.0
+A*,,62110,goal,30,1.0
+A*,,62111,goal,30,1.0
+A*,,62112,goal,30,1.0
+A*,,62113,goal,30,1.0
+A*,,62114,goal,30,1.0
+A*,,62115,goal,30,1.0
+A*,,62116,goal,30,1.0
+A*,,62117,goal,30,1.0
+A*,,62118,goal,30,1.0
+A*,,62119,goal,30,1.0
+A*,,62120,goal,30,1.0
+A*,,62121,goal,30,1.0
+A*,,62122,goal,30,1.0
+A*,,62123,goal,30,1.0
+A*,,62124,goal,30,1.0
+A*,,62125,goal,30,1.0
+A*,,62126,goal,30,1.0
+A*,,62127,goal,30,1.0
+A*,,62128,goal,30,1.0
+A*,,62129,goal,30,1.0
+A*,,62130,goal,30,1.0
+A*,,62131,goal,30,1.0
+A*,,62132,goal,30,1.0
+A*,,62133,goal,30,1.0
+A*,,62134,goal,30,1.0
+A*,,62135,goal,30,1.0
+A*,,62136,goal,30,1.0
+A*,,62137,goal,30,1.0
+A*,,62138,goal,30,1.0
+A*,,62139,goal,30,1.0
+A*,,62140,goal,30,1.0
+A*,,62141,goal,30,1.0
+A*,,62142,goal,30,1.0
+A*,,62143,goal,30,1.0
+A*,,62144,goal,30,1.0
+A*,,62145,goal,30,1.0
+A*,,62146,goal,30,1.0
+A*,,62147,goal,30,1.0
+A*,,62148,goal,30,1.0
+A*,,62149,goal,30,1.0
+A*,,62150,goal,30,1.0
+A*,,62151,goal,30,1.0
+A*,,62152,goal,30,1.0
+A*,,62153,goal,30,1.0
+A*,,62154,goal,30,1.0
+A*,,62155,goal,30,1.0
+A*,,62156,goal,30,1.0
+A*,,62157,goal,30,1.0
+A*,,62158,goal,30,1.0
+A*,,62159,goal,30,1.0
+A*,,62160,goal,30,1.0
+A*,,62161,goal,30,1.0
+A*,,62162,goal,30,1.0
+A*,,62163,goal,30,1.0
+A*,,62164,goal,30,1.0
+A*,,62165,goal,30,1.0
+A*,,62166,goal,30,1.0
+A*,,62167,goal,30,1.0
+A*,,62168,goal,30,1.0
+A*,,62169,goal,30,1.0
+A*,,62170,goal,30,1.0
+A*,,62171,goal,30,1.0
+A*,,62172,goal,30,1.0
+A*,,62173,goal,30,1.0
+A*,,62174,goal,30,1.0
+A*,,62175,goal,30,1.0
+A*,,62176,goal,30,1.0
+A*,,62177,goal,30,1.0
+A*,,62178,goal,30,1.0
+A*,,62179,goal,30,1.0
+A*,,62180,goal,30,1.0
+A*,,62181,goal,30,1.0
+A*,,62182,goal,30,1.0
+A*,,62183,goal,30,1.0
+A*,,62184,goal,30,1.0
+A*,,62185,goal,30,1.0
+A*,,62186,goal,30,1.0
+A*,,62187,goal,30,1.0
+A*,,62188,goal,30,1.0
+A*,,62189,goal,30,1.0
+A*,,62190,goal,30,1.0
+A*,,62191,goal,30,1.0
+A*,,62192,goal,30,1.0
+A*,,62193,goal,30,1.0
+A*,,62194,goal,30,1.0
+A*,,62195,goal,30,1.0
+A*,,62196,goal,30,1.0
+A*,,62197,goal,30,1.0
+A*,,62198,goal,30,1.0
+A*,,62199,goal,30,1.0
+A*,,62200,goal,30,1.0
+A*,,62201,goal,30,1.0
+A*,,62202,goal,30,1.0
+A*,,62203,goal,30,1.0
+A*,,62204,goal,30,1.0
+A*,,62205,goal,30,1.0
+A*,,62206,goal,30,1.0
+A*,,62207,goal,30,1.0
+A*,,62208,goal,30,1.0
+A*,,62209,goal,30,1.0
+A*,,62210,goal,30,1.0
+A*,,62211,goal,30,1.0
+A*,,62212,goal,30,1.0
+A*,,62213,goal,30,1.0
+A*,,62214,goal,30,1.0
+A*,,62215,goal,30,1.0
+A*,,62216,goal,30,1.0
+A*,,62217,goal,30,1.0
+A*,,62218,goal,30,1.0
+A*,,62219,goal,30,1.0
+A*,,62220,goal,30,1.0
+A*,,62221,goal,30,1.0
+A*,,62222,goal,30,1.0
+A*,,62223,goal,30,1.0
+A*,,62224,goal,30,1.0
+A*,,62225,goal,30,1.0
+A*,,62226,goal,30,1.0
+A*,,62227,goal,30,1.0
+A*,,62228,goal,30,1.0
+A*,,62229,goal,30,1.0
+A*,,62230,goal,30,1.0
+A*,,62231,goal,30,1.0
+A*,,62232,goal,30,1.0
+A*,,62233,goal,30,1.0
+A*,,62234,goal,30,1.0
+A*,,62235,goal,30,1.0
+A*,,62236,goal,30,1.0
+A*,,62237,goal,30,1.0
+A*,,62238,goal,30,1.0
+A*,,62239,goal,30,1.0
+A*,,62240,goal,30,1.0
+A*,,62241,goal,30,1.0
+A*,,62242,goal,30,1.0
+A*,,62243,goal,30,1.0
+A*,,62244,goal,30,1.0
+A*,,62245,goal,30,1.0
+A*,,62246,goal,30,1.0
+A*,,62247,goal,30,1.0
+A*,,62248,goal,30,1.0
+A*,,62249,goal,30,1.0
+A*,,62250,goal,30,1.0
+A*,,62251,goal,30,1.0
+A*,,62252,goal,30,1.0
+A*,,62253,goal,30,1.0
+A*,,62254,goal,30,1.0
+A*,,62255,goal,30,1.0
+A*,,62256,goal,30,1.0
+A*,,62257,goal,30,1.0
+A*,,62258,goal,30,1.0
+A*,,62259,goal,30,1.0
+A*,,62260,goal,30,1.0
+A*,,62261,goal,30,1.0
+A*,,62262,goal,30,1.0
+A*,,62263,goal,30,1.0
+A*,,62264,goal,30,1.0
+A*,,62265,goal,30,1.0
+A*,,62266,goal,30,1.0
+A*,,62267,goal,30,1.0
+A*,,62268,goal,30,1.0
+A*,,62269,goal,30,1.0
+A*,,62270,goal,30,1.0
+A*,,62271,goal,30,1.0
+A*,,62272,goal,30,1.0
+A*,,62273,goal,30,1.0
+A*,,62274,goal,30,1.0
+A*,,62275,goal,30,1.0
+A*,,62276,goal,30,1.0
+A*,,62277,goal,30,1.0
+A*,,62278,goal,30,1.0
+A*,,62279,goal,30,1.0
+A*,,62280,goal,30,1.0
+A*,,62281,goal,30,1.0
+A*,,62282,goal,30,1.0
+A*,,62283,goal,30,1.0
+A*,,62284,goal,30,1.0
+A*,,62285,goal,30,1.0
+A*,,62286,goal,30,1.0
+A*,,62287,goal,30,1.0
+A*,,62288,goal,30,1.0
+A*,,62289,goal,30,1.0
+A*,,62290,goal,30,1.0
+A*,,62291,goal,30,1.0
+A*,,62292,goal,30,1.0
+A*,,62293,goal,30,1.0
+A*,,62294,goal,30,1.0
+A*,,62295,goal,30,1.0
+A*,,62296,goal,30,1.0
+A*,,62297,goal,30,1.0
+A*,,62298,goal,30,1.0
+A*,,62299,goal,30,1.0
+R1 plus,0,62000,goal,38,0.7894736842105263
+R1 plus,0,62001,timeout,400,
+R1 plus,0,62002,goal,30,1.0
+R1 plus,0,62003,goal,32,0.9375
+R1 plus,0,62004,goal,32,0.9375
+R1 plus,0,62005,timeout,400,
+R1 plus,0,62006,timeout,400,
+R1 plus,0,62007,goal,32,0.9375
+R1 plus,0,62008,timeout,400,
+R1 plus,0,62009,goal,34,0.8823529411764706
+R1 plus,0,62010,goal,30,1.0
+R1 plus,0,62011,goal,32,0.9375
+R1 plus,0,62012,timeout,400,
+R1 plus,0,62013,timeout,400,
+R1 plus,0,62014,timeout,400,
+R1 plus,0,62015,goal,36,0.8333333333333334
+R1 plus,0,62016,goal,32,0.9375
+R1 plus,0,62017,goal,34,0.8823529411764706
+R1 plus,0,62018,goal,34,0.8823529411764706
+R1 plus,0,62019,goal,30,1.0
+R1 plus,0,62020,goal,32,0.9375
+R1 plus,0,62021,timeout,400,
+R1 plus,0,62022,goal,38,0.7894736842105263
+R1 plus,0,62023,timeout,400,
+R1 plus,0,62024,goal,30,1.0
+R1 plus,0,62025,timeout,400,
+R1 plus,0,62026,timeout,400,
+R1 plus,0,62027,goal,30,1.0
+R1 plus,0,62028,goal,30,1.0
+R1 plus,0,62029,goal,32,0.9375
+R1 plus,0,62030,goal,32,0.9375
+R1 plus,0,62031,goal,30,1.0
+R1 plus,0,62032,goal,32,0.9375
+R1 plus,0,62033,timeout,400,
+R1 plus,0,62034,timeout,400,
+R1 plus,0,62035,goal,30,1.0
+R1 plus,0,62036,goal,34,0.8823529411764706
+R1 plus,0,62037,goal,32,0.9375
+R1 plus,0,62038,goal,32,0.9375
+R1 plus,0,62039,goal,30,1.0
+R1 plus,0,62040,timeout,400,
+R1 plus,0,62041,goal,34,0.8823529411764706
+R1 plus,0,62042,goal,34,0.8823529411764706
+R1 plus,0,62043,goal,36,0.8333333333333334
+R1 plus,0,62044,goal,30,1.0
+R1 plus,0,62045,timeout,400,
+R1 plus,0,62046,goal,32,0.9375
+R1 plus,0,62047,timeout,400,
+R1 plus,0,62048,goal,34,0.8823529411764706
+R1 plus,0,62049,timeout,400,
+R1 plus,0,62050,timeout,400,
+R1 plus,0,62051,timeout,400,
+R1 plus,0,62052,goal,38,0.7894736842105263
+R1 plus,0,62053,timeout,400,
+R1 plus,0,62054,goal,30,1.0
+R1 plus,0,62055,timeout,400,
+R1 plus,0,62056,goal,30,1.0
+R1 plus,0,62057,goal,34,0.8823529411764706
+R1 plus,0,62058,goal,30,1.0
+R1 plus,0,62059,timeout,400,
+R1 plus,0,62060,timeout,400,
+R1 plus,0,62061,goal,30,1.0
+R1 plus,0,62062,timeout,400,
+R1 plus,0,62063,goal,34,0.8823529411764706
+R1 plus,0,62064,goal,30,1.0
+R1 plus,0,62065,goal,30,1.0
+R1 plus,0,62066,goal,34,0.8823529411764706
+R1 plus,0,62067,goal,32,0.9375
+R1 plus,0,62068,timeout,400,
+R1 plus,0,62069,goal,32,0.9375
+R1 plus,0,62070,timeout,400,
+R1 plus,0,62071,goal,30,1.0
+R1 plus,0,62072,goal,32,0.9375
+R1 plus,0,62073,goal,34,0.8823529411764706
+R1 plus,0,62074,timeout,400,
+R1 plus,0,62075,timeout,400,
+R1 plus,0,62076,goal,30,1.0
+R1 plus,0,62077,timeout,400,
+R1 plus,0,62078,timeout,400,
+R1 plus,0,62079,goal,30,1.0
+R1 plus,0,62080,timeout,400,
+R1 plus,0,62081,goal,30,1.0
+R1 plus,0,62082,timeout,400,
+R1 plus,0,62083,goal,32,0.9375
+R1 plus,0,62084,goal,30,1.0
+R1 plus,0,62085,timeout,400,
+R1 plus,0,62086,goal,32,0.9375
+R1 plus,0,62087,goal,34,0.8823529411764706
+R1 plus,0,62088,timeout,400,
+R1 plus,0,62089,timeout,400,
+R1 plus,0,62090,goal,32,0.9375
+R1 plus,0,62091,goal,32,0.9375
+R1 plus,0,62092,goal,32,0.9375
+R1 plus,0,62093,goal,30,1.0
+R1 plus,0,62094,goal,30,1.0
+R1 plus,0,62095,timeout,400,
+R1 plus,0,62096,goal,30,1.0
+R1 plus,0,62097,goal,34,0.8823529411764706
+R1 plus,0,62098,goal,34,0.8823529411764706
+R1 plus,0,62099,goal,32,0.9375
+R1 plus,0,62100,timeout,400,
+R1 plus,0,62101,goal,30,1.0
+R1 plus,0,62102,goal,32,0.9375
+R1 plus,0,62103,goal,34,0.8823529411764706
+R1 plus,0,62104,goal,42,0.7142857142857143
+R1 plus,0,62105,goal,30,1.0
+R1 plus,0,62106,goal,30,1.0
+R1 plus,0,62107,goal,32,0.9375
+R1 plus,0,62108,timeout,400,
+R1 plus,0,62109,timeout,400,
+R1 plus,0,62110,goal,30,1.0
+R1 plus,0,62111,timeout,400,
+R1 plus,0,62112,goal,42,0.7142857142857143
+R1 plus,0,62113,goal,30,1.0
+R1 plus,0,62114,goal,32,0.9375
+R1 plus,0,62115,timeout,400,
+R1 plus,0,62116,goal,32,0.9375
+R1 plus,0,62117,goal,34,0.8823529411764706
+R1 plus,0,62118,goal,32,0.9375
+R1 plus,0,62119,goal,32,0.9375
+R1 plus,0,62120,goal,30,1.0
+R1 plus,0,62121,goal,32,0.9375
+R1 plus,0,62122,goal,30,1.0
+R1 plus,0,62123,goal,32,0.9375
+R1 plus,0,62124,goal,36,0.8333333333333334
+R1 plus,0,62125,timeout,400,
+R1 plus,0,62126,goal,30,1.0
+R1 plus,0,62127,goal,36,0.8333333333333334
+R1 plus,0,62128,goal,32,0.9375
+R1 plus,0,62129,timeout,400,
+R1 plus,0,62130,goal,38,0.7894736842105263
+R1 plus,0,62131,goal,34,0.8823529411764706
+R1 plus,0,62132,timeout,400,
+R1 plus,0,62133,timeout,400,
+R1 plus,0,62134,goal,42,0.7142857142857143
+R1 plus,0,62135,goal,30,1.0
+R1 plus,0,62136,goal,30,1.0
+R1 plus,0,62137,goal,30,1.0
+R1 plus,0,62138,timeout,400,
+R1 plus,0,62139,timeout,400,
+R1 plus,0,62140,goal,34,0.8823529411764706
+R1 plus,0,62141,timeout,400,
+R1 plus,0,62142,goal,32,0.9375
+R1 plus,0,62143,goal,32,0.9375
+R1 plus,0,62144,goal,32,0.9375
+R1 plus,0,62145,goal,32,0.9375
+R1 plus,0,62146,goal,32,0.9375
+R1 plus,0,62147,goal,32,0.9375
+R1 plus,0,62148,timeout,400,
+R1 plus,0,62149,goal,30,1.0
+R1 plus,0,62150,goal,30,1.0
+R1 plus,0,62151,goal,30,1.0
+R1 plus,0,62152,goal,30,1.0
+R1 plus,0,62153,goal,30,1.0
+R1 plus,0,62154,timeout,400,
+R1 plus,0,62155,goal,30,1.0
+R1 plus,0,62156,timeout,400,
+R1 plus,0,62157,goal,32,0.9375
+R1 plus,0,62158,goal,30,1.0
+R1 plus,0,62159,goal,32,0.9375
+R1 plus,0,62160,timeout,400,
+R1 plus,0,62161,goal,34,0.8823529411764706
+R1 plus,0,62162,timeout,400,
+R1 plus,0,62163,goal,32,0.9375
+R1 plus,0,62164,goal,32,0.9375
+R1 plus,0,62165,timeout,400,
+R1 plus,0,62166,timeout,400,
+R1 plus,0,62167,goal,32,0.9375
+R1 plus,0,62168,goal,34,0.8823529411764706
+R1 plus,0,62169,goal,30,1.0
+R1 plus,0,62170,goal,32,0.9375
+R1 plus,0,62171,goal,36,0.8333333333333334
+R1 plus,0,62172,timeout,400,
+R1 plus,0,62173,goal,32,0.9375
+R1 plus,0,62174,goal,30,1.0
+R1 plus,0,62175,goal,34,0.8823529411764706
+R1 plus,0,62176,goal,30,1.0
+R1 plus,0,62177,goal,32,0.9375
+R1 plus,0,62178,goal,30,1.0
+R1 plus,0,62179,timeout,400,
+R1 plus,0,62180,goal,34,0.8823529411764706
+R1 plus,0,62181,timeout,400,
+R1 plus,0,62182,goal,30,1.0
+R1 plus,0,62183,timeout,400,
+R1 plus,0,62184,timeout,400,
+R1 plus,0,62185,goal,32,0.9375
+R1 plus,0,62186,goal,32,0.9375
+R1 plus,0,62187,goal,32,0.9375
+R1 plus,0,62188,goal,34,0.8823529411764706
+R1 plus,0,62189,goal,38,0.7894736842105263
+R1 plus,0,62190,timeout,400,
+R1 plus,0,62191,goal,36,0.8333333333333334
+R1 plus,0,62192,goal,30,1.0
+R1 plus,0,62193,timeout,400,
+R1 plus,0,62194,goal,32,0.9375
+R1 plus,0,62195,goal,32,0.9375
+R1 plus,0,62196,goal,30,1.0
+R1 plus,0,62197,goal,30,1.0
+R1 plus,0,62198,goal,30,1.0
+R1 plus,0,62199,goal,30,1.0
+R1 plus,0,62200,timeout,400,
+R1 plus,0,62201,goal,30,1.0
+R1 plus,0,62202,goal,30,1.0
+R1 plus,0,62203,goal,30,1.0
+R1 plus,0,62204,goal,32,0.9375
+R1 plus,0,62205,goal,32,0.9375
+R1 plus,0,62206,timeout,400,
+R1 plus,0,62207,timeout,400,
+R1 plus,0,62208,goal,32,0.9375
+R1 plus,0,62209,goal,30,1.0
+R1 plus,0,62210,goal,32,0.9375
+R1 plus,0,62211,timeout,400,
+R1 plus,0,62212,goal,32,0.9375
+R1 plus,0,62213,timeout,400,
+R1 plus,0,62214,goal,36,0.8333333333333334
+R1 plus,0,62215,goal,30,1.0
+R1 plus,0,62216,goal,34,0.8823529411764706
+R1 plus,0,62217,goal,36,0.8333333333333334
+R1 plus,0,62218,timeout,400,
+R1 plus,0,62219,timeout,400,
+R1 plus,0,62220,goal,34,0.8823529411764706
+R1 plus,0,62221,goal,36,0.8333333333333334
+R1 plus,0,62222,timeout,400,
+R1 plus,0,62223,goal,34,0.8823529411764706
+R1 plus,0,62224,goal,32,0.9375
+R1 plus,0,62225,goal,32,0.9375
+R1 plus,0,62226,goal,30,1.0
+R1 plus,0,62227,goal,34,0.8823529411764706
+R1 plus,0,62228,goal,36,0.8333333333333334
+R1 plus,0,62229,goal,32,0.9375
+R1 plus,0,62230,goal,30,1.0
+R1 plus,0,62231,timeout,400,
+R1 plus,0,62232,timeout,400,
+R1 plus,0,62233,goal,36,0.8333333333333334
+R1 plus,0,62234,goal,30,1.0
+R1 plus,0,62235,goal,32,0.9375
+R1 plus,0,62236,timeout,400,
+R1 plus,0,62237,goal,32,0.9375
+R1 plus,0,62238,timeout,400,
+R1 plus,0,62239,goal,30,1.0
+R1 plus,0,62240,goal,30,1.0
+R1 plus,0,62241,goal,30,1.0
+R1 plus,0,62242,timeout,400,
+R1 plus,0,62243,goal,30,1.0
+R1 plus,0,62244,goal,30,1.0
+R1 plus,0,62245,timeout,400,
+R1 plus,0,62246,goal,34,0.8823529411764706
+R1 plus,0,62247,timeout,400,
+R1 plus,0,62248,goal,30,1.0
+R1 plus,0,62249,goal,34,0.8823529411764706
+R1 plus,0,62250,goal,34,0.8823529411764706
+R1 plus,0,62251,goal,34,0.8823529411764706
+R1 plus,0,62252,goal,30,1.0
+R1 plus,0,62253,timeout,400,
+R1 plus,0,62254,goal,30,1.0
+R1 plus,0,62255,timeout,400,
+R1 plus,0,62256,timeout,400,
+R1 plus,0,62257,goal,30,1.0
+R1 plus,0,62258,goal,32,0.9375
+R1 plus,0,62259,goal,36,0.8333333333333334
+R1 plus,0,62260,goal,32,0.9375
+R1 plus,0,62261,timeout,400,
+R1 plus,0,62262,goal,32,0.9375
+R1 plus,0,62263,goal,30,1.0
+R1 plus,0,62264,goal,30,1.0
+R1 plus,0,62265,goal,42,0.7142857142857143
+R1 plus,0,62266,goal,30,1.0
+R1 plus,0,62267,goal,36,0.8333333333333334
+R1 plus,0,62268,goal,30,1.0
+R1 plus,0,62269,timeout,400,
+R1 plus,0,62270,goal,32,0.9375
+R1 plus,0,62271,goal,36,0.8333333333333334
+R1 plus,0,62272,goal,40,0.75
+R1 plus,0,62273,goal,30,1.0
+R1 plus,0,62274,goal,30,1.0
+R1 plus,0,62275,goal,32,0.9375
+R1 plus,0,62276,timeout,400,
+R1 plus,0,62277,goal,30,1.0
+R1 plus,0,62278,goal,34,0.8823529411764706
+R1 plus,0,62279,timeout,400,
+R1 plus,0,62280,timeout,400,
+R1 plus,0,62281,goal,30,1.0
+R1 plus,0,62282,goal,30,1.0
+R1 plus,0,62283,goal,30,1.0
+R1 plus,0,62284,goal,30,1.0
+R1 plus,0,62285,goal,30,1.0
+R1 plus,0,62286,timeout,400,
+R1 plus,0,62287,goal,30,1.0
+R1 plus,0,62288,timeout,400,
+R1 plus,0,62289,goal,34,0.8823529411764706
+R1 plus,0,62290,timeout,400,
+R1 plus,0,62291,goal,34,0.8823529411764706
+R1 plus,0,62292,goal,30,1.0
+R1 plus,0,62293,goal,30,1.0
+R1 plus,0,62294,goal,32,0.9375
+R1 plus,0,62295,goal,32,0.9375
+R1 plus,0,62296,timeout,400,
+R1 plus,0,62297,goal,30,1.0
+R1 plus,0,62298,timeout,400,
+R1 plus,0,62299,goal,34,0.8823529411764706
+R1 plus,1,62000,goal,30,1.0
+R1 plus,1,62001,timeout,400,
+R1 plus,1,62002,goal,30,1.0
+R1 plus,1,62003,timeout,400,
+R1 plus,1,62004,goal,32,0.9375
+R1 plus,1,62005,goal,30,1.0
+R1 plus,1,62006,goal,30,1.0
+R1 plus,1,62007,timeout,400,
+R1 plus,1,62008,goal,32,0.9375
+R1 plus,1,62009,goal,30,1.0
+R1 plus,1,62010,goal,30,1.0
+R1 plus,1,62011,goal,32,0.9375
+R1 plus,1,62012,goal,32,0.9375
+R1 plus,1,62013,goal,34,0.8823529411764706
+R1 plus,1,62014,timeout,400,
+R1 plus,1,62015,goal,32,0.9375
+R1 plus,1,62016,goal,36,0.8333333333333334
+R1 plus,1,62017,goal,32,0.9375
+R1 plus,1,62018,goal,34,0.8823529411764706
+R1 plus,1,62019,goal,34,0.8823529411764706
+R1 plus,1,62020,timeout,400,
+R1 plus,1,62021,goal,32,0.9375
+R1 plus,1,62022,timeout,400,
+R1 plus,1,62023,timeout,400,
+R1 plus,1,62024,goal,32,0.9375
+R1 plus,1,62025,goal,30,1.0
+R1 plus,1,62026,timeout,400,
+R1 plus,1,62027,goal,30,1.0
+R1 plus,1,62028,goal,30,1.0
+R1 plus,1,62029,goal,30,1.0
+R1 plus,1,62030,goal,30,1.0
+R1 plus,1,62031,goal,30,1.0
+R1 plus,1,62032,goal,34,0.8823529411764706
+R1 plus,1,62033,timeout,400,
+R1 plus,1,62034,goal,30,1.0
+R1 plus,1,62035,timeout,400,
+R1 plus,1,62036,goal,30,1.0
+R1 plus,1,62037,goal,38,0.7894736842105263
+R1 plus,1,62038,goal,30,1.0
+R1 plus,1,62039,goal,32,0.9375
+R1 plus,1,62040,timeout,400,
+R1 plus,1,62041,goal,34,0.8823529411764706
+R1 plus,1,62042,goal,34,0.8823529411764706
+R1 plus,1,62043,goal,32,0.9375
+R1 plus,1,62044,goal,30,1.0
+R1 plus,1,62045,goal,32,0.9375
+R1 plus,1,62046,goal,30,1.0
+R1 plus,1,62047,goal,32,0.9375
+R1 plus,1,62048,goal,32,0.9375
+R1 plus,1,62049,goal,32,0.9375
+R1 plus,1,62050,goal,30,1.0
+R1 plus,1,62051,goal,30,1.0
+R1 plus,1,62052,goal,32,0.9375
+R1 plus,1,62053,timeout,400,
+R1 plus,1,62054,goal,34,0.8823529411764706
+R1 plus,1,62055,timeout,400,
+R1 plus,1,62056,goal,30,1.0
+R1 plus,1,62057,goal,32,0.9375
+R1 plus,1,62058,timeout,400,
+R1 plus,1,62059,timeout,400,
+R1 plus,1,62060,goal,32,0.9375
+R1 plus,1,62061,goal,32,0.9375
+R1 plus,1,62062,goal,32,0.9375
+R1 plus,1,62063,goal,34,0.8823529411764706
+R1 plus,1,62064,goal,32,0.9375
+R1 plus,1,62065,goal,30,1.0
+R1 plus,1,62066,goal,32,0.9375
+R1 plus,1,62067,goal,32,0.9375
+R1 plus,1,62068,timeout,400,
+R1 plus,1,62069,goal,34,0.8823529411764706
+R1 plus,1,62070,goal,30,1.0
+R1 plus,1,62071,goal,30,1.0
+R1 plus,1,62072,goal,30,1.0
+R1 plus,1,62073,timeout,400,
+R1 plus,1,62074,timeout,400,
+R1 plus,1,62075,timeout,400,
+R1 plus,1,62076,goal,30,1.0
+R1 plus,1,62077,timeout,400,
+R1 plus,1,62078,timeout,400,
+R1 plus,1,62079,goal,30,1.0
+R1 plus,1,62080,goal,34,0.8823529411764706
+R1 plus,1,62081,goal,30,1.0
+R1 plus,1,62082,timeout,400,
+R1 plus,1,62083,timeout,400,
+R1 plus,1,62084,goal,32,0.9375
+R1 plus,1,62085,goal,30,1.0
+R1 plus,1,62086,goal,30,1.0
+R1 plus,1,62087,goal,32,0.9375
+R1 plus,1,62088,timeout,400,
+R1 plus,1,62089,timeout,400,
+R1 plus,1,62090,goal,32,0.9375
+R1 plus,1,62091,timeout,400,
+R1 plus,1,62092,goal,32,0.9375
+R1 plus,1,62093,goal,32,0.9375
+R1 plus,1,62094,goal,30,1.0
+R1 plus,1,62095,goal,32,0.9375
+R1 plus,1,62096,goal,36,0.8333333333333334
+R1 plus,1,62097,goal,30,1.0
+R1 plus,1,62098,goal,30,1.0
+R1 plus,1,62099,timeout,400,
+R1 plus,1,62100,goal,30,1.0
+R1 plus,1,62101,goal,34,0.8823529411764706
+R1 plus,1,62102,goal,30,1.0
+R1 plus,1,62103,timeout,400,
+R1 plus,1,62104,goal,32,0.9375
+R1 plus,1,62105,goal,30,1.0
+R1 plus,1,62106,goal,34,0.8823529411764706
+R1 plus,1,62107,goal,32,0.9375
+R1 plus,1,62108,timeout,400,
+R1 plus,1,62109,timeout,400,
+R1 plus,1,62110,goal,32,0.9375
+R1 plus,1,62111,goal,30,1.0
+R1 plus,1,62112,timeout,400,
+R1 plus,1,62113,goal,30,1.0
+R1 plus,1,62114,goal,30,1.0
+R1 plus,1,62115,timeout,400,
+R1 plus,1,62116,goal,30,1.0
+R1 plus,1,62117,timeout,400,
+R1 plus,1,62118,timeout,400,
+R1 plus,1,62119,goal,32,0.9375
+R1 plus,1,62120,goal,32,0.9375
+R1 plus,1,62121,goal,32,0.9375
+R1 plus,1,62122,goal,34,0.8823529411764706
+R1 plus,1,62123,goal,32,0.9375
+R1 plus,1,62124,goal,32,0.9375
+R1 plus,1,62125,goal,32,0.9375
+R1 plus,1,62126,goal,30,1.0
+R1 plus,1,62127,goal,38,0.7894736842105263
+R1 plus,1,62128,goal,32,0.9375
+R1 plus,1,62129,timeout,400,
+R1 plus,1,62130,timeout,400,
+R1 plus,1,62131,goal,30,1.0
+R1 plus,1,62132,goal,34,0.8823529411764706
+R1 plus,1,62133,goal,38,0.7894736842105263
+R1 plus,1,62134,goal,32,0.9375
+R1 plus,1,62135,goal,32,0.9375
+R1 plus,1,62136,goal,34,0.8823529411764706
+R1 plus,1,62137,goal,32,0.9375
+R1 plus,1,62138,goal,38,0.7894736842105263
+R1 plus,1,62139,goal,34,0.8823529411764706
+R1 plus,1,62140,timeout,400,
+R1 plus,1,62141,goal,30,1.0
+R1 plus,1,62142,goal,30,1.0
+R1 plus,1,62143,goal,32,0.9375
+R1 plus,1,62144,timeout,400,
+R1 plus,1,62145,goal,30,1.0
+R1 plus,1,62146,goal,32,0.9375
+R1 plus,1,62147,timeout,400,
+R1 plus,1,62148,timeout,400,
+R1 plus,1,62149,goal,30,1.0
+R1 plus,1,62150,goal,30,1.0
+R1 plus,1,62151,goal,30,1.0
+R1 plus,1,62152,goal,32,0.9375
+R1 plus,1,62153,goal,30,1.0
+R1 plus,1,62154,timeout,400,
+R1 plus,1,62155,goal,32,0.9375
+R1 plus,1,62156,timeout,400,
+R1 plus,1,62157,goal,32,0.9375
+R1 plus,1,62158,goal,32,0.9375
+R1 plus,1,62159,goal,30,1.0
+R1 plus,1,62160,timeout,400,
+R1 plus,1,62161,goal,34,0.8823529411764706
+R1 plus,1,62162,timeout,400,
+R1 plus,1,62163,goal,34,0.8823529411764706
+R1 plus,1,62164,goal,32,0.9375
+R1 plus,1,62165,goal,32,0.9375
+R1 plus,1,62166,timeout,400,
+R1 plus,1,62167,timeout,400,
+R1 plus,1,62168,timeout,400,
+R1 plus,1,62169,goal,34,0.8823529411764706
+R1 plus,1,62170,goal,32,0.9375
+R1 plus,1,62171,goal,30,1.0
+R1 plus,1,62172,timeout,400,
+R1 plus,1,62173,goal,30,1.0
+R1 plus,1,62174,goal,32,0.9375
+R1 plus,1,62175,goal,32,0.9375
+R1 plus,1,62176,goal,38,0.7894736842105263
+R1 plus,1,62177,timeout,400,
+R1 plus,1,62178,goal,32,0.9375
+R1 plus,1,62179,goal,34,0.8823529411764706
+R1 plus,1,62180,goal,32,0.9375
+R1 plus,1,62181,goal,30,1.0
+R1 plus,1,62182,timeout,400,
+R1 plus,1,62183,timeout,400,
+R1 plus,1,62184,timeout,400,
+R1 plus,1,62185,goal,30,1.0
+R1 plus,1,62186,goal,34,0.8823529411764706
+R1 plus,1,62187,goal,30,1.0
+R1 plus,1,62188,goal,30,1.0
+R1 plus,1,62189,goal,30,1.0
+R1 plus,1,62190,goal,32,0.9375
+R1 plus,1,62191,goal,30,1.0
+R1 plus,1,62192,goal,30,1.0
+R1 plus,1,62193,goal,32,0.9375
+R1 plus,1,62194,goal,32,0.9375
+R1 plus,1,62195,goal,34,0.8823529411764706
+R1 plus,1,62196,goal,30,1.0
+R1 plus,1,62197,timeout,400,
+R1 plus,1,62198,goal,32,0.9375
+R1 plus,1,62199,goal,36,0.8333333333333334
+R1 plus,1,62200,timeout,400,
+R1 plus,1,62201,goal,30,1.0
+R1 plus,1,62202,goal,32,0.9375
+R1 plus,1,62203,goal,34,0.8823529411764706
+R1 plus,1,62204,goal,32,0.9375
+R1 plus,1,62205,goal,30,1.0
+R1 plus,1,62206,timeout,400,
+R1 plus,1,62207,timeout,400,
+R1 plus,1,62208,goal,32,0.9375
+R1 plus,1,62209,timeout,400,
+R1 plus,1,62210,timeout,400,
+R1 plus,1,62211,goal,32,0.9375
+R1 plus,1,62212,goal,30,1.0
+R1 plus,1,62213,goal,30,1.0
+R1 plus,1,62214,goal,32,0.9375
+R1 plus,1,62215,goal,30,1.0
+R1 plus,1,62216,goal,30,1.0
+R1 plus,1,62217,goal,32,0.9375
+R1 plus,1,62218,timeout,400,
+R1 plus,1,62219,goal,30,1.0
+R1 plus,1,62220,timeout,400,
+R1 plus,1,62221,goal,34,0.8823529411764706
+R1 plus,1,62222,timeout,400,
+R1 plus,1,62223,timeout,400,
+R1 plus,1,62224,goal,38,0.7894736842105263
+R1 plus,1,62225,goal,32,0.9375
+R1 plus,1,62226,timeout,400,
+R1 plus,1,62227,goal,32,0.9375
+R1 plus,1,62228,timeout,400,
+R1 plus,1,62229,goal,30,1.0
+R1 plus,1,62230,goal,30,1.0
+R1 plus,1,62231,goal,32,0.9375
+R1 plus,1,62232,timeout,400,
+R1 plus,1,62233,goal,34,0.8823529411764706
+R1 plus,1,62234,goal,32,0.9375
+R1 plus,1,62235,goal,30,1.0
+R1 plus,1,62236,goal,32,0.9375
+R1 plus,1,62237,timeout,400,
+R1 plus,1,62238,timeout,400,
+R1 plus,1,62239,goal,32,0.9375
+R1 plus,1,62240,goal,36,0.8333333333333334
+R1 plus,1,62241,timeout,400,
+R1 plus,1,62242,goal,32,0.9375
+R1 plus,1,62243,timeout,400,
+R1 plus,1,62244,timeout,400,
+R1 plus,1,62245,timeout,400,
+R1 plus,1,62246,goal,32,0.9375
+R1 plus,1,62247,goal,30,1.0
+R1 plus,1,62248,goal,32,0.9375
+R1 plus,1,62249,goal,30,1.0
+R1 plus,1,62250,goal,32,0.9375
+R1 plus,1,62251,goal,32,0.9375
+R1 plus,1,62252,goal,34,0.8823529411764706
+R1 plus,1,62253,timeout,400,
+R1 plus,1,62254,goal,30,1.0
+R1 plus,1,62255,timeout,400,
+R1 plus,1,62256,timeout,400,
+R1 plus,1,62257,goal,36,0.8333333333333334
+R1 plus,1,62258,goal,32,0.9375
+R1 plus,1,62259,goal,32,0.9375
+R1 plus,1,62260,goal,30,1.0
+R1 plus,1,62261,goal,30,1.0
+R1 plus,1,62262,goal,32,0.9375
+R1 plus,1,62263,goal,30,1.0
+R1 plus,1,62264,goal,36,0.8333333333333334
+R1 plus,1,62265,goal,32,0.9375
+R1 plus,1,62266,goal,38,0.7894736842105263
+R1 plus,1,62267,timeout,400,
+R1 plus,1,62268,goal,32,0.9375
+R1 plus,1,62269,timeout,400,
+R1 plus,1,62270,goal,32,0.9375
+R1 plus,1,62271,goal,30,1.0
+R1 plus,1,62272,goal,30,1.0
+R1 plus,1,62273,goal,32,0.9375
+R1 plus,1,62274,goal,30,1.0
+R1 plus,1,62275,goal,34,0.8823529411764706
+R1 plus,1,62276,timeout,400,
+R1 plus,1,62277,goal,32,0.9375
+R1 plus,1,62278,timeout,400,
+R1 plus,1,62279,goal,30,1.0
+R1 plus,1,62280,timeout,400,
+R1 plus,1,62281,goal,30,1.0
+R1 plus,1,62282,goal,32,0.9375
+R1 plus,1,62283,timeout,400,
+R1 plus,1,62284,timeout,400,
+R1 plus,1,62285,goal,30,1.0
+R1 plus,1,62286,timeout,400,
+R1 plus,1,62287,goal,30,1.0
+R1 plus,1,62288,goal,36,0.8333333333333334
+R1 plus,1,62289,goal,34,0.8823529411764706
+R1 plus,1,62290,timeout,400,
+R1 plus,1,62291,goal,34,0.8823529411764706
+R1 plus,1,62292,goal,32,0.9375
+R1 plus,1,62293,goal,30,1.0
+R1 plus,1,62294,goal,42,0.7142857142857143
+R1 plus,1,62295,goal,30,1.0
+R1 plus,1,62296,timeout,400,
+R1 plus,1,62297,goal,32,0.9375
+R1 plus,1,62298,timeout,400,
+R1 plus,1,62299,goal,30,1.0
+R1 plus,2,62000,goal,34,0.8823529411764706
+R1 plus,2,62001,timeout,400,
+R1 plus,2,62002,goal,32,0.9375
+R1 plus,2,62003,timeout,400,
+R1 plus,2,62004,goal,32,0.9375
+R1 plus,2,62005,timeout,400,
+R1 plus,2,62006,timeout,400,
+R1 plus,2,62007,goal,32,0.9375
+R1 plus,2,62008,timeout,400,
+R1 plus,2,62009,goal,36,0.8333333333333334
+R1 plus,2,62010,goal,30,1.0
+R1 plus,2,62011,timeout,400,
+R1 plus,2,62012,timeout,400,
+R1 plus,2,62013,timeout,400,
+R1 plus,2,62014,timeout,400,
+R1 plus,2,62015,timeout,400,
+R1 plus,2,62016,goal,32,0.9375
+R1 plus,2,62017,goal,40,0.75
+R1 plus,2,62018,timeout,400,
+R1 plus,2,62019,goal,36,0.8333333333333334
+R1 plus,2,62020,goal,32,0.9375
+R1 plus,2,62021,timeout,400,
+R1 plus,2,62022,timeout,400,
+R1 plus,2,62023,timeout,400,
+R1 plus,2,62024,goal,30,1.0
+R1 plus,2,62025,timeout,400,
+R1 plus,2,62026,timeout,400,
+R1 plus,2,62027,goal,32,0.9375
+R1 plus,2,62028,timeout,400,
+R1 plus,2,62029,goal,34,0.8823529411764706
+R1 plus,2,62030,goal,38,0.7894736842105263
+R1 plus,2,62031,goal,30,1.0
+R1 plus,2,62032,goal,34,0.8823529411764706
+R1 plus,2,62033,timeout,400,
+R1 plus,2,62034,timeout,400,
+R1 plus,2,62035,goal,32,0.9375
+R1 plus,2,62036,goal,32,0.9375
+R1 plus,2,62037,goal,32,0.9375
+R1 plus,2,62038,goal,34,0.8823529411764706
+R1 plus,2,62039,goal,34,0.8823529411764706
+R1 plus,2,62040,timeout,400,
+R1 plus,2,62041,timeout,400,
+R1 plus,2,62042,timeout,400,
+R1 plus,2,62043,goal,34,0.8823529411764706
+R1 plus,2,62044,goal,34,0.8823529411764706
+R1 plus,2,62045,timeout,400,
+R1 plus,2,62046,goal,32,0.9375
+R1 plus,2,62047,timeout,400,
+R1 plus,2,62048,goal,36,0.8333333333333334
+R1 plus,2,62049,timeout,400,
+R1 plus,2,62050,timeout,400,
+R1 plus,2,62051,timeout,400,
+R1 plus,2,62052,goal,40,0.75
+R1 plus,2,62053,timeout,400,
+R1 plus,2,62054,goal,38,0.7894736842105263
+R1 plus,2,62055,timeout,400,
+R1 plus,2,62056,goal,30,1.0
+R1 plus,2,62057,goal,36,0.8333333333333334
+R1 plus,2,62058,goal,30,1.0
+R1 plus,2,62059,timeout,400,
+R1 plus,2,62060,timeout,400,
+R1 plus,2,62061,goal,32,0.9375
+R1 plus,2,62062,timeout,400,
+R1 plus,2,62063,timeout,400,
+R1 plus,2,62064,goal,30,1.0
+R1 plus,2,62065,goal,34,0.8823529411764706
+R1 plus,2,62066,goal,34,0.8823529411764706
+R1 plus,2,62067,goal,32,0.9375
+R1 plus,2,62068,timeout,400,
+R1 plus,2,62069,goal,34,0.8823529411764706
+R1 plus,2,62070,goal,30,1.0
+R1 plus,2,62071,goal,32,0.9375
+R1 plus,2,62072,goal,32,0.9375
+R1 plus,2,62073,goal,36,0.8333333333333334
+R1 plus,2,62074,timeout,400,
+R1 plus,2,62075,timeout,400,
+R1 plus,2,62076,goal,30,1.0
+R1 plus,2,62077,timeout,400,
+R1 plus,2,62078,timeout,400,
+R1 plus,2,62079,goal,32,0.9375
+R1 plus,2,62080,timeout,400,
+R1 plus,2,62081,goal,34,0.8823529411764706
+R1 plus,2,62082,timeout,400,
+R1 plus,2,62083,goal,36,0.8333333333333334
+R1 plus,2,62084,timeout,400,
+R1 plus,2,62085,timeout,400,
+R1 plus,2,62086,goal,34,0.8823529411764706
+R1 plus,2,62087,goal,32,0.9375
+R1 plus,2,62088,timeout,400,
+R1 plus,2,62089,timeout,400,
+R1 plus,2,62090,goal,32,0.9375
+R1 plus,2,62091,timeout,400,
+R1 plus,2,62092,goal,36,0.8333333333333334
+R1 plus,2,62093,goal,30,1.0
+R1 plus,2,62094,goal,34,0.8823529411764706
+R1 plus,2,62095,timeout,400,
+R1 plus,2,62096,timeout,400,
+R1 plus,2,62097,goal,32,0.9375
+R1 plus,2,62098,goal,30,1.0
+R1 plus,2,62099,goal,36,0.8333333333333334
+R1 plus,2,62100,timeout,400,
+R1 plus,2,62101,goal,36,0.8333333333333334
+R1 plus,2,62102,goal,34,0.8823529411764706
+R1 plus,2,62103,goal,36,0.8333333333333334
+R1 plus,2,62104,goal,34,0.8823529411764706
+R1 plus,2,62105,goal,30,1.0
+R1 plus,2,62106,goal,30,1.0
+R1 plus,2,62107,timeout,400,
+R1 plus,2,62108,timeout,400,
+R1 plus,2,62109,timeout,400,
+R1 plus,2,62110,goal,30,1.0
+R1 plus,2,62111,timeout,400,
+R1 plus,2,62112,goal,46,0.6521739130434783
+R1 plus,2,62113,goal,32,0.9375
+R1 plus,2,62114,goal,32,0.9375
+R1 plus,2,62115,timeout,400,
+R1 plus,2,62116,goal,36,0.8333333333333334
+R1 plus,2,62117,goal,34,0.8823529411764706
+R1 plus,2,62118,timeout,400,
+R1 plus,2,62119,goal,36,0.8333333333333334
+R1 plus,2,62120,goal,34,0.8823529411764706
+R1 plus,2,62121,goal,34,0.8823529411764706
+R1 plus,2,62122,goal,42,0.7142857142857143
+R1 plus,2,62123,goal,32,0.9375
+R1 plus,2,62124,goal,36,0.8333333333333334
+R1 plus,2,62125,goal,38,0.7894736842105263
+R1 plus,2,62126,goal,36,0.8333333333333334
+R1 plus,2,62127,timeout,400,
+R1 plus,2,62128,goal,34,0.8823529411764706
+R1 plus,2,62129,timeout,400,
+R1 plus,2,62130,timeout,400,
+R1 plus,2,62131,goal,34,0.8823529411764706
+R1 plus,2,62132,timeout,400,
+R1 plus,2,62133,timeout,400,
+R1 plus,2,62134,goal,32,0.9375
+R1 plus,2,62135,goal,32,0.9375
+R1 plus,2,62136,goal,32,0.9375
+R1 plus,2,62137,goal,34,0.8823529411764706
+R1 plus,2,62138,timeout,400,
+R1 plus,2,62139,goal,40,0.75
+R1 plus,2,62140,goal,36,0.8333333333333334
+R1 plus,2,62141,timeout,400,
+R1 plus,2,62142,goal,36,0.8333333333333334
+R1 plus,2,62143,goal,34,0.8823529411764706
+R1 plus,2,62144,goal,36,0.8333333333333334
+R1 plus,2,62145,goal,34,0.8823529411764706
+R1 plus,2,62146,goal,34,0.8823529411764706
+R1 plus,2,62147,goal,32,0.9375
+R1 plus,2,62148,timeout,400,
+R1 plus,2,62149,goal,34,0.8823529411764706
+R1 plus,2,62150,goal,32,0.9375
+R1 plus,2,62151,goal,30,1.0
+R1 plus,2,62152,goal,36,0.8333333333333334
+R1 plus,2,62153,goal,32,0.9375
+R1 plus,2,62154,timeout,400,
+R1 plus,2,62155,goal,30,1.0
+R1 plus,2,62156,timeout,400,
+R1 plus,2,62157,goal,32,0.9375
+R1 plus,2,62158,timeout,400,
+R1 plus,2,62159,goal,30,1.0
+R1 plus,2,62160,timeout,400,
+R1 plus,2,62161,goal,32,0.9375
+R1 plus,2,62162,timeout,400,
+R1 plus,2,62163,goal,38,0.7894736842105263
+R1 plus,2,62164,goal,34,0.8823529411764706
+R1 plus,2,62165,timeout,400,
+R1 plus,2,62166,timeout,400,
+R1 plus,2,62167,timeout,400,
+R1 plus,2,62168,goal,40,0.75
+R1 plus,2,62169,goal,36,0.8333333333333334
+R1 plus,2,62170,goal,32,0.9375
+R1 plus,2,62171,goal,40,0.75
+R1 plus,2,62172,timeout,400,
+R1 plus,2,62173,goal,32,0.9375
+R1 plus,2,62174,goal,34,0.8823529411764706
+R1 plus,2,62175,goal,34,0.8823529411764706
+R1 plus,2,62176,goal,36,0.8333333333333334
+R1 plus,2,62177,goal,32,0.9375
+R1 plus,2,62178,goal,34,0.8823529411764706
+R1 plus,2,62179,goal,32,0.9375
+R1 plus,2,62180,goal,34,0.8823529411764706
+R1 plus,2,62181,timeout,400,
+R1 plus,2,62182,timeout,400,
+R1 plus,2,62183,timeout,400,
+R1 plus,2,62184,timeout,400,
+R1 plus,2,62185,goal,32,0.9375
+R1 plus,2,62186,timeout,400,
+R1 plus,2,62187,goal,30,1.0
+R1 plus,2,62188,goal,36,0.8333333333333334
+R1 plus,2,62189,goal,34,0.8823529411764706
+R1 plus,2,62190,timeout,400,
+R1 plus,2,62191,goal,32,0.9375
+R1 plus,2,62192,goal,30,1.0
+R1 plus,2,62193,timeout,400,
+R1 plus,2,62194,goal,38,0.7894736842105263
+R1 plus,2,62195,goal,36,0.8333333333333334
+R1 plus,2,62196,goal,30,1.0
+R1 plus,2,62197,goal,32,0.9375
+R1 plus,2,62198,goal,30,1.0
+R1 plus,2,62199,goal,30,1.0
+R1 plus,2,62200,timeout,400,
+R1 plus,2,62201,goal,34,0.8823529411764706
+R1 plus,2,62202,timeout,400,
+R1 plus,2,62203,goal,36,0.8333333333333334
+R1 plus,2,62204,goal,34,0.8823529411764706
+R1 plus,2,62205,goal,32,0.9375
+R1 plus,2,62206,timeout,400,
+R1 plus,2,62207,timeout,400,
+R1 plus,2,62208,timeout,400,
+R1 plus,2,62209,goal,34,0.8823529411764706
+R1 plus,2,62210,goal,32,0.9375
+R1 plus,2,62211,timeout,400,
+R1 plus,2,62212,goal,34,0.8823529411764706
+R1 plus,2,62213,timeout,400,
+R1 plus,2,62214,goal,36,0.8333333333333334
+R1 plus,2,62215,goal,30,1.0
+R1 plus,2,62216,goal,36,0.8333333333333334
+R1 plus,2,62217,goal,38,0.7894736842105263
+R1 plus,2,62218,timeout,400,
+R1 plus,2,62219,timeout,400,
+R1 plus,2,62220,goal,36,0.8333333333333334
+R1 plus,2,62221,timeout,400,
+R1 plus,2,62222,timeout,400,
+R1 plus,2,62223,timeout,400,
+R1 plus,2,62224,goal,32,0.9375
+R1 plus,2,62225,goal,34,0.8823529411764706
+R1 plus,2,62226,goal,34,0.8823529411764706
+R1 plus,2,62227,goal,34,0.8823529411764706
+R1 plus,2,62228,goal,38,0.7894736842105263
+R1 plus,2,62229,goal,32,0.9375
+R1 plus,2,62230,goal,30,1.0
+R1 plus,2,62231,timeout,400,
+R1 plus,2,62232,timeout,400,
+R1 plus,2,62233,timeout,400,
+R1 plus,2,62234,goal,30,1.0
+R1 plus,2,62235,timeout,400,
+R1 plus,2,62236,timeout,400,
+R1 plus,2,62237,goal,38,0.7894736842105263
+R1 plus,2,62238,goal,42,0.7142857142857143
+R1 plus,2,62239,goal,36,0.8333333333333334
+R1 plus,2,62240,goal,30,1.0
+R1 plus,2,62241,goal,30,1.0
+R1 plus,2,62242,timeout,400,
+R1 plus,2,62243,timeout,400,
+R1 plus,2,62244,goal,34,0.8823529411764706
+R1 plus,2,62245,timeout,400,
+R1 plus,2,62246,goal,32,0.9375
+R1 plus,2,62247,timeout,400,
+R1 plus,2,62248,goal,30,1.0
+R1 plus,2,62249,goal,32,0.9375
+R1 plus,2,62250,goal,36,0.8333333333333334
+R1 plus,2,62251,timeout,400,
+R1 plus,2,62252,timeout,400,
+R1 plus,2,62253,timeout,400,
+R1 plus,2,62254,goal,30,1.0
+R1 plus,2,62255,timeout,400,
+R1 plus,2,62256,timeout,400,
+R1 plus,2,62257,goal,32,0.9375
+R1 plus,2,62258,goal,32,0.9375
+R1 plus,2,62259,goal,38,0.7894736842105263
+R1 plus,2,62260,goal,32,0.9375
+R1 plus,2,62261,timeout,400,
+R1 plus,2,62262,goal,32,0.9375
+R1 plus,2,62263,goal,34,0.8823529411764706
+R1 plus,2,62264,goal,32,0.9375
+R1 plus,2,62265,timeout,400,
+R1 plus,2,62266,goal,34,0.8823529411764706
+R1 plus,2,62267,timeout,400,
+R1 plus,2,62268,goal,30,1.0
+R1 plus,2,62269,timeout,400,
+R1 plus,2,62270,timeout,400,
+R1 plus,2,62271,goal,34,0.8823529411764706
+R1 plus,2,62272,goal,32,0.9375
+R1 plus,2,62273,goal,32,0.9375
+R1 plus,2,62274,goal,32,0.9375
+R1 plus,2,62275,goal,38,0.7894736842105263
+R1 plus,2,62276,timeout,400,
+R1 plus,2,62277,goal,30,1.0
+R1 plus,2,62278,timeout,400,
+R1 plus,2,62279,timeout,400,
+R1 plus,2,62280,timeout,400,
+R1 plus,2,62281,goal,32,0.9375
+R1 plus,2,62282,goal,30,1.0
+R1 plus,2,62283,timeout,400,
+R1 plus,2,62284,goal,34,0.8823529411764706
+R1 plus,2,62285,goal,32,0.9375
+R1 plus,2,62286,timeout,400,
+R1 plus,2,62287,timeout,400,
+R1 plus,2,62288,timeout,400,
+R1 plus,2,62289,timeout,400,
+R1 plus,2,62290,timeout,400,
+R1 plus,2,62291,goal,34,0.8823529411764706
+R1 plus,2,62292,goal,36,0.8333333333333334
+R1 plus,2,62293,goal,30,1.0
+R1 plus,2,62294,goal,36,0.8333333333333334
+R1 plus,2,62295,timeout,400,
+R1 plus,2,62296,timeout,400,
+R1 plus,2,62297,goal,32,0.9375
+R1 plus,2,62298,timeout,400,
+R1 plus,2,62299,goal,38,0.7894736842105263
+R2 diamond,0,62000,goal,30,1.0
+R2 diamond,0,62001,goal,30,1.0
+R2 diamond,0,62002,goal,30,1.0
+R2 diamond,0,62003,goal,30,1.0
+R2 diamond,0,62004,timeout,400,
+R2 diamond,0,62005,goal,32,0.9375
+R2 diamond,0,62006,goal,30,1.0
+R2 diamond,0,62007,goal,32,0.9375
+R2 diamond,0,62008,goal,30,1.0
+R2 diamond,0,62009,goal,30,1.0
+R2 diamond,0,62010,goal,30,1.0
+R2 diamond,0,62011,timeout,400,
+R2 diamond,0,62012,goal,30,1.0
+R2 diamond,0,62013,goal,30,1.0
+R2 diamond,0,62014,goal,32,0.9375
+R2 diamond,0,62015,goal,30,1.0
+R2 diamond,0,62016,goal,30,1.0
+R2 diamond,0,62017,goal,32,0.9375
+R2 diamond,0,62018,goal,32,0.9375
+R2 diamond,0,62019,goal,30,1.0
+R2 diamond,0,62020,goal,36,0.8333333333333334
+R2 diamond,0,62021,goal,32,0.9375
+R2 diamond,0,62022,goal,32,0.9375
+R2 diamond,0,62023,goal,30,1.0
+R2 diamond,0,62024,goal,30,1.0
+R2 diamond,0,62025,goal,30,1.0
+R2 diamond,0,62026,goal,30,1.0
+R2 diamond,0,62027,goal,30,1.0
+R2 diamond,0,62028,goal,30,1.0
+R2 diamond,0,62029,goal,30,1.0
+R2 diamond,0,62030,goal,30,1.0
+R2 diamond,0,62031,goal,34,0.8823529411764706
+R2 diamond,0,62032,goal,30,1.0
+R2 diamond,0,62033,goal,30,1.0
+R2 diamond,0,62034,goal,30,1.0
+R2 diamond,0,62035,goal,30,1.0
+R2 diamond,0,62036,goal,30,1.0
+R2 diamond,0,62037,goal,30,1.0
+R2 diamond,0,62038,goal,30,1.0
+R2 diamond,0,62039,timeout,400,
+R2 diamond,0,62040,goal,30,1.0
+R2 diamond,0,62041,goal,30,1.0
+R2 diamond,0,62042,goal,30,1.0
+R2 diamond,0,62043,timeout,400,
+R2 diamond,0,62044,goal,30,1.0
+R2 diamond,0,62045,goal,30,1.0
+R2 diamond,0,62046,goal,32,0.9375
+R2 diamond,0,62047,goal,30,1.0
+R2 diamond,0,62048,goal,30,1.0
+R2 diamond,0,62049,goal,30,1.0
+R2 diamond,0,62050,goal,34,0.8823529411764706
+R2 diamond,0,62051,goal,30,1.0
+R2 diamond,0,62052,goal,34,0.8823529411764706
+R2 diamond,0,62053,goal,30,1.0
+R2 diamond,0,62054,goal,30,1.0
+R2 diamond,0,62055,timeout,400,
+R2 diamond,0,62056,goal,36,0.8333333333333334
+R2 diamond,0,62057,goal,34,0.8823529411764706
+R2 diamond,0,62058,goal,32,0.9375
+R2 diamond,0,62059,goal,30,1.0
+R2 diamond,0,62060,goal,34,0.8823529411764706
+R2 diamond,0,62061,goal,32,0.9375
+R2 diamond,0,62062,goal,32,0.9375
+R2 diamond,0,62063,goal,30,1.0
+R2 diamond,0,62064,goal,30,1.0
+R2 diamond,0,62065,goal,30,1.0
+R2 diamond,0,62066,goal,30,1.0
+R2 diamond,0,62067,goal,32,0.9375
+R2 diamond,0,62068,goal,32,0.9375
+R2 diamond,0,62069,goal,32,0.9375
+R2 diamond,0,62070,goal,30,1.0
+R2 diamond,0,62071,goal,30,1.0
+R2 diamond,0,62072,timeout,400,
+R2 diamond,0,62073,goal,34,0.8823529411764706
+R2 diamond,0,62074,goal,36,0.8333333333333334
+R2 diamond,0,62075,timeout,400,
+R2 diamond,0,62076,goal,30,1.0
+R2 diamond,0,62077,goal,30,1.0
+R2 diamond,0,62078,goal,30,1.0
+R2 diamond,0,62079,goal,30,1.0
+R2 diamond,0,62080,timeout,400,
+R2 diamond,0,62081,goal,30,1.0
+R2 diamond,0,62082,timeout,400,
+R2 diamond,0,62083,goal,36,0.8333333333333334
+R2 diamond,0,62084,timeout,400,
+R2 diamond,0,62085,goal,32,0.9375
+R2 diamond,0,62086,goal,30,1.0
+R2 diamond,0,62087,goal,30,1.0
+R2 diamond,0,62088,goal,30,1.0
+R2 diamond,0,62089,goal,30,1.0
+R2 diamond,0,62090,goal,30,1.0
+R2 diamond,0,62091,goal,32,0.9375
+R2 diamond,0,62092,timeout,400,
+R2 diamond,0,62093,goal,30,1.0
+R2 diamond,0,62094,goal,30,1.0
+R2 diamond,0,62095,goal,34,0.8823529411764706
+R2 diamond,0,62096,goal,30,1.0
+R2 diamond,0,62097,timeout,400,
+R2 diamond,0,62098,goal,30,1.0
+R2 diamond,0,62099,goal,30,1.0
+R2 diamond,0,62100,goal,30,1.0
+R2 diamond,0,62101,goal,30,1.0
+R2 diamond,0,62102,goal,30,1.0
+R2 diamond,0,62103,timeout,400,
+R2 diamond,0,62104,goal,30,1.0
+R2 diamond,0,62105,goal,30,1.0
+R2 diamond,0,62106,goal,30,1.0
+R2 diamond,0,62107,goal,32,0.9375
+R2 diamond,0,62108,timeout,400,
+R2 diamond,0,62109,goal,30,1.0
+R2 diamond,0,62110,goal,30,1.0
+R2 diamond,0,62111,goal,30,1.0
+R2 diamond,0,62112,goal,30,1.0
+R2 diamond,0,62113,goal,32,0.9375
+R2 diamond,0,62114,goal,30,1.0
+R2 diamond,0,62115,goal,36,0.8333333333333334
+R2 diamond,0,62116,goal,30,1.0
+R2 diamond,0,62117,goal,30,1.0
+R2 diamond,0,62118,goal,32,0.9375
+R2 diamond,0,62119,goal,32,0.9375
+R2 diamond,0,62120,goal,30,1.0
+R2 diamond,0,62121,goal,36,0.8333333333333334
+R2 diamond,0,62122,timeout,400,
+R2 diamond,0,62123,goal,30,1.0
+R2 diamond,0,62124,goal,30,1.0
+R2 diamond,0,62125,goal,30,1.0
+R2 diamond,0,62126,goal,30,1.0
+R2 diamond,0,62127,goal,30,1.0
+R2 diamond,0,62128,goal,34,0.8823529411764706
+R2 diamond,0,62129,goal,40,0.75
+R2 diamond,0,62130,goal,30,1.0
+R2 diamond,0,62131,goal,30,1.0
+R2 diamond,0,62132,goal,30,1.0
+R2 diamond,0,62133,goal,34,0.8823529411764706
+R2 diamond,0,62134,goal,30,1.0
+R2 diamond,0,62135,goal,30,1.0
+R2 diamond,0,62136,goal,30,1.0
+R2 diamond,0,62137,timeout,400,
+R2 diamond,0,62138,goal,30,1.0
+R2 diamond,0,62139,goal,32,0.9375
+R2 diamond,0,62140,goal,34,0.8823529411764706
+R2 diamond,0,62141,goal,34,0.8823529411764706
+R2 diamond,0,62142,goal,30,1.0
+R2 diamond,0,62143,goal,30,1.0
+R2 diamond,0,62144,timeout,400,
+R2 diamond,0,62145,timeout,400,
+R2 diamond,0,62146,goal,42,0.7142857142857143
+R2 diamond,0,62147,timeout,400,
+R2 diamond,0,62148,timeout,400,
+R2 diamond,0,62149,goal,30,1.0
+R2 diamond,0,62150,goal,30,1.0
+R2 diamond,0,62151,goal,32,0.9375
+R2 diamond,0,62152,goal,30,1.0
+R2 diamond,0,62153,goal,30,1.0
+R2 diamond,0,62154,goal,30,1.0
+R2 diamond,0,62155,goal,30,1.0
+R2 diamond,0,62156,goal,34,0.8823529411764706
+R2 diamond,0,62157,goal,32,0.9375
+R2 diamond,0,62158,goal,36,0.8333333333333334
+R2 diamond,0,62159,goal,30,1.0
+R2 diamond,0,62160,goal,30,1.0
+R2 diamond,0,62161,goal,32,0.9375
+R2 diamond,0,62162,goal,30,1.0
+R2 diamond,0,62163,goal,34,0.8823529411764706
+R2 diamond,0,62164,goal,30,1.0
+R2 diamond,0,62165,goal,30,1.0
+R2 diamond,0,62166,goal,32,0.9375
+R2 diamond,0,62167,goal,32,0.9375
+R2 diamond,0,62168,timeout,400,
+R2 diamond,0,62169,goal,36,0.8333333333333334
+R2 diamond,0,62170,goal,30,1.0
+R2 diamond,0,62171,goal,30,1.0
+R2 diamond,0,62172,goal,30,1.0
+R2 diamond,0,62173,goal,34,0.8823529411764706
+R2 diamond,0,62174,goal,32,0.9375
+R2 diamond,0,62175,goal,30,1.0
+R2 diamond,0,62176,goal,32,0.9375
+R2 diamond,0,62177,goal,30,1.0
+R2 diamond,0,62178,goal,30,1.0
+R2 diamond,0,62179,goal,30,1.0
+R2 diamond,0,62180,goal,30,1.0
+R2 diamond,0,62181,goal,30,1.0
+R2 diamond,0,62182,goal,30,1.0
+R2 diamond,0,62183,goal,36,0.8333333333333334
+R2 diamond,0,62184,goal,30,1.0
+R2 diamond,0,62185,goal,30,1.0
+R2 diamond,0,62186,goal,34,0.8823529411764706
+R2 diamond,0,62187,goal,30,1.0
+R2 diamond,0,62188,goal,30,1.0
+R2 diamond,0,62189,goal,30,1.0
+R2 diamond,0,62190,goal,32,0.9375
+R2 diamond,0,62191,goal,30,1.0
+R2 diamond,0,62192,goal,30,1.0
+R2 diamond,0,62193,goal,30,1.0
+R2 diamond,0,62194,goal,32,0.9375
+R2 diamond,0,62195,goal,30,1.0
+R2 diamond,0,62196,timeout,400,
+R2 diamond,0,62197,timeout,400,
+R2 diamond,0,62198,goal,30,1.0
+R2 diamond,0,62199,goal,30,1.0
+R2 diamond,0,62200,goal,32,0.9375
+R2 diamond,0,62201,goal,30,1.0
+R2 diamond,0,62202,goal,30,1.0
+R2 diamond,0,62203,goal,30,1.0
+R2 diamond,0,62204,goal,30,1.0
+R2 diamond,0,62205,goal,30,1.0
+R2 diamond,0,62206,goal,30,1.0
+R2 diamond,0,62207,goal,30,1.0
+R2 diamond,0,62208,goal,30,1.0
+R2 diamond,0,62209,goal,30,1.0
+R2 diamond,0,62210,goal,30,1.0
+R2 diamond,0,62211,goal,30,1.0
+R2 diamond,0,62212,goal,30,1.0
+R2 diamond,0,62213,goal,30,1.0
+R2 diamond,0,62214,goal,30,1.0
+R2 diamond,0,62215,goal,30,1.0
+R2 diamond,0,62216,goal,30,1.0
+R2 diamond,0,62217,timeout,400,
+R2 diamond,0,62218,goal,30,1.0
+R2 diamond,0,62219,goal,30,1.0
+R2 diamond,0,62220,goal,32,0.9375
+R2 diamond,0,62221,goal,30,1.0
+R2 diamond,0,62222,goal,30,1.0
+R2 diamond,0,62223,timeout,400,
+R2 diamond,0,62224,goal,32,0.9375
+R2 diamond,0,62225,goal,30,1.0
+R2 diamond,0,62226,goal,34,0.8823529411764706
+R2 diamond,0,62227,goal,30,1.0
+R2 diamond,0,62228,goal,30,1.0
+R2 diamond,0,62229,goal,34,0.8823529411764706
+R2 diamond,0,62230,goal,30,1.0
+R2 diamond,0,62231,goal,30,1.0
+R2 diamond,0,62232,goal,30,1.0
+R2 diamond,0,62233,goal,30,1.0
+R2 diamond,0,62234,goal,32,0.9375
+R2 diamond,0,62235,goal,30,1.0
+R2 diamond,0,62236,goal,30,1.0
+R2 diamond,0,62237,goal,34,0.8823529411764706
+R2 diamond,0,62238,goal,30,1.0
+R2 diamond,0,62239,goal,32,0.9375
+R2 diamond,0,62240,goal,30,1.0
+R2 diamond,0,62241,goal,30,1.0
+R2 diamond,0,62242,timeout,400,
+R2 diamond,0,62243,goal,30,1.0
+R2 diamond,0,62244,goal,30,1.0
+R2 diamond,0,62245,timeout,400,
+R2 diamond,0,62246,goal,32,0.9375
+R2 diamond,0,62247,goal,30,1.0
+R2 diamond,0,62248,goal,32,0.9375
+R2 diamond,0,62249,goal,30,1.0
+R2 diamond,0,62250,goal,30,1.0
+R2 diamond,0,62251,goal,30,1.0
+R2 diamond,0,62252,goal,30,1.0
+R2 diamond,0,62253,goal,30,1.0
+R2 diamond,0,62254,goal,30,1.0
+R2 diamond,0,62255,goal,30,1.0
+R2 diamond,0,62256,goal,30,1.0
+R2 diamond,0,62257,goal,30,1.0
+R2 diamond,0,62258,goal,30,1.0
+R2 diamond,0,62259,goal,30,1.0
+R2 diamond,0,62260,goal,30,1.0
+R2 diamond,0,62261,goal,30,1.0
+R2 diamond,0,62262,goal,30,1.0
+R2 diamond,0,62263,goal,30,1.0
+R2 diamond,0,62264,goal,30,1.0
+R2 diamond,0,62265,goal,30,1.0
+R2 diamond,0,62266,goal,30,1.0
+R2 diamond,0,62267,goal,30,1.0
+R2 diamond,0,62268,goal,30,1.0
+R2 diamond,0,62269,goal,30,1.0
+R2 diamond,0,62270,goal,32,0.9375
+R2 diamond,0,62271,goal,34,0.8823529411764706
+R2 diamond,0,62272,timeout,400,
+R2 diamond,0,62273,goal,30,1.0
+R2 diamond,0,62274,goal,30,1.0
+R2 diamond,0,62275,goal,30,1.0
+R2 diamond,0,62276,goal,30,1.0
+R2 diamond,0,62277,goal,30,1.0
+R2 diamond,0,62278,goal,34,0.8823529411764706
+R2 diamond,0,62279,goal,30,1.0
+R2 diamond,0,62280,goal,30,1.0
+R2 diamond,0,62281,goal,30,1.0
+R2 diamond,0,62282,goal,34,0.8823529411764706
+R2 diamond,0,62283,goal,32,0.9375
+R2 diamond,0,62284,goal,36,0.8333333333333334
+R2 diamond,0,62285,goal,30,1.0
+R2 diamond,0,62286,goal,30,1.0
+R2 diamond,0,62287,goal,32,0.9375
+R2 diamond,0,62288,goal,30,1.0
+R2 diamond,0,62289,timeout,400,
+R2 diamond,0,62290,goal,34,0.8823529411764706
+R2 diamond,0,62291,goal,32,0.9375
+R2 diamond,0,62292,goal,32,0.9375
+R2 diamond,0,62293,goal,30,1.0
+R2 diamond,0,62294,goal,32,0.9375
+R2 diamond,0,62295,timeout,400,
+R2 diamond,0,62296,goal,34,0.8823529411764706
+R2 diamond,0,62297,goal,30,1.0
+R2 diamond,0,62298,goal,30,1.0
+R2 diamond,0,62299,goal,30,1.0
+R2 diamond,1,62000,goal,30,1.0
+R2 diamond,1,62001,timeout,400,
+R2 diamond,1,62002,goal,30,1.0
+R2 diamond,1,62003,goal,30,1.0
+R2 diamond,1,62004,timeout,400,
+R2 diamond,1,62005,goal,30,1.0
+R2 diamond,1,62006,goal,32,0.9375
+R2 diamond,1,62007,goal,32,0.9375
+R2 diamond,1,62008,goal,30,1.0
+R2 diamond,1,62009,timeout,400,
+R2 diamond,1,62010,goal,30,1.0
+R2 diamond,1,62011,goal,34,0.8823529411764706
+R2 diamond,1,62012,goal,30,1.0
+R2 diamond,1,62013,goal,32,0.9375
+R2 diamond,1,62014,goal,32,0.9375
+R2 diamond,1,62015,goal,34,0.8823529411764706
+R2 diamond,1,62016,goal,32,0.9375
+R2 diamond,1,62017,goal,32,0.9375
+R2 diamond,1,62018,goal,30,1.0
+R2 diamond,1,62019,goal,32,0.9375
+R2 diamond,1,62020,goal,34,0.8823529411764706
+R2 diamond,1,62021,goal,32,0.9375
+R2 diamond,1,62022,timeout,400,
+R2 diamond,1,62023,goal,30,1.0
+R2 diamond,1,62024,goal,40,0.75
+R2 diamond,1,62025,goal,30,1.0
+R2 diamond,1,62026,goal,32,0.9375
+R2 diamond,1,62027,goal,34,0.8823529411764706
+R2 diamond,1,62028,goal,30,1.0
+R2 diamond,1,62029,goal,30,1.0
+R2 diamond,1,62030,goal,34,0.8823529411764706
+R2 diamond,1,62031,goal,34,0.8823529411764706
+R2 diamond,1,62032,goal,30,1.0
+R2 diamond,1,62033,timeout,400,
+R2 diamond,1,62034,goal,30,1.0
+R2 diamond,1,62035,goal,30,1.0
+R2 diamond,1,62036,goal,30,1.0
+R2 diamond,1,62037,goal,30,1.0
+R2 diamond,1,62038,goal,30,1.0
+R2 diamond,1,62039,timeout,400,
+R2 diamond,1,62040,goal,30,1.0
+R2 diamond,1,62041,goal,32,0.9375
+R2 diamond,1,62042,goal,30,1.0
+R2 diamond,1,62043,timeout,400,
+R2 diamond,1,62044,timeout,400,
+R2 diamond,1,62045,goal,30,1.0
+R2 diamond,1,62046,goal,32,0.9375
+R2 diamond,1,62047,goal,30,1.0
+R2 diamond,1,62048,timeout,400,
+R2 diamond,1,62049,goal,30,1.0
+R2 diamond,1,62050,timeout,400,
+R2 diamond,1,62051,goal,34,0.8823529411764706
+R2 diamond,1,62052,goal,34,0.8823529411764706
+R2 diamond,1,62053,goal,30,1.0
+R2 diamond,1,62054,goal,30,1.0
+R2 diamond,1,62055,timeout,400,
+R2 diamond,1,62056,goal,32,0.9375
+R2 diamond,1,62057,timeout,400,
+R2 diamond,1,62058,timeout,400,
+R2 diamond,1,62059,goal,30,1.0
+R2 diamond,1,62060,goal,34,0.8823529411764706
+R2 diamond,1,62061,goal,30,1.0
+R2 diamond,1,62062,goal,32,0.9375
+R2 diamond,1,62063,goal,30,1.0
+R2 diamond,1,62064,goal,30,1.0
+R2 diamond,1,62065,goal,30,1.0
+R2 diamond,1,62066,goal,30,1.0
+R2 diamond,1,62067,goal,30,1.0
+R2 diamond,1,62068,goal,30,1.0
+R2 diamond,1,62069,goal,30,1.0
+R2 diamond,1,62070,goal,30,1.0
+R2 diamond,1,62071,goal,30,1.0
+R2 diamond,1,62072,timeout,400,
+R2 diamond,1,62073,timeout,400,
+R2 diamond,1,62074,timeout,400,
+R2 diamond,1,62075,goal,32,0.9375
+R2 diamond,1,62076,goal,30,1.0
+R2 diamond,1,62077,goal,30,1.0
+R2 diamond,1,62078,goal,30,1.0
+R2 diamond,1,62079,timeout,400,
+R2 diamond,1,62080,timeout,400,
+R2 diamond,1,62081,goal,34,0.8823529411764706
+R2 diamond,1,62082,goal,30,1.0
+R2 diamond,1,62083,timeout,400,
+R2 diamond,1,62084,timeout,400,
+R2 diamond,1,62085,goal,32,0.9375
+R2 diamond,1,62086,timeout,400,
+R2 diamond,1,62087,goal,32,0.9375
+R2 diamond,1,62088,goal,30,1.0
+R2 diamond,1,62089,goal,30,1.0
+R2 diamond,1,62090,goal,32,0.9375
+R2 diamond,1,62091,timeout,400,
+R2 diamond,1,62092,timeout,400,
+R2 diamond,1,62093,goal,30,1.0
+R2 diamond,1,62094,timeout,400,
+R2 diamond,1,62095,goal,42,0.7142857142857143
+R2 diamond,1,62096,goal,30,1.0
+R2 diamond,1,62097,timeout,400,
+R2 diamond,1,62098,goal,32,0.9375
+R2 diamond,1,62099,goal,32,0.9375
+R2 diamond,1,62100,goal,32,0.9375
+R2 diamond,1,62101,timeout,400,
+R2 diamond,1,62102,goal,30,1.0
+R2 diamond,1,62103,goal,30,1.0
+R2 diamond,1,62104,goal,34,0.8823529411764706
+R2 diamond,1,62105,goal,30,1.0
+R2 diamond,1,62106,goal,30,1.0
+R2 diamond,1,62107,goal,32,0.9375
+R2 diamond,1,62108,goal,30,1.0
+R2 diamond,1,62109,goal,32,0.9375
+R2 diamond,1,62110,goal,34,0.8823529411764706
+R2 diamond,1,62111,timeout,400,
+R2 diamond,1,62112,goal,30,1.0
+R2 diamond,1,62113,goal,34,0.8823529411764706
+R2 diamond,1,62114,goal,32,0.9375
+R2 diamond,1,62115,goal,34,0.8823529411764706
+R2 diamond,1,62116,timeout,400,
+R2 diamond,1,62117,goal,30,1.0
+R2 diamond,1,62118,goal,36,0.8333333333333334
+R2 diamond,1,62119,goal,32,0.9375
+R2 diamond,1,62120,goal,30,1.0
+R2 diamond,1,62121,goal,36,0.8333333333333334
+R2 diamond,1,62122,timeout,400,
+R2 diamond,1,62123,goal,32,0.9375
+R2 diamond,1,62124,goal,30,1.0
+R2 diamond,1,62125,goal,30,1.0
+R2 diamond,1,62126,goal,30,1.0
+R2 diamond,1,62127,goal,30,1.0
+R2 diamond,1,62128,goal,32,0.9375
+R2 diamond,1,62129,goal,30,1.0
+R2 diamond,1,62130,goal,30,1.0
+R2 diamond,1,62131,goal,30,1.0
+R2 diamond,1,62132,goal,30,1.0
+R2 diamond,1,62133,timeout,400,
+R2 diamond,1,62134,goal,32,0.9375
+R2 diamond,1,62135,goal,30,1.0
+R2 diamond,1,62136,goal,30,1.0
+R2 diamond,1,62137,goal,36,0.8333333333333334
+R2 diamond,1,62138,goal,32,0.9375
+R2 diamond,1,62139,timeout,400,
+R2 diamond,1,62140,timeout,400,
+R2 diamond,1,62141,goal,34,0.8823529411764706
+R2 diamond,1,62142,timeout,400,
+R2 diamond,1,62143,goal,30,1.0
+R2 diamond,1,62144,timeout,400,
+R2 diamond,1,62145,timeout,400,
+R2 diamond,1,62146,timeout,400,
+R2 diamond,1,62147,timeout,400,
+R2 diamond,1,62148,goal,30,1.0
+R2 diamond,1,62149,goal,34,0.8823529411764706
+R2 diamond,1,62150,goal,32,0.9375
+R2 diamond,1,62151,timeout,400,
+R2 diamond,1,62152,timeout,400,
+R2 diamond,1,62153,goal,32,0.9375
+R2 diamond,1,62154,goal,30,1.0
+R2 diamond,1,62155,goal,30,1.0
+R2 diamond,1,62156,goal,30,1.0
+R2 diamond,1,62157,goal,32,0.9375
+R2 diamond,1,62158,goal,38,0.7894736842105263
+R2 diamond,1,62159,goal,32,0.9375
+R2 diamond,1,62160,timeout,400,
+R2 diamond,1,62161,goal,32,0.9375
+R2 diamond,1,62162,goal,30,1.0
+R2 diamond,1,62163,timeout,400,
+R2 diamond,1,62164,goal,40,0.75
+R2 diamond,1,62165,goal,36,0.8333333333333334
+R2 diamond,1,62166,goal,32,0.9375
+R2 diamond,1,62167,goal,32,0.9375
+R2 diamond,1,62168,goal,34,0.8823529411764706
+R2 diamond,1,62169,goal,32,0.9375
+R2 diamond,1,62170,goal,36,0.8333333333333334
+R2 diamond,1,62171,timeout,400,
+R2 diamond,1,62172,goal,34,0.8823529411764706
+R2 diamond,1,62173,goal,34,0.8823529411764706
+R2 diamond,1,62174,goal,32,0.9375
+R2 diamond,1,62175,goal,32,0.9375
+R2 diamond,1,62176,timeout,400,
+R2 diamond,1,62177,timeout,400,
+R2 diamond,1,62178,goal,30,1.0
+R2 diamond,1,62179,goal,30,1.0
+R2 diamond,1,62180,goal,30,1.0
+R2 diamond,1,62181,timeout,400,
+R2 diamond,1,62182,goal,30,1.0
+R2 diamond,1,62183,goal,34,0.8823529411764706
+R2 diamond,1,62184,goal,30,1.0
+R2 diamond,1,62185,goal,30,1.0
+R2 diamond,1,62186,goal,32,0.9375
+R2 diamond,1,62187,goal,32,0.9375
+R2 diamond,1,62188,goal,30,1.0
+R2 diamond,1,62189,goal,30,1.0
+R2 diamond,1,62190,goal,32,0.9375
+R2 diamond,1,62191,goal,34,0.8823529411764706
+R2 diamond,1,62192,goal,30,1.0
+R2 diamond,1,62193,goal,30,1.0
+R2 diamond,1,62194,goal,34,0.8823529411764706
+R2 diamond,1,62195,goal,36,0.8333333333333334
+R2 diamond,1,62196,timeout,400,
+R2 diamond,1,62197,timeout,400,
+R2 diamond,1,62198,goal,32,0.9375
+R2 diamond,1,62199,goal,30,1.0
+R2 diamond,1,62200,goal,32,0.9375
+R2 diamond,1,62201,goal,36,0.8333333333333334
+R2 diamond,1,62202,goal,34,0.8823529411764706
+R2 diamond,1,62203,goal,34,0.8823529411764706
+R2 diamond,1,62204,goal,32,0.9375
+R2 diamond,1,62205,goal,30,1.0
+R2 diamond,1,62206,timeout,400,
+R2 diamond,1,62207,goal,30,1.0
+R2 diamond,1,62208,goal,30,1.0
+R2 diamond,1,62209,goal,30,1.0
+R2 diamond,1,62210,timeout,400,
+R2 diamond,1,62211,timeout,400,
+R2 diamond,1,62212,goal,34,0.8823529411764706
+R2 diamond,1,62213,goal,36,0.8333333333333334
+R2 diamond,1,62214,goal,34,0.8823529411764706
+R2 diamond,1,62215,timeout,400,
+R2 diamond,1,62216,goal,32,0.9375
+R2 diamond,1,62217,timeout,400,
+R2 diamond,1,62218,goal,34,0.8823529411764706
+R2 diamond,1,62219,goal,30,1.0
+R2 diamond,1,62220,goal,30,1.0
+R2 diamond,1,62221,goal,32,0.9375
+R2 diamond,1,62222,goal,30,1.0
+R2 diamond,1,62223,timeout,400,
+R2 diamond,1,62224,timeout,400,
+R2 diamond,1,62225,goal,32,0.9375
+R2 diamond,1,62226,goal,30,1.0
+R2 diamond,1,62227,timeout,400,
+R2 diamond,1,62228,goal,32,0.9375
+R2 diamond,1,62229,timeout,400,
+R2 diamond,1,62230,timeout,400,
+R2 diamond,1,62231,goal,30,1.0
+R2 diamond,1,62232,goal,30,1.0
+R2 diamond,1,62233,goal,30,1.0
+R2 diamond,1,62234,timeout,400,
+R2 diamond,1,62235,goal,32,0.9375
+R2 diamond,1,62236,goal,34,0.8823529411764706
+R2 diamond,1,62237,timeout,400,
+R2 diamond,1,62238,goal,30,1.0
+R2 diamond,1,62239,goal,30,1.0
+R2 diamond,1,62240,goal,30,1.0
+R2 diamond,1,62241,timeout,400,
+R2 diamond,1,62242,goal,30,1.0
+R2 diamond,1,62243,goal,32,0.9375
+R2 diamond,1,62244,goal,30,1.0
+R2 diamond,1,62245,goal,30,1.0
+R2 diamond,1,62246,goal,34,0.8823529411764706
+R2 diamond,1,62247,goal,30,1.0
+R2 diamond,1,62248,timeout,400,
+R2 diamond,1,62249,goal,30,1.0
+R2 diamond,1,62250,goal,32,0.9375
+R2 diamond,1,62251,goal,30,1.0
+R2 diamond,1,62252,goal,30,1.0
+R2 diamond,1,62253,goal,30,1.0
+R2 diamond,1,62254,goal,30,1.0
+R2 diamond,1,62255,goal,30,1.0
+R2 diamond,1,62256,goal,30,1.0
+R2 diamond,1,62257,goal,34,0.8823529411764706
+R2 diamond,1,62258,goal,30,1.0
+R2 diamond,1,62259,goal,30,1.0
+R2 diamond,1,62260,goal,30,1.0
+R2 diamond,1,62261,goal,32,0.9375
+R2 diamond,1,62262,timeout,400,
+R2 diamond,1,62263,goal,30,1.0
+R2 diamond,1,62264,goal,36,0.8333333333333334
+R2 diamond,1,62265,goal,30,1.0
+R2 diamond,1,62266,timeout,400,
+R2 diamond,1,62267,goal,30,1.0
+R2 diamond,1,62268,goal,32,0.9375
+R2 diamond,1,62269,goal,30,1.0
+R2 diamond,1,62270,timeout,400,
+R2 diamond,1,62271,goal,30,1.0
+R2 diamond,1,62272,timeout,400,
+R2 diamond,1,62273,goal,30,1.0
+R2 diamond,1,62274,goal,38,0.7894736842105263
+R2 diamond,1,62275,timeout,400,
+R2 diamond,1,62276,goal,30,1.0
+R2 diamond,1,62277,goal,30,1.0
+R2 diamond,1,62278,goal,34,0.8823529411764706
+R2 diamond,1,62279,goal,32,0.9375
+R2 diamond,1,62280,goal,30,1.0
+R2 diamond,1,62281,goal,30,1.0
+R2 diamond,1,62282,goal,38,0.7894736842105263
+R2 diamond,1,62283,goal,32,0.9375
+R2 diamond,1,62284,timeout,400,
+R2 diamond,1,62285,goal,30,1.0
+R2 diamond,1,62286,goal,32,0.9375
+R2 diamond,1,62287,goal,32,0.9375
+R2 diamond,1,62288,goal,30,1.0
+R2 diamond,1,62289,timeout,400,
+R2 diamond,1,62290,goal,32,0.9375
+R2 diamond,1,62291,goal,32,0.9375
+R2 diamond,1,62292,timeout,400,
+R2 diamond,1,62293,goal,34,0.8823529411764706
+R2 diamond,1,62294,timeout,400,
+R2 diamond,1,62295,timeout,400,
+R2 diamond,1,62296,goal,34,0.8823529411764706
+R2 diamond,1,62297,timeout,400,
+R2 diamond,1,62298,timeout,400,
+R2 diamond,1,62299,goal,30,1.0
+R2 diamond,2,62000,goal,30,1.0
+R2 diamond,2,62001,goal,32,0.9375
+R2 diamond,2,62002,goal,30,1.0
+R2 diamond,2,62003,goal,30,1.0
+R2 diamond,2,62004,goal,30,1.0
+R2 diamond,2,62005,timeout,400,
+R2 diamond,2,62006,goal,30,1.0
+R2 diamond,2,62007,goal,32,0.9375
+R2 diamond,2,62008,goal,36,0.8333333333333334
+R2 diamond,2,62009,goal,30,1.0
+R2 diamond,2,62010,goal,30,1.0
+R2 diamond,2,62011,goal,30,1.0
+R2 diamond,2,62012,goal,30,1.0
+R2 diamond,2,62013,goal,30,1.0
+R2 diamond,2,62014,timeout,400,
+R2 diamond,2,62015,goal,30,1.0
+R2 diamond,2,62016,goal,32,0.9375
+R2 diamond,2,62017,goal,30,1.0
+R2 diamond,2,62018,goal,30,1.0
+R2 diamond,2,62019,goal,30,1.0
+R2 diamond,2,62020,goal,34,0.8823529411764706
+R2 diamond,2,62021,goal,30,1.0
+R2 diamond,2,62022,goal,30,1.0
+R2 diamond,2,62023,goal,38,0.7894736842105263
+R2 diamond,2,62024,goal,30,1.0
+R2 diamond,2,62025,goal,30,1.0
+R2 diamond,2,62026,goal,32,0.9375
+R2 diamond,2,62027,goal,32,0.9375
+R2 diamond,2,62028,goal,32,0.9375
+R2 diamond,2,62029,goal,32,0.9375
+R2 diamond,2,62030,goal,32,0.9375
+R2 diamond,2,62031,goal,30,1.0
+R2 diamond,2,62032,goal,32,0.9375
+R2 diamond,2,62033,goal,36,0.8333333333333334
+R2 diamond,2,62034,goal,34,0.8823529411764706
+R2 diamond,2,62035,goal,32,0.9375
+R2 diamond,2,62036,goal,30,1.0
+R2 diamond,2,62037,goal,30,1.0
+R2 diamond,2,62038,goal,30,1.0
+R2 diamond,2,62039,timeout,400,
+R2 diamond,2,62040,goal,34,0.8823529411764706
+R2 diamond,2,62041,goal,30,1.0
+R2 diamond,2,62042,goal,30,1.0
+R2 diamond,2,62043,goal,30,1.0
+R2 diamond,2,62044,goal,30,1.0
+R2 diamond,2,62045,goal,30,1.0
+R2 diamond,2,62046,goal,30,1.0
+R2 diamond,2,62047,goal,36,0.8333333333333334
+R2 diamond,2,62048,timeout,400,
+R2 diamond,2,62049,goal,32,0.9375
+R2 diamond,2,62050,goal,34,0.8823529411764706
+R2 diamond,2,62051,goal,30,1.0
+R2 diamond,2,62052,timeout,400,
+R2 diamond,2,62053,timeout,400,
+R2 diamond,2,62054,goal,30,1.0
+R2 diamond,2,62055,timeout,400,
+R2 diamond,2,62056,goal,30,1.0
+R2 diamond,2,62057,goal,32,0.9375
+R2 diamond,2,62058,goal,32,0.9375
+R2 diamond,2,62059,goal,32,0.9375
+R2 diamond,2,62060,goal,30,1.0
+R2 diamond,2,62061,timeout,400,
+R2 diamond,2,62062,goal,32,0.9375
+R2 diamond,2,62063,goal,36,0.8333333333333334
+R2 diamond,2,62064,timeout,400,
+R2 diamond,2,62065,goal,30,1.0
+R2 diamond,2,62066,goal,30,1.0
+R2 diamond,2,62067,goal,30,1.0
+R2 diamond,2,62068,goal,42,0.7142857142857143
+R2 diamond,2,62069,goal,32,0.9375
+R2 diamond,2,62070,goal,32,0.9375
+R2 diamond,2,62071,goal,30,1.0
+R2 diamond,2,62072,goal,30,1.0
+R2 diamond,2,62073,goal,34,0.8823529411764706
+R2 diamond,2,62074,goal,34,0.8823529411764706
+R2 diamond,2,62075,timeout,400,
+R2 diamond,2,62076,goal,30,1.0
+R2 diamond,2,62077,timeout,400,
+R2 diamond,2,62078,goal,30,1.0
+R2 diamond,2,62079,goal,30,1.0
+R2 diamond,2,62080,goal,32,0.9375
+R2 diamond,2,62081,goal,30,1.0
+R2 diamond,2,62082,goal,38,0.7894736842105263
+R2 diamond,2,62083,timeout,400,
+R2 diamond,2,62084,goal,34,0.8823529411764706
+R2 diamond,2,62085,goal,32,0.9375
+R2 diamond,2,62086,goal,32,0.9375
+R2 diamond,2,62087,goal,30,1.0
+R2 diamond,2,62088,goal,30,1.0
+R2 diamond,2,62089,goal,30,1.0
+R2 diamond,2,62090,goal,30,1.0
+R2 diamond,2,62091,goal,30,1.0
+R2 diamond,2,62092,goal,30,1.0
+R2 diamond,2,62093,goal,30,1.0
+R2 diamond,2,62094,goal,30,1.0
+R2 diamond,2,62095,timeout,400,
+R2 diamond,2,62096,goal,30,1.0
+R2 diamond,2,62097,goal,30,1.0
+R2 diamond,2,62098,goal,30,1.0
+R2 diamond,2,62099,goal,32,0.9375
+R2 diamond,2,62100,goal,30,1.0
+R2 diamond,2,62101,goal,34,0.8823529411764706
+R2 diamond,2,62102,timeout,400,
+R2 diamond,2,62103,timeout,400,
+R2 diamond,2,62104,goal,32,0.9375
+R2 diamond,2,62105,goal,30,1.0
+R2 diamond,2,62106,goal,30,1.0
+R2 diamond,2,62107,goal,30,1.0
+R2 diamond,2,62108,goal,40,0.75
+R2 diamond,2,62109,goal,30,1.0
+R2 diamond,2,62110,goal,30,1.0
+R2 diamond,2,62111,goal,30,1.0
+R2 diamond,2,62112,goal,30,1.0
+R2 diamond,2,62113,goal,30,1.0
+R2 diamond,2,62114,goal,30,1.0
+R2 diamond,2,62115,goal,44,0.6818181818181818
+R2 diamond,2,62116,goal,30,1.0
+R2 diamond,2,62117,goal,30,1.0
+R2 diamond,2,62118,goal,30,1.0
+R2 diamond,2,62119,goal,30,1.0
+R2 diamond,2,62120,goal,30,1.0
+R2 diamond,2,62121,goal,36,0.8333333333333334
+R2 diamond,2,62122,goal,30,1.0
+R2 diamond,2,62123,goal,30,1.0
+R2 diamond,2,62124,goal,30,1.0
+R2 diamond,2,62125,goal,30,1.0
+R2 diamond,2,62126,goal,30,1.0
+R2 diamond,2,62127,goal,30,1.0
+R2 diamond,2,62128,goal,32,0.9375
+R2 diamond,2,62129,timeout,400,
+R2 diamond,2,62130,goal,34,0.8823529411764706
+R2 diamond,2,62131,goal,30,1.0
+R2 diamond,2,62132,goal,30,1.0
+R2 diamond,2,62133,timeout,400,
+R2 diamond,2,62134,goal,30,1.0
+R2 diamond,2,62135,goal,32,0.9375
+R2 diamond,2,62136,goal,30,1.0
+R2 diamond,2,62137,goal,30,1.0
+R2 diamond,2,62138,goal,30,1.0
+R2 diamond,2,62139,goal,30,1.0
+R2 diamond,2,62140,goal,32,0.9375
+R2 diamond,2,62141,goal,30,1.0
+R2 diamond,2,62142,goal,38,0.7894736842105263
+R2 diamond,2,62143,goal,30,1.0
+R2 diamond,2,62144,timeout,400,
+R2 diamond,2,62145,goal,30,1.0
+R2 diamond,2,62146,goal,30,1.0
+R2 diamond,2,62147,timeout,400,
+R2 diamond,2,62148,goal,36,0.8333333333333334
+R2 diamond,2,62149,goal,30,1.0
+R2 diamond,2,62150,goal,30,1.0
+R2 diamond,2,62151,goal,30,1.0
+R2 diamond,2,62152,goal,30,1.0
+R2 diamond,2,62153,goal,30,1.0
+R2 diamond,2,62154,goal,32,0.9375
+R2 diamond,2,62155,goal,30,1.0
+R2 diamond,2,62156,goal,34,0.8823529411764706
+R2 diamond,2,62157,goal,30,1.0
+R2 diamond,2,62158,goal,30,1.0
+R2 diamond,2,62159,goal,30,1.0
+R2 diamond,2,62160,goal,30,1.0
+R2 diamond,2,62161,goal,30,1.0
+R2 diamond,2,62162,goal,36,0.8333333333333334
+R2 diamond,2,62163,goal,30,1.0
+R2 diamond,2,62164,goal,30,1.0
+R2 diamond,2,62165,goal,30,1.0
+R2 diamond,2,62166,goal,38,0.7894736842105263
+R2 diamond,2,62167,goal,32,0.9375
+R2 diamond,2,62168,timeout,400,
+R2 diamond,2,62169,goal,32,0.9375
+R2 diamond,2,62170,goal,30,1.0
+R2 diamond,2,62171,goal,32,0.9375
+R2 diamond,2,62172,goal,34,0.8823529411764706
+R2 diamond,2,62173,goal,30,1.0
+R2 diamond,2,62174,goal,32,0.9375
+R2 diamond,2,62175,goal,30,1.0
+R2 diamond,2,62176,goal,30,1.0
+R2 diamond,2,62177,goal,30,1.0
+R2 diamond,2,62178,goal,30,1.0
+R2 diamond,2,62179,goal,30,1.0
+R2 diamond,2,62180,goal,30,1.0
+R2 diamond,2,62181,goal,40,0.75
+R2 diamond,2,62182,goal,32,0.9375
+R2 diamond,2,62183,timeout,400,
+R2 diamond,2,62184,goal,30,1.0
+R2 diamond,2,62185,goal,30,1.0
+R2 diamond,2,62186,goal,30,1.0
+R2 diamond,2,62187,goal,30,1.0
+R2 diamond,2,62188,goal,30,1.0
+R2 diamond,2,62189,goal,30,1.0
+R2 diamond,2,62190,goal,34,0.8823529411764706
+R2 diamond,2,62191,goal,30,1.0
+R2 diamond,2,62192,goal,30,1.0
+R2 diamond,2,62193,goal,30,1.0
+R2 diamond,2,62194,goal,30,1.0
+R2 diamond,2,62195,goal,30,1.0
+R2 diamond,2,62196,timeout,400,
+R2 diamond,2,62197,timeout,400,
+R2 diamond,2,62198,timeout,400,
+R2 diamond,2,62199,goal,30,1.0
+R2 diamond,2,62200,goal,42,0.7142857142857143
+R2 diamond,2,62201,goal,30,1.0
+R2 diamond,2,62202,goal,30,1.0
+R2 diamond,2,62203,goal,30,1.0
+R2 diamond,2,62204,goal,32,0.9375
+R2 diamond,2,62205,goal,30,1.0
+R2 diamond,2,62206,goal,34,0.8823529411764706
+R2 diamond,2,62207,goal,38,0.7894736842105263
+R2 diamond,2,62208,goal,30,1.0
+R2 diamond,2,62209,goal,30,1.0
+R2 diamond,2,62210,goal,34,0.8823529411764706
+R2 diamond,2,62211,goal,32,0.9375
+R2 diamond,2,62212,goal,32,0.9375
+R2 diamond,2,62213,goal,30,1.0
+R2 diamond,2,62214,goal,30,1.0
+R2 diamond,2,62215,goal,30,1.0
+R2 diamond,2,62216,goal,30,1.0
+R2 diamond,2,62217,goal,30,1.0
+R2 diamond,2,62218,goal,34,0.8823529411764706
+R2 diamond,2,62219,timeout,400,
+R2 diamond,2,62220,goal,32,0.9375
+R2 diamond,2,62221,goal,30,1.0
+R2 diamond,2,62222,goal,32,0.9375
+R2 diamond,2,62223,goal,30,1.0
+R2 diamond,2,62224,goal,32,0.9375
+R2 diamond,2,62225,goal,30,1.0
+R2 diamond,2,62226,goal,30,1.0
+R2 diamond,2,62227,goal,32,0.9375
+R2 diamond,2,62228,goal,30,1.0
+R2 diamond,2,62229,goal,30,1.0
+R2 diamond,2,62230,goal,30,1.0
+R2 diamond,2,62231,goal,30,1.0
+R2 diamond,2,62232,goal,30,1.0
+R2 diamond,2,62233,goal,30,1.0
+R2 diamond,2,62234,goal,32,0.9375
+R2 diamond,2,62235,goal,30,1.0
+R2 diamond,2,62236,goal,34,0.8823529411764706
+R2 diamond,2,62237,goal,32,0.9375
+R2 diamond,2,62238,goal,30,1.0
+R2 diamond,2,62239,timeout,400,
+R2 diamond,2,62240,goal,30,1.0
+R2 diamond,2,62241,goal,30,1.0
+R2 diamond,2,62242,timeout,400,
+R2 diamond,2,62243,goal,30,1.0
+R2 diamond,2,62244,goal,30,1.0
+R2 diamond,2,62245,goal,30,1.0
+R2 diamond,2,62246,goal,30,1.0
+R2 diamond,2,62247,goal,30,1.0
+R2 diamond,2,62248,goal,32,0.9375
+R2 diamond,2,62249,goal,30,1.0
+R2 diamond,2,62250,goal,30,1.0
+R2 diamond,2,62251,goal,30,1.0
+R2 diamond,2,62252,goal,30,1.0
+R2 diamond,2,62253,goal,30,1.0
+R2 diamond,2,62254,goal,30,1.0
+R2 diamond,2,62255,goal,30,1.0
+R2 diamond,2,62256,goal,30,1.0
+R2 diamond,2,62257,goal,34,0.8823529411764706
+R2 diamond,2,62258,goal,30,1.0
+R2 diamond,2,62259,goal,30,1.0
+R2 diamond,2,62260,goal,30,1.0
+R2 diamond,2,62261,timeout,400,
+R2 diamond,2,62262,goal,30,1.0
+R2 diamond,2,62263,goal,30,1.0
+R2 diamond,2,62264,goal,30,1.0
+R2 diamond,2,62265,goal,32,0.9375
+R2 diamond,2,62266,goal,34,0.8823529411764706
+R2 diamond,2,62267,goal,30,1.0
+R2 diamond,2,62268,goal,34,0.8823529411764706
+R2 diamond,2,62269,timeout,400,
+R2 diamond,2,62270,goal,30,1.0
+R2 diamond,2,62271,goal,32,0.9375
+R2 diamond,2,62272,timeout,400,
+R2 diamond,2,62273,timeout,400,
+R2 diamond,2,62274,goal,30,1.0
+R2 diamond,2,62275,goal,30,1.0
+R2 diamond,2,62276,timeout,400,
+R2 diamond,2,62277,goal,30,1.0
+R2 diamond,2,62278,timeout,400,
+R2 diamond,2,62279,goal,36,0.8333333333333334
+R2 diamond,2,62280,goal,30,1.0
+R2 diamond,2,62281,goal,30,1.0
+R2 diamond,2,62282,goal,34,0.8823529411764706
+R2 diamond,2,62283,timeout,400,
+R2 diamond,2,62284,goal,34,0.8823529411764706
+R2 diamond,2,62285,goal,30,1.0
+R2 diamond,2,62286,goal,30,1.0
+R2 diamond,2,62287,goal,30,1.0
+R2 diamond,2,62288,goal,36,0.8333333333333334
+R2 diamond,2,62289,goal,34,0.8823529411764706
+R2 diamond,2,62290,goal,34,0.8823529411764706
+R2 diamond,2,62291,goal,32,0.9375
+R2 diamond,2,62292,goal,30,1.0
+R2 diamond,2,62293,goal,30,1.0
+R2 diamond,2,62294,goal,36,0.8333333333333334
+R2 diamond,2,62295,goal,30,1.0
+R2 diamond,2,62296,goal,38,0.7894736842105263
+R2 diamond,2,62297,goal,30,1.0
+R2 diamond,2,62298,goal,30,1.0
+R2 diamond,2,62299,goal,32,0.9375

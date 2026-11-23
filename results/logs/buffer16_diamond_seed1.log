@@ -1,0 +1,11 @@
+buffer16_diamond_seed1: trained in 16.4 minutes
+{'vision': 'diamond', 'seed': 1, 'train_moves': 500000, 'n': 300, 'success_%': 18.3, 'crash_%': 0.0, 'timeout_%': 81.7, 'train_minutes': 16.4}
+{'vision': 'diamond', 'seed': 1, 'train_moves': 1000000, 'n': 300, 'success_%': 5.3, 'crash_%': 0.0, 'timeout_%': 94.7, 'train_minutes': 16.4}
+{'vision': 'diamond', 'seed': 1, 'train_moves': 1500000, 'n': 300, 'success_%': 3.3, 'crash_%': 0.0, 'timeout_%': 96.7, 'train_minutes': 16.4}
+{'vision': 'diamond', 'seed': 1, 'train_moves': 2000000, 'n': 300, 'success_%': 32.7, 'crash_%': 0.0, 'timeout_%': 67.3, 'train_minutes': 16.4}
+{'vision': 'diamond', 'seed': 1, 'train_moves': 2500000, 'n': 300, 'success_%': 1.0, 'crash_%': 0.0, 'timeout_%': 99.0, 'train_minutes': 16.4}
+{'vision': 'diamond', 'seed': 1, 'train_moves': 3000000, 'n': 300, 'success_%': 7.0, 'crash_%': 0.0, 'timeout_%': 93.0, 'train_minutes': 16.4}
+{'vision': 'diamond', 'seed': 1, 'train_moves': 3500000, 'n': 300, 'success_%': 6.3, 'crash_%': 0.0, 'timeout_%': 93.7, 'train_minutes': 16.4}
+{'vision': 'diamond', 'seed': 1, 'train_moves': 4000000, 'n': 300, 'success_%': 48.3, 'crash_%': 0.0, 'timeout_%': 51.7, 'train_minutes': 16.4}
+{'vision': 'diamond', 'seed': 1, 'train_moves': 4500000, 'n': 300, 'success_%': 80.0, 'crash_%': 0.0, 'timeout_%': 20.0, 'train_minutes': 16.4}
+{'vision': 'diamond', 'seed': 1, 'train_moves': 5000000, 'n': 300, 'success_%': 77.3, 'crash_%': 0.0, 'timeout_%': 22.7, 'train_minutes': 16.4}

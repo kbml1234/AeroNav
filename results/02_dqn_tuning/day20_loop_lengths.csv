@@ -1,0 +1,7 @@
+variant,loop_moves,maps
+plan,2,80
+revisit_penalty,2,64
+last_move,2,2
+last_move,4,23
+last_move,6,10
+last_move,8,1

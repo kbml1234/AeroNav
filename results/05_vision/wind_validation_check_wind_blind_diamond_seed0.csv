@@ -1,0 +1,17 @@
+variant,seed,direction,strength_%,n,success_%,crashes,timeouts,train_minutes
+blind_diamond,0,N,0,300,92.3,0,23,1.5
+blind_diamond,0,N,10,300,68.7,93,1,1.5
+blind_diamond,0,N,20,300,43.0,168,3,1.5
+blind_diamond,0,N,30,300,19.0,243,0,1.5
+blind_diamond,0,E,0,300,92.3,0,23,1.5
+blind_diamond,0,E,10,300,69.3,92,0,1.5
+blind_diamond,0,E,20,300,48.7,154,0,1.5
+blind_diamond,0,E,30,300,30.3,209,0,1.5
+blind_diamond,0,S,0,300,92.3,0,23,1.5
+blind_diamond,0,S,10,300,70.3,88,1,1.5
+blind_diamond,0,S,20,300,40.0,180,0,1.5
+blind_diamond,0,S,30,300,24.7,226,0,1.5
+blind_diamond,0,W,0,300,92.3,0,23,1.5
+blind_diamond,0,W,10,300,54.7,130,6,1.5
+blind_diamond,0,W,20,300,25.7,222,1,1.5
+blind_diamond,0,W,30,300,8.0,276,0,1.5

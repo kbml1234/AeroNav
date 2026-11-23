@@ -1,0 +1,20 @@
+part,drone,train_seed,n,success_%,crash_%,timeout_%,moves_on_successes,efficiency_on_successes
+corner check,C corner-trained,0,300,92.0,0.0,8.0,14.47,0.974
+corner check,C corner-trained,1,300,91.0,0.0,9.0,15.28,0.931
+corner check,C corner-trained,2,300,92.7,0.0,7.3,15.22,0.932
+corner check,"R random-trained, reward fix",0,300,0.0,0.0,100.0,,
+corner check,"R random-trained, reward fix",1,300,43.3,0.0,56.7,14.08,0.996
+corner check,"R random-trained, reward fix",2,300,86.7,0.0,13.3,15.28,0.929
+corner check,"R0 random-trained, original reward",0,300,0.0,100.0,0.0,,
+corner check,"R0 random-trained, original reward",1,300,0.0,100.0,0.0,,
+corner check,"R0 random-trained, original reward",2,300,0.0,100.0,0.0,,
+random start/goal,A*,,300,100.0,0.0,0.0,10.57,1.0
+random start/goal,C corner-trained,0,300,16.0,0.0,84.0,12.04,0.912
+random start/goal,C corner-trained,1,300,17.0,0.0,83.0,11.49,0.946
+random start/goal,C corner-trained,2,300,14.7,0.0,85.3,12.52,0.881
+random start/goal,"R random-trained, reward fix",0,300,22.0,0.0,78.0,10.79,0.963
+random start/goal,"R random-trained, reward fix",1,300,55.7,0.0,44.3,11.2,0.942
+random start/goal,"R random-trained, reward fix",2,300,74.7,0.0,25.3,11.41,0.934
+random start/goal,"R0 random-trained, original reward",0,300,0.0,100.0,0.0,,
+random start/goal,"R0 random-trained, original reward",1,300,0.0,100.0,0.0,,
+random start/goal,"R0 random-trained, original reward",2,300,0.0,100.0,0.0,,

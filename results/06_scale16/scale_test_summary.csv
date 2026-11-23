@@ -1,0 +1,8 @@
+drone,train_seed,n,success_%,crash_%,timeout_%,moves_on_successes,efficiency_on_successes
+A*,,300,100.0,0.0,0.0,30.01,1.0
+S1 plus,0,300,0.0,100.0,0.0,,
+S1 plus,1,300,0.0,100.0,0.0,,
+S1 plus,2,300,0.0,100.0,0.0,,
+S2 diamond,0,300,0.0,100.0,0.0,,
+S2 diamond,1,300,0.0,100.0,0.0,,
+S2 diamond,2,300,0.0,100.0,0.0,,

@@ -1,0 +1,9 @@
+model,gust_%,n,success_%,crashes,timeouts,mean_goal_steps
+calm DQN,0,300,88.0,0,36,14.54
+calm DQN,5,300,69.3,92,0,15.94
+calm DQN,10,300,52.3,143,0,16.54
+calm DQN,20,300,33.3,200,0,18.54
+gust DQN,0,300,92.0,0,24,14.62
+gust DQN,5,300,74.3,77,0,15.91
+gust DQN,10,300,61.3,116,0,16.47
+gust DQN,20,300,28.0,216,0,17.9

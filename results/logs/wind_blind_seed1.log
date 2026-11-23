@@ -1,0 +1,17 @@
+wind_blind_seed1: trained in 1.6 minutes
+{'variant': 'blind', 'seed': 1, 'direction': 'N', 'strength_%': 0, 'n': 300, 'success_%': 94.0, 'crashes': 0, 'timeouts': 18, 'train_minutes': 1.6}
+{'variant': 'blind', 'seed': 1, 'direction': 'N', 'strength_%': 10, 'n': 300, 'success_%': 72.3, 'crashes': 80, 'timeouts': 3, 'train_minutes': 1.6}
+{'variant': 'blind', 'seed': 1, 'direction': 'N', 'strength_%': 20, 'n': 300, 'success_%': 39.3, 'crashes': 182, 'timeouts': 0, 'train_minutes': 1.6}
+{'variant': 'blind', 'seed': 1, 'direction': 'N', 'strength_%': 30, 'n': 300, 'success_%': 17.7, 'crashes': 247, 'timeouts': 0, 'train_minutes': 1.6}
+{'variant': 'blind', 'seed': 1, 'direction': 'E', 'strength_%': 0, 'n': 300, 'success_%': 94.0, 'crashes': 0, 'timeouts': 18, 'train_minutes': 1.6}
+{'variant': 'blind', 'seed': 1, 'direction': 'E', 'strength_%': 10, 'n': 300, 'success_%': 76.0, 'crashes': 72, 'timeouts': 0, 'train_minutes': 1.6}
+{'variant': 'blind', 'seed': 1, 'direction': 'E', 'strength_%': 20, 'n': 300, 'success_%': 54.3, 'crashes': 137, 'timeouts': 0, 'train_minutes': 1.6}
+{'variant': 'blind', 'seed': 1, 'direction': 'E', 'strength_%': 30, 'n': 300, 'success_%': 41.3, 'crashes': 176, 'timeouts': 0, 'train_minutes': 1.6}
+{'variant': 'blind', 'seed': 1, 'direction': 'S', 'strength_%': 0, 'n': 300, 'success_%': 94.0, 'crashes': 0, 'timeouts': 18, 'train_minutes': 1.6}
+{'variant': 'blind', 'seed': 1, 'direction': 'S', 'strength_%': 10, 'n': 300, 'success_%': 55.7, 'crashes': 133, 'timeouts': 0, 'train_minutes': 1.6}
+{'variant': 'blind', 'seed': 1, 'direction': 'S', 'strength_%': 20, 'n': 300, 'success_%': 27.3, 'crashes': 218, 'timeouts': 0, 'train_minutes': 1.6}
+{'variant': 'blind', 'seed': 1, 'direction': 'S', 'strength_%': 30, 'n': 300, 'success_%': 11.7, 'crashes': 265, 'timeouts': 0, 'train_minutes': 1.6}
+{'variant': 'blind', 'seed': 1, 'direction': 'W', 'strength_%': 0, 'n': 300, 'success_%': 94.0, 'crashes': 0, 'timeouts': 18, 'train_minutes': 1.6}
+{'variant': 'blind', 'seed': 1, 'direction': 'W', 'strength_%': 10, 'n': 300, 'success_%': 57.0, 'crashes': 127, 'timeouts': 2, 'train_minutes': 1.6}
+{'variant': 'blind', 'seed': 1, 'direction': 'W', 'strength_%': 20, 'n': 300, 'success_%': 23.0, 'crashes': 231, 'timeouts': 0, 'train_minutes': 1.6}
+{'variant': 'blind', 'seed': 1, 'direction': 'W', 'strength_%': 30, 'n': 300, 'success_%': 5.0, 'crashes': 285, 'timeouts': 0, 'train_minutes': 1.6}

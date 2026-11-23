@@ -1,0 +1,13 @@
+{'train_moves': 2000000, 'success_%': 17.0, 'crash_%': 0.0, 'timeout_%': 83.0}
+{'train_moves': 4000000, 'success_%': 16.0, 'crash_%': 0.0, 'timeout_%': 84.0}
+{'train_moves': 6000000, 'success_%': 32.0, 'crash_%': 0.0, 'timeout_%': 68.0}
+{'train_moves': 8000000, 'success_%': 7.7, 'crash_%': 0.0, 'timeout_%': 92.3}
+{'train_moves': 10000000, 'success_%': 23.3, 'crash_%': 0.0, 'timeout_%': 76.7}
+{'train_moves': 12000000, 'success_%': 37.0, 'crash_%': 0.0, 'timeout_%': 63.0}
+{'train_moves': 14000000, 'success_%': 45.7, 'crash_%': 0.0, 'timeout_%': 54.3}
+{'train_moves': 16000000, 'success_%': 54.0, 'crash_%': 0.0, 'timeout_%': 46.0}
+{'train_moves': 18000000, 'success_%': 39.7, 'crash_%': 0.0, 'timeout_%': 60.3}
+{'train_moves': 20000000, 'success_%': 50.3, 'crash_%': 0.0, 'timeout_%': 49.7}
+{'train_moves': 22000000, 'success_%': 54.3, 'crash_%': 0.0, 'timeout_%': 45.7}
+{'train_moves': 24000000, 'success_%': 60.3, 'crash_%': 0.0, 'timeout_%': 39.7}
+stage 1: 24,000,000 moves on 32 x 32 done, total 24,000,000

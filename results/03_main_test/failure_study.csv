@@ -1,0 +1,1338 @@
+agent,gust_%,map_seed,ending,moves,cause
+calm DQN,0,30008,timeout,200,loop of 4 moves
+calm DQN,0,30050,timeout,200,loop of 4 moves into a dead end
+calm DQN,0,30059,timeout,200,loop of 2 moves into a dead end
+calm DQN,0,30068,timeout,200,loop of 6 moves into a dead end
+calm DQN,0,30086,timeout,200,loop of 6 moves into a dead end
+calm DQN,0,30089,timeout,200,loop of 6 moves into a dead end
+calm DQN,0,30101,timeout,200,loop of 4 moves
+calm DQN,0,30117,timeout,200,loop of 4 moves
+calm DQN,0,30121,timeout,200,loop of 4 moves into a dead end
+calm DQN,0,30152,timeout,200,loop of 6 moves into a dead end
+calm DQN,0,30156,timeout,200,loop of 8 moves into a dead end
+calm DQN,0,30168,timeout,200,loop of 4 moves
+calm DQN,0,30188,timeout,200,loop of 8 moves
+calm DQN,0,30196,timeout,200,loop of 4 moves
+calm DQN,0,30202,timeout,200,loop of 4 moves
+calm DQN,0,30208,timeout,200,loop of 4 moves into a dead end
+calm DQN,0,30211,timeout,200,loop of 4 moves into a dead end
+calm DQN,0,30230,timeout,200,loop of 6 moves into a dead end
+calm DQN,0,30232,timeout,200,loop of 4 moves
+calm DQN,0,30248,timeout,200,loop of 4 moves
+calm DQN,0,30265,timeout,200,loop of 6 moves into a dead end
+calm DQN,0,30267,timeout,200,loop of 4 moves
+calm DQN,0,30279,timeout,200,loop of 4 moves
+calm DQN,0,30297,timeout,200,loop of 2 moves
+gust DQN,0,30004,timeout,200,loop of 2 moves
+gust DQN,0,30013,timeout,200,loop of 2 moves into a dead end
+gust DQN,0,30026,timeout,200,loop of 2 moves
+gust DQN,0,30044,timeout,200,loop of 4 moves into a dead end
+gust DQN,0,30045,timeout,200,loop of 2 moves into a dead end
+gust DQN,0,30049,timeout,200,loop of 4 moves into a dead end
+gust DQN,0,30056,timeout,200,loop of 4 moves into a dead end
+gust DQN,0,30067,timeout,200,loop of 4 moves into a dead end
+gust DQN,0,30074,timeout,200,loop of 2 moves
+gust DQN,0,30082,timeout,200,loop of 2 moves
+gust DQN,0,30086,timeout,200,loop of 2 moves into a dead end
+gust DQN,0,30101,timeout,200,loop of 4 moves
+gust DQN,0,30115,timeout,200,loop of 2 moves into a dead end
+gust DQN,0,30130,timeout,200,loop of 12 moves into a dead end
+gust DQN,0,30132,timeout,200,loop of 2 moves into a dead end
+gust DQN,0,30143,timeout,200,loop of 4 moves
+gust DQN,0,30148,timeout,200,loop of 4 moves into a dead end
+gust DQN,0,30153,timeout,200,loop of 2 moves
+gust DQN,0,30155,timeout,200,loop of 6 moves
+gust DQN,0,30156,timeout,200,loop of 2 moves into a dead end
+gust DQN,0,30168,timeout,200,loop of 10 moves into a dead end
+gust DQN,0,30182,timeout,200,loop of 4 moves
+gust DQN,0,30183,timeout,200,loop of 2 moves
+gust DQN,0,30188,timeout,200,loop of 2 moves
+gust DQN,0,30208,timeout,200,loop of 4 moves into a dead end
+gust DQN,0,30213,timeout,200,loop of 2 moves
+gust DQN,0,30216,timeout,200,loop of 2 moves
+gust DQN,0,30220,timeout,200,loop of 2 moves
+gust DQN,0,30226,timeout,200,loop of 2 moves
+gust DQN,0,30230,timeout,200,loop of 2 moves into a dead end
+gust DQN,0,30232,timeout,200,loop of 2 moves
+gust DQN,0,30250,timeout,200,loop of 4 moves into a dead end
+gust DQN,0,30265,timeout,200,loop of 8 moves
+gust DQN,0,30272,timeout,200,loop of 2 moves
+gust DQN,0,30293,timeout,200,loop of 4 moves
+A*,5,30005,collision,5,gust pushed it into a wall
+A*,5,30014,collision,2,gust pushed it into a wall
+A*,5,30021,collision,9,gust pushed it into a wall
+A*,5,30026,collision,6,gust pushed it into a wall
+A*,5,30033,collision,7,gust pushed it into a wall
+A*,5,30035,collision,14,gust pushed it into a wall
+A*,5,30045,collision,3,gust pushed it into a wall
+A*,5,30046,collision,5,gust pushed it into a wall
+A*,5,30050,collision,8,gust pushed it into a wall
+A*,5,30053,collision,8,gust pushed it into a wall
+A*,5,30055,collision,1,gust pushed it into a wall
+A*,5,30068,collision,3,gust pushed it into a wall
+A*,5,30073,collision,13,gust pushed it into a wall
+A*,5,30074,collision,9,gust pushed it into a wall
+A*,5,30076,collision,10,gust pushed it into a wall
+A*,5,30078,collision,8,gust pushed it into a wall
+A*,5,30081,collision,1,gust pushed it into a wall
+A*,5,30086,collision,16,gust pushed it into a wall
+A*,5,30090,collision,16,gust pushed it into a wall
+A*,5,30091,collision,1,gust pushed it into a wall
+A*,5,30094,collision,12,gust pushed it into a wall
+A*,5,30095,collision,13,gust pushed it into a wall
+A*,5,30097,collision,4,gust pushed it into a wall
+A*,5,30111,collision,3,gust pushed it into a wall
+A*,5,30112,collision,5,gust pushed it into a wall
+A*,5,30115,collision,11,gust pushed it into a wall
+A*,5,30117,collision,4,gust pushed it into a wall
+A*,5,30123,collision,12,gust pushed it into a wall
+A*,5,30127,collision,9,gust pushed it into a wall
+A*,5,30130,collision,12,gust pushed it into a wall
+A*,5,30133,collision,7,gust pushed it into a wall
+A*,5,30137,collision,5,gust pushed it into a wall
+A*,5,30138,collision,12,gust pushed it into a wall
+A*,5,30140,collision,1,gust pushed it into a wall
+A*,5,30145,collision,1,gust pushed it into a wall
+A*,5,30150,collision,5,gust pushed it into a wall
+A*,5,30153,collision,9,gust pushed it into a wall
+A*,5,30154,collision,12,gust pushed it into a wall
+A*,5,30155,collision,7,gust pushed it into a wall
+A*,5,30157,collision,1,gust pushed it into a wall
+A*,5,30159,collision,6,gust pushed it into a wall
+A*,5,30160,collision,5,gust pushed it into a wall
+A*,5,30167,collision,6,gust pushed it into a wall
+A*,5,30169,collision,11,gust pushed it into a wall
+A*,5,30170,collision,8,gust pushed it into a wall
+A*,5,30172,collision,3,gust pushed it into a wall
+A*,5,30176,collision,10,gust pushed it into a wall
+A*,5,30180,collision,12,gust pushed it into a wall
+A*,5,30184,collision,7,gust pushed it into a wall
+A*,5,30186,collision,13,gust pushed it into a wall
+A*,5,30191,collision,7,gust pushed it into a wall
+A*,5,30192,collision,13,gust pushed it into a wall
+A*,5,30194,collision,14,gust pushed it into a wall
+A*,5,30195,collision,6,gust pushed it into a wall
+A*,5,30198,collision,7,gust pushed it into a wall
+A*,5,30201,collision,16,gust pushed it into a wall
+A*,5,30205,collision,11,gust pushed it into a wall
+A*,5,30215,collision,2,gust pushed it into a wall
+A*,5,30218,collision,1,gust pushed it into a wall
+A*,5,30221,collision,14,gust pushed it into a wall
+A*,5,30223,collision,9,gust pushed it into a wall
+A*,5,30231,collision,2,gust pushed it into a wall
+A*,5,30232,collision,9,gust pushed it into a wall
+A*,5,30244,collision,3,gust pushed it into a wall
+A*,5,30246,collision,5,gust pushed it into a wall
+A*,5,30253,collision,11,gust pushed it into a wall
+A*,5,30255,collision,14,gust pushed it into a wall
+A*,5,30257,collision,3,gust pushed it into a wall
+A*,5,30258,collision,5,gust pushed it into a wall
+A*,5,30260,collision,2,gust pushed it into a wall
+A*,5,30267,collision,1,gust pushed it into a wall
+A*,5,30269,collision,4,gust pushed it into a wall
+A*,5,30274,collision,13,gust pushed it into a wall
+A*,5,30279,collision,10,gust pushed it into a wall
+A*,5,30280,collision,4,gust pushed it into a wall
+A*,5,30290,collision,10,gust pushed it into a wall
+A*,5,30296,collision,12,gust pushed it into a wall
+calm DQN,5,30000,collision,12,gust pushed it into a wall
+calm DQN,5,30001,collision,12,gust pushed it into a wall
+calm DQN,5,30002,collision,10,gust pushed it into a wall
+calm DQN,5,30008,collision,81,gust pushed it into a wall
+calm DQN,5,30026,collision,6,gust pushed it into a wall
+calm DQN,5,30027,collision,3,gust pushed it into a wall
+calm DQN,5,30035,collision,14,gust pushed it into a wall
+calm DQN,5,30046,collision,5,gust pushed it into a wall
+calm DQN,5,30050,collision,12,gust pushed it into a wall
+calm DQN,5,30052,collision,7,gust pushed it into a wall
+calm DQN,5,30055,collision,1,gust pushed it into a wall
+calm DQN,5,30059,collision,73,gust pushed it into a wall
+calm DQN,5,30068,collision,3,gust pushed it into a wall
+calm DQN,5,30073,collision,13,gust pushed it into a wall
+calm DQN,5,30074,collision,9,gust pushed it into a wall
+calm DQN,5,30076,collision,10,gust pushed it into a wall
+calm DQN,5,30078,collision,8,gust pushed it into a wall
+calm DQN,5,30081,collision,1,gust pushed it into a wall
+calm DQN,5,30089,collision,29,gust pushed it into a wall
+calm DQN,5,30090,collision,2,gust pushed it into a wall
+calm DQN,5,30091,collision,1,gust pushed it into a wall
+calm DQN,5,30097,collision,4,gust pushed it into a wall
+calm DQN,5,30099,collision,10,gust pushed it into a wall
+calm DQN,5,30100,collision,16,gust pushed it into a wall
+calm DQN,5,30101,collision,46,gust pushed it into a wall
+calm DQN,5,30104,collision,17,gust pushed it into a wall
+calm DQN,5,30111,collision,3,gust pushed it into a wall
+calm DQN,5,30112,collision,5,gust pushed it into a wall
+calm DQN,5,30113,collision,27,gust pushed it into a wall
+calm DQN,5,30117,collision,47,gust pushed it into a wall
+calm DQN,5,30119,collision,9,gust pushed it into a wall
+calm DQN,5,30121,collision,13,gust pushed it into a wall
+calm DQN,5,30138,collision,14,gust pushed it into a wall
+calm DQN,5,30140,collision,1,gust pushed it into a wall
+calm DQN,5,30145,collision,1,gust pushed it into a wall
+calm DQN,5,30150,collision,5,gust pushed it into a wall
+calm DQN,5,30154,collision,12,gust pushed it into a wall
+calm DQN,5,30157,collision,1,gust pushed it into a wall
+calm DQN,5,30159,collision,6,gust pushed it into a wall
+calm DQN,5,30160,collision,15,gust pushed it into a wall
+calm DQN,5,30163,collision,12,gust pushed it into a wall
+calm DQN,5,30168,collision,64,gust pushed it into a wall
+calm DQN,5,30170,collision,8,gust pushed it into a wall
+calm DQN,5,30172,collision,4,gust pushed it into a wall
+calm DQN,5,30176,collision,20,gust pushed it into a wall
+calm DQN,5,30184,collision,7,gust pushed it into a wall
+calm DQN,5,30188,collision,48,gust pushed it into a wall
+calm DQN,5,30191,collision,7,gust pushed it into a wall
+calm DQN,5,30192,collision,13,gust pushed it into a wall
+calm DQN,5,30194,collision,14,gust pushed it into a wall
+calm DQN,5,30195,collision,6,gust pushed it into a wall
+calm DQN,5,30201,collision,16,gust pushed it into a wall
+calm DQN,5,30208,collision,16,gust pushed it into a wall
+calm DQN,5,30209,collision,2,gust pushed it into a wall
+calm DQN,5,30210,collision,7,gust pushed it into a wall
+calm DQN,5,30211,collision,10,gust pushed it into a wall
+calm DQN,5,30218,collision,1,gust pushed it into a wall
+calm DQN,5,30221,collision,14,gust pushed it into a wall
+calm DQN,5,30228,collision,17,gust pushed it into a wall
+calm DQN,5,30230,collision,23,gust pushed it into a wall
+calm DQN,5,30231,collision,2,gust pushed it into a wall
+calm DQN,5,30246,collision,5,gust pushed it into a wall
+calm DQN,5,30248,collision,9,gust pushed it into a wall
+calm DQN,5,30255,collision,2,gust pushed it into a wall
+calm DQN,5,30258,collision,5,gust pushed it into a wall
+calm DQN,5,30260,collision,6,gust pushed it into a wall
+calm DQN,5,30265,collision,19,gust pushed it into a wall
+calm DQN,5,30267,collision,1,gust pushed it into a wall
+calm DQN,5,30270,collision,8,gust pushed it into a wall
+calm DQN,5,30274,collision,13,gust pushed it into a wall
+calm DQN,5,30279,collision,10,gust pushed it into a wall
+calm DQN,5,30280,collision,6,gust pushed it into a wall
+calm DQN,5,30286,collision,35,gust pushed it into a wall
+calm DQN,5,30290,collision,10,gust pushed it into a wall
+calm DQN,5,30295,collision,27,gust pushed it into a wall
+calm DQN,5,30296,collision,12,gust pushed it into a wall
+calm DQN,5,30297,collision,25,gust pushed it into a wall
+gust DQN,5,30004,collision,36,gust pushed it into a wall
+gust DQN,5,30013,collision,5,gust pushed it into a wall
+gust DQN,5,30014,collision,2,gust pushed it into a wall
+gust DQN,5,30020,collision,4,gust pushed it into a wall
+gust DQN,5,30021,collision,11,gust pushed it into a wall
+gust DQN,5,30026,collision,26,gust pushed it into a wall
+gust DQN,5,30031,collision,6,gust pushed it into a wall
+gust DQN,5,30033,collision,7,gust pushed it into a wall
+gust DQN,5,30035,collision,14,gust pushed it into a wall
+gust DQN,5,30045,collision,3,gust pushed it into a wall
+gust DQN,5,30049,collision,16,gust pushed it into a wall
+gust DQN,5,30050,collision,8,gust pushed it into a wall
+gust DQN,5,30051,collision,10,gust pushed it into a wall
+gust DQN,5,30055,collision,1,gust pushed it into a wall
+gust DQN,5,30056,collision,26,gust pushed it into a wall
+gust DQN,5,30067,collision,32,gust pushed it into a wall
+gust DQN,5,30068,collision,3,gust pushed it into a wall
+gust DQN,5,30071,collision,5,gust pushed it into a wall
+gust DQN,5,30073,collision,13,gust pushed it into a wall
+gust DQN,5,30074,collision,122,gust pushed it into a wall
+gust DQN,5,30076,collision,14,gust pushed it into a wall
+gust DQN,5,30078,collision,8,gust pushed it into a wall
+gust DQN,5,30081,collision,1,gust pushed it into a wall
+gust DQN,5,30086,collision,21,gust pushed it into a wall
+gust DQN,5,30090,collision,16,gust pushed it into a wall
+gust DQN,5,30091,collision,1,gust pushed it into a wall
+gust DQN,5,30097,collision,4,gust pushed it into a wall
+gust DQN,5,30101,collision,46,gust pushed it into a wall
+gust DQN,5,30104,collision,9,gust pushed it into a wall
+gust DQN,5,30111,collision,3,gust pushed it into a wall
+gust DQN,5,30112,collision,13,gust pushed it into a wall
+gust DQN,5,30113,collision,7,gust pushed it into a wall
+gust DQN,5,30115,collision,11,gust pushed it into a wall
+gust DQN,5,30119,collision,9,gust pushed it into a wall
+gust DQN,5,30121,collision,13,gust pushed it into a wall
+gust DQN,5,30123,collision,12,gust pushed it into a wall
+gust DQN,5,30127,collision,9,gust pushed it into a wall
+gust DQN,5,30130,collision,31,gust pushed it into a wall
+gust DQN,5,30132,collision,43,gust pushed it into a wall
+gust DQN,5,30138,collision,14,gust pushed it into a wall
+gust DQN,5,30140,collision,1,gust pushed it into a wall
+gust DQN,5,30143,collision,22,gust pushed it into a wall
+gust DQN,5,30145,collision,1,gust pushed it into a wall
+gust DQN,5,30148,collision,62,gust pushed it into a wall
+gust DQN,5,30150,collision,5,gust pushed it into a wall
+gust DQN,5,30152,collision,5,gust pushed it into a wall
+gust DQN,5,30153,collision,9,gust pushed it into a wall
+gust DQN,5,30155,collision,19,gust pushed it into a wall
+gust DQN,5,30156,collision,21,gust pushed it into a wall
+gust DQN,5,30157,collision,1,gust pushed it into a wall
+gust DQN,5,30158,collision,10,gust pushed it into a wall
+gust DQN,5,30159,collision,6,gust pushed it into a wall
+gust DQN,5,30160,collision,15,gust pushed it into a wall
+gust DQN,5,30163,collision,3,gust pushed it into a wall
+gust DQN,5,30168,collision,64,gust pushed it into a wall
+gust DQN,5,30170,collision,8,gust pushed it into a wall
+gust DQN,5,30172,collision,3,gust pushed it into a wall
+gust DQN,5,30173,collision,3,gust pushed it into a wall
+gust DQN,5,30183,collision,132,gust pushed it into a wall
+gust DQN,5,30186,collision,13,gust pushed it into a wall
+gust DQN,5,30188,collision,48,gust pushed it into a wall
+gust DQN,5,30191,collision,7,gust pushed it into a wall
+gust DQN,5,30194,collision,14,gust pushed it into a wall
+gust DQN,5,30195,collision,6,gust pushed it into a wall
+gust DQN,5,30196,collision,6,gust pushed it into a wall
+gust DQN,5,30201,collision,16,gust pushed it into a wall
+gust DQN,5,30204,collision,6,gust pushed it into a wall
+gust DQN,5,30205,collision,11,gust pushed it into a wall
+gust DQN,5,30208,collision,16,gust pushed it into a wall
+gust DQN,5,30213,collision,19,gust pushed it into a wall
+gust DQN,5,30215,collision,2,gust pushed it into a wall
+gust DQN,5,30216,collision,27,gust pushed it into a wall
+gust DQN,5,30218,collision,1,gust pushed it into a wall
+gust DQN,5,30220,collision,76,gust pushed it into a wall
+gust DQN,5,30221,collision,14,gust pushed it into a wall
+gust DQN,5,30226,collision,105,gust pushed it into a wall
+gust DQN,5,30230,collision,21,gust pushed it into a wall
+gust DQN,5,30231,collision,2,gust pushed it into a wall
+gust DQN,5,30232,collision,48,gust pushed it into a wall
+gust DQN,5,30244,collision,3,gust pushed it into a wall
+gust DQN,5,30250,collision,17,gust pushed it into a wall
+gust DQN,5,30255,collision,14,gust pushed it into a wall
+gust DQN,5,30259,collision,7,gust pushed it into a wall
+gust DQN,5,30260,collision,2,gust pushed it into a wall
+gust DQN,5,30261,collision,12,gust pushed it into a wall
+gust DQN,5,30265,collision,19,gust pushed it into a wall
+gust DQN,5,30266,collision,9,gust pushed it into a wall
+gust DQN,5,30267,collision,1,gust pushed it into a wall
+gust DQN,5,30272,collision,26,gust pushed it into a wall
+gust DQN,5,30274,collision,13,gust pushed it into a wall
+gust DQN,5,30277,collision,6,gust pushed it into a wall
+gust DQN,5,30279,collision,7,gust pushed it into a wall
+gust DQN,5,30280,collision,8,gust pushed it into a wall
+gust DQN,5,30283,collision,20,gust pushed it into a wall
+gust DQN,5,30286,collision,35,gust pushed it into a wall
+gust DQN,5,30290,collision,12,gust pushed it into a wall
+A*,10,30001,collision,4,gust pushed it into a wall
+A*,10,30003,collision,2,gust pushed it into a wall
+A*,10,30006,collision,12,gust pushed it into a wall
+A*,10,30011,collision,13,gust pushed it into a wall
+A*,10,30012,collision,13,gust pushed it into a wall
+A*,10,30013,collision,11,gust pushed it into a wall
+A*,10,30014,collision,5,gust pushed it into a wall
+A*,10,30016,collision,2,gust pushed it into a wall
+A*,10,30017,collision,5,gust pushed it into a wall
+A*,10,30020,collision,1,gust pushed it into a wall
+A*,10,30021,collision,12,gust pushed it into a wall
+A*,10,30023,collision,3,gust pushed it into a wall
+A*,10,30026,collision,14,gust pushed it into a wall
+A*,10,30032,collision,3,gust pushed it into a wall
+A*,10,30037,collision,11,gust pushed it into a wall
+A*,10,30044,collision,7,gust pushed it into a wall
+A*,10,30045,collision,4,gust pushed it into a wall
+A*,10,30047,collision,4,gust pushed it into a wall
+A*,10,30048,collision,13,gust pushed it into a wall
+A*,10,30051,collision,10,gust pushed it into a wall
+A*,10,30054,collision,14,gust pushed it into a wall
+A*,10,30055,collision,1,gust pushed it into a wall
+A*,10,30060,collision,13,gust pushed it into a wall
+A*,10,30062,collision,11,gust pushed it into a wall
+A*,10,30063,collision,4,gust pushed it into a wall
+A*,10,30066,collision,23,gust pushed it into a wall
+A*,10,30072,collision,12,gust pushed it into a wall
+A*,10,30078,collision,11,gust pushed it into a wall
+A*,10,30079,collision,8,gust pushed it into a wall
+A*,10,30080,collision,8,gust pushed it into a wall
+A*,10,30083,collision,11,gust pushed it into a wall
+A*,10,30085,collision,4,gust pushed it into a wall
+A*,10,30087,collision,6,gust pushed it into a wall
+A*,10,30092,collision,5,gust pushed it into a wall
+A*,10,30093,collision,8,gust pushed it into a wall
+A*,10,30097,collision,2,gust pushed it into a wall
+A*,10,30105,collision,4,gust pushed it into a wall
+A*,10,30109,collision,5,gust pushed it into a wall
+A*,10,30111,collision,2,gust pushed it into a wall
+A*,10,30112,collision,11,gust pushed it into a wall
+A*,10,30115,collision,9,gust pushed it into a wall
+A*,10,30116,collision,1,gust pushed it into a wall
+A*,10,30118,collision,9,gust pushed it into a wall
+A*,10,30119,collision,10,gust pushed it into a wall
+A*,10,30120,collision,2,gust pushed it into a wall
+A*,10,30123,collision,9,gust pushed it into a wall
+A*,10,30127,collision,2,gust pushed it into a wall
+A*,10,30129,collision,10,gust pushed it into a wall
+A*,10,30132,collision,1,gust pushed it into a wall
+A*,10,30136,collision,3,gust pushed it into a wall
+A*,10,30139,collision,13,gust pushed it into a wall
+A*,10,30141,collision,1,gust pushed it into a wall
+A*,10,30143,collision,9,gust pushed it into a wall
+A*,10,30146,collision,3,gust pushed it into a wall
+A*,10,30147,collision,3,gust pushed it into a wall
+A*,10,30148,collision,10,gust pushed it into a wall
+A*,10,30150,collision,12,gust pushed it into a wall
+A*,10,30156,collision,1,gust pushed it into a wall
+A*,10,30157,collision,5,gust pushed it into a wall
+A*,10,30160,collision,12,gust pushed it into a wall
+A*,10,30162,collision,4,gust pushed it into a wall
+A*,10,30163,collision,11,gust pushed it into a wall
+A*,10,30165,collision,10,gust pushed it into a wall
+A*,10,30171,collision,3,gust pushed it into a wall
+A*,10,30174,collision,1,gust pushed it into a wall
+A*,10,30176,collision,1,gust pushed it into a wall
+A*,10,30179,collision,3,gust pushed it into a wall
+A*,10,30180,collision,1,gust pushed it into a wall
+A*,10,30181,collision,1,gust pushed it into a wall
+A*,10,30186,collision,2,gust pushed it into a wall
+A*,10,30187,collision,4,gust pushed it into a wall
+A*,10,30188,collision,13,gust pushed it into a wall
+A*,10,30190,collision,1,gust pushed it into a wall
+A*,10,30191,collision,1,gust pushed it into a wall
+A*,10,30192,collision,2,gust pushed it into a wall
+A*,10,30197,collision,1,gust pushed it into a wall
+A*,10,30199,collision,4,gust pushed it into a wall
+A*,10,30202,collision,10,gust pushed it into a wall
+A*,10,30204,collision,7,gust pushed it into a wall
+A*,10,30206,collision,12,gust pushed it into a wall
+A*,10,30207,collision,11,gust pushed it into a wall
+A*,10,30208,collision,1,gust pushed it into a wall
+A*,10,30209,collision,11,gust pushed it into a wall
+A*,10,30210,collision,1,gust pushed it into a wall
+A*,10,30211,collision,1,gust pushed it into a wall
+A*,10,30213,collision,16,gust pushed it into a wall
+A*,10,30214,collision,3,gust pushed it into a wall
+A*,10,30217,collision,1,gust pushed it into a wall
+A*,10,30222,collision,8,gust pushed it into a wall
+A*,10,30223,collision,17,gust pushed it into a wall
+A*,10,30225,collision,14,gust pushed it into a wall
+A*,10,30233,collision,1,gust pushed it into a wall
+A*,10,30236,collision,14,gust pushed it into a wall
+A*,10,30237,collision,1,gust pushed it into a wall
+A*,10,30238,collision,2,gust pushed it into a wall
+A*,10,30243,collision,7,gust pushed it into a wall
+A*,10,30245,collision,4,gust pushed it into a wall
+A*,10,30251,collision,18,gust pushed it into a wall
+A*,10,30254,collision,7,gust pushed it into a wall
+A*,10,30255,collision,1,gust pushed it into a wall
+A*,10,30256,collision,1,gust pushed it into a wall
+A*,10,30258,collision,14,gust pushed it into a wall
+A*,10,30261,collision,16,gust pushed it into a wall
+A*,10,30262,collision,7,gust pushed it into a wall
+A*,10,30263,collision,11,gust pushed it into a wall
+A*,10,30268,collision,1,gust pushed it into a wall
+A*,10,30274,collision,3,gust pushed it into a wall
+A*,10,30275,collision,5,gust pushed it into a wall
+A*,10,30278,collision,2,gust pushed it into a wall
+A*,10,30280,collision,5,gust pushed it into a wall
+A*,10,30282,collision,1,gust pushed it into a wall
+A*,10,30283,collision,2,gust pushed it into a wall
+A*,10,30285,collision,2,gust pushed it into a wall
+A*,10,30286,collision,5,gust pushed it into a wall
+A*,10,30287,collision,13,gust pushed it into a wall
+A*,10,30288,collision,13,gust pushed it into a wall
+A*,10,30291,collision,10,gust pushed it into a wall
+A*,10,30293,collision,2,gust pushed it into a wall
+A*,10,30294,collision,16,gust pushed it into a wall
+A*,10,30296,collision,1,gust pushed it into a wall
+A*,10,30297,collision,9,gust pushed it into a wall
+A*,10,30298,collision,22,gust pushed it into a wall
+calm DQN,10,30000,collision,2,gust pushed it into a wall
+calm DQN,10,30001,collision,26,gust pushed it into a wall
+calm DQN,10,30006,collision,12,gust pushed it into a wall
+calm DQN,10,30008,collision,11,gust pushed it into a wall
+calm DQN,10,30009,collision,6,gust pushed it into a wall
+calm DQN,10,30012,collision,13,gust pushed it into a wall
+calm DQN,10,30014,collision,5,gust pushed it into a wall
+calm DQN,10,30020,collision,1,gust pushed it into a wall
+calm DQN,10,30021,collision,12,gust pushed it into a wall
+calm DQN,10,30024,collision,13,gust pushed it into a wall
+calm DQN,10,30026,collision,14,gust pushed it into a wall
+calm DQN,10,30039,collision,2,gust pushed it into a wall
+calm DQN,10,30041,collision,16,gust pushed it into a wall
+calm DQN,10,30045,collision,4,gust pushed it into a wall
+calm DQN,10,30048,collision,23,gust pushed it into a wall
+calm DQN,10,30050,collision,26,gust pushed it into a wall
+calm DQN,10,30053,collision,5,gust pushed it into a wall
+calm DQN,10,30055,collision,1,gust pushed it into a wall
+calm DQN,10,30056,collision,11,gust pushed it into a wall
+calm DQN,10,30059,collision,17,gust pushed it into a wall
+calm DQN,10,30063,collision,9,gust pushed it into a wall
+calm DQN,10,30066,collision,23,gust pushed it into a wall
+calm DQN,10,30068,collision,4,gust pushed it into a wall
+calm DQN,10,30070,collision,2,gust pushed it into a wall
+calm DQN,10,30072,collision,12,gust pushed it into a wall
+calm DQN,10,30080,collision,8,gust pushed it into a wall
+calm DQN,10,30081,collision,18,gust pushed it into a wall
+calm DQN,10,30084,collision,6,gust pushed it into a wall
+calm DQN,10,30085,collision,4,gust pushed it into a wall
+calm DQN,10,30086,collision,33,gust pushed it into a wall
+calm DQN,10,30087,collision,13,gust pushed it into a wall
+calm DQN,10,30089,collision,11,gust pushed it into a wall
+calm DQN,10,30090,collision,8,gust pushed it into a wall
+calm DQN,10,30094,collision,2,gust pushed it into a wall
+calm DQN,10,30101,collision,76,gust pushed it into a wall
+calm DQN,10,30103,collision,12,gust pushed it into a wall
+calm DQN,10,30105,collision,4,gust pushed it into a wall
+calm DQN,10,30109,collision,5,gust pushed it into a wall
+calm DQN,10,30111,collision,18,gust pushed it into a wall
+calm DQN,10,30115,collision,10,gust pushed it into a wall
+calm DQN,10,30116,collision,1,gust pushed it into a wall
+calm DQN,10,30118,collision,10,gust pushed it into a wall
+calm DQN,10,30120,collision,2,gust pushed it into a wall
+calm DQN,10,30121,collision,50,gust pushed it into a wall
+calm DQN,10,30123,collision,9,gust pushed it into a wall
+calm DQN,10,30127,collision,2,gust pushed it into a wall
+calm DQN,10,30129,collision,10,gust pushed it into a wall
+calm DQN,10,30132,collision,1,gust pushed it into a wall
+calm DQN,10,30134,collision,12,gust pushed it into a wall
+calm DQN,10,30135,collision,2,gust pushed it into a wall
+calm DQN,10,30138,collision,8,gust pushed it into a wall
+calm DQN,10,30141,collision,1,gust pushed it into a wall
+calm DQN,10,30143,collision,6,gust pushed it into a wall
+calm DQN,10,30148,collision,10,gust pushed it into a wall
+calm DQN,10,30150,collision,14,gust pushed it into a wall
+calm DQN,10,30154,collision,16,gust pushed it into a wall
+calm DQN,10,30156,collision,1,gust pushed it into a wall
+calm DQN,10,30157,collision,2,gust pushed it into a wall
+calm DQN,10,30165,collision,9,gust pushed it into a wall
+calm DQN,10,30168,collision,92,gust pushed it into a wall
+calm DQN,10,30169,collision,7,gust pushed it into a wall
+calm DQN,10,30171,collision,6,gust pushed it into a wall
+calm DQN,10,30174,collision,1,gust pushed it into a wall
+calm DQN,10,30175,collision,15,gust pushed it into a wall
+calm DQN,10,30176,collision,1,gust pushed it into a wall
+calm DQN,10,30178,collision,3,gust pushed it into a wall
+calm DQN,10,30179,collision,3,gust pushed it into a wall
+calm DQN,10,30180,collision,1,gust pushed it into a wall
+calm DQN,10,30181,collision,1,gust pushed it into a wall
+calm DQN,10,30184,collision,32,gust pushed it into a wall
+calm DQN,10,30186,collision,3,gust pushed it into a wall
+calm DQN,10,30187,collision,4,gust pushed it into a wall
+calm DQN,10,30188,collision,90,gust pushed it into a wall
+calm DQN,10,30190,collision,1,gust pushed it into a wall
+calm DQN,10,30191,collision,1,gust pushed it into a wall
+calm DQN,10,30196,collision,14,gust pushed it into a wall
+calm DQN,10,30197,collision,1,gust pushed it into a wall
+calm DQN,10,30198,collision,3,gust pushed it into a wall
+calm DQN,10,30199,collision,6,gust pushed it into a wall
+calm DQN,10,30202,collision,8,gust pushed it into a wall
+calm DQN,10,30206,collision,12,gust pushed it into a wall
+calm DQN,10,30208,collision,1,gust pushed it into a wall
+calm DQN,10,30209,collision,11,gust pushed it into a wall
+calm DQN,10,30210,collision,1,gust pushed it into a wall
+calm DQN,10,30211,collision,1,gust pushed it into a wall
+calm DQN,10,30213,collision,3,gust pushed it into a wall
+calm DQN,10,30214,collision,4,gust pushed it into a wall
+calm DQN,10,30217,collision,1,gust pushed it into a wall
+calm DQN,10,30220,collision,4,gust pushed it into a wall
+calm DQN,10,30223,collision,17,gust pushed it into a wall
+calm DQN,10,30225,collision,11,gust pushed it into a wall
+calm DQN,10,30230,collision,21,gust pushed it into a wall
+calm DQN,10,30232,collision,37,gust pushed it into a wall
+calm DQN,10,30233,collision,1,gust pushed it into a wall
+calm DQN,10,30236,collision,14,gust pushed it into a wall
+calm DQN,10,30237,collision,1,gust pushed it into a wall
+calm DQN,10,30238,collision,2,gust pushed it into a wall
+calm DQN,10,30241,collision,20,gust pushed it into a wall
+calm DQN,10,30243,collision,7,gust pushed it into a wall
+calm DQN,10,30244,collision,2,gust pushed it into a wall
+calm DQN,10,30248,collision,65,gust pushed it into a wall
+calm DQN,10,30251,collision,18,gust pushed it into a wall
+calm DQN,10,30254,collision,5,gust pushed it into a wall
+calm DQN,10,30255,collision,1,gust pushed it into a wall
+calm DQN,10,30256,collision,1,gust pushed it into a wall
+calm DQN,10,30261,collision,16,gust pushed it into a wall
+calm DQN,10,30262,collision,7,gust pushed it into a wall
+calm DQN,10,30263,collision,13,gust pushed it into a wall
+calm DQN,10,30264,collision,21,gust pushed it into a wall
+calm DQN,10,30265,collision,22,gust pushed it into a wall
+calm DQN,10,30267,collision,17,gust pushed it into a wall
+calm DQN,10,30268,collision,1,gust pushed it into a wall
+calm DQN,10,30275,collision,5,gust pushed it into a wall
+calm DQN,10,30276,collision,13,gust pushed it into a wall
+calm DQN,10,30279,collision,11,gust pushed it into a wall
+calm DQN,10,30281,collision,2,gust pushed it into a wall
+calm DQN,10,30282,collision,1,gust pushed it into a wall
+calm DQN,10,30283,collision,2,gust pushed it into a wall
+calm DQN,10,30286,collision,5,gust pushed it into a wall
+calm DQN,10,30288,collision,13,gust pushed it into a wall
+calm DQN,10,30291,collision,10,gust pushed it into a wall
+calm DQN,10,30293,collision,5,gust pushed it into a wall
+calm DQN,10,30296,collision,1,gust pushed it into a wall
+calm DQN,10,30297,collision,17,gust pushed it into a wall
+gust DQN,10,30003,collision,2,gust pushed it into a wall
+gust DQN,10,30004,collision,19,gust pushed it into a wall
+gust DQN,10,30009,collision,34,gust pushed it into a wall
+gust DQN,10,30011,collision,13,gust pushed it into a wall
+gust DQN,10,30012,collision,13,gust pushed it into a wall
+gust DQN,10,30013,collision,11,gust pushed it into a wall
+gust DQN,10,30014,collision,5,gust pushed it into a wall
+gust DQN,10,30016,collision,2,gust pushed it into a wall
+gust DQN,10,30020,collision,1,gust pushed it into a wall
+gust DQN,10,30021,collision,12,gust pushed it into a wall
+gust DQN,10,30023,collision,16,gust pushed it into a wall
+gust DQN,10,30026,collision,14,gust pushed it into a wall
+gust DQN,10,30027,collision,19,gust pushed it into a wall
+gust DQN,10,30032,collision,7,gust pushed it into a wall
+gust DQN,10,30044,collision,7,gust pushed it into a wall
+gust DQN,10,30045,collision,4,gust pushed it into a wall
+gust DQN,10,30047,collision,14,gust pushed it into a wall
+gust DQN,10,30049,collision,69,gust pushed it into a wall
+gust DQN,10,30052,collision,17,gust pushed it into a wall
+gust DQN,10,30053,collision,5,gust pushed it into a wall
+gust DQN,10,30054,collision,14,gust pushed it into a wall
+gust DQN,10,30055,collision,1,gust pushed it into a wall
+gust DQN,10,30056,collision,11,gust pushed it into a wall
+gust DQN,10,30057,collision,15,gust pushed it into a wall
+gust DQN,10,30060,collision,13,gust pushed it into a wall
+gust DQN,10,30063,collision,9,gust pushed it into a wall
+gust DQN,10,30067,collision,36,gust pushed it into a wall
+gust DQN,10,30074,collision,24,gust pushed it into a wall
+gust DQN,10,30078,collision,11,gust pushed it into a wall
+gust DQN,10,30080,collision,8,gust pushed it into a wall
+gust DQN,10,30082,collision,22,gust pushed it into a wall
+gust DQN,10,30084,collision,6,gust pushed it into a wall
+gust DQN,10,30085,collision,4,gust pushed it into a wall
+gust DQN,10,30086,collision,33,gust pushed it into a wall
+gust DQN,10,30087,collision,10,gust pushed it into a wall
+gust DQN,10,30090,collision,8,gust pushed it into a wall
+gust DQN,10,30093,collision,8,gust pushed it into a wall
+gust DQN,10,30097,collision,2,gust pushed it into a wall
+gust DQN,10,30101,collision,41,gust pushed it into a wall
+gust DQN,10,30105,collision,14,gust pushed it into a wall
+gust DQN,10,30110,collision,9,gust pushed it into a wall
+gust DQN,10,30111,collision,2,gust pushed it into a wall
+gust DQN,10,30112,collision,12,gust pushed it into a wall
+gust DQN,10,30116,collision,1,gust pushed it into a wall
+gust DQN,10,30119,collision,10,gust pushed it into a wall
+gust DQN,10,30120,collision,2,gust pushed it into a wall
+gust DQN,10,30123,collision,3,gust pushed it into a wall
+gust DQN,10,30127,collision,2,gust pushed it into a wall
+gust DQN,10,30130,collision,89,gust pushed it into a wall
+gust DQN,10,30132,collision,1,gust pushed it into a wall
+gust DQN,10,30138,collision,8,gust pushed it into a wall
+gust DQN,10,30139,collision,13,gust pushed it into a wall
+gust DQN,10,30141,collision,1,gust pushed it into a wall
+gust DQN,10,30143,collision,9,gust pushed it into a wall
+gust DQN,10,30147,collision,3,gust pushed it into a wall
+gust DQN,10,30148,collision,32,gust pushed it into a wall
+gust DQN,10,30149,collision,3,gust pushed it into a wall
+gust DQN,10,30150,collision,14,gust pushed it into a wall
+gust DQN,10,30151,collision,11,gust pushed it into a wall
+gust DQN,10,30153,collision,7,gust pushed it into a wall
+gust DQN,10,30155,collision,39,gust pushed it into a wall
+gust DQN,10,30156,collision,1,gust pushed it into a wall
+gust DQN,10,30161,collision,20,gust pushed it into a wall
+gust DQN,10,30165,collision,9,gust pushed it into a wall
+gust DQN,10,30168,collision,41,gust pushed it into a wall
+gust DQN,10,30171,collision,6,gust pushed it into a wall
+gust DQN,10,30173,collision,5,gust pushed it into a wall
+gust DQN,10,30174,collision,1,gust pushed it into a wall
+gust DQN,10,30175,collision,15,gust pushed it into a wall
+gust DQN,10,30176,collision,1,gust pushed it into a wall
+gust DQN,10,30179,collision,18,gust pushed it into a wall
+gust DQN,10,30180,collision,1,gust pushed it into a wall
+gust DQN,10,30181,collision,1,gust pushed it into a wall
+gust DQN,10,30182,collision,41,gust pushed it into a wall
+gust DQN,10,30183,collision,34,gust pushed it into a wall
+gust DQN,10,30184,collision,24,gust pushed it into a wall
+gust DQN,10,30186,collision,2,gust pushed it into a wall
+gust DQN,10,30187,collision,4,gust pushed it into a wall
+gust DQN,10,30188,collision,13,gust pushed it into a wall
+gust DQN,10,30190,collision,1,gust pushed it into a wall
+gust DQN,10,30191,collision,1,gust pushed it into a wall
+gust DQN,10,30192,collision,2,gust pushed it into a wall
+gust DQN,10,30197,collision,1,gust pushed it into a wall
+gust DQN,10,30198,collision,3,gust pushed it into a wall
+gust DQN,10,30202,collision,8,gust pushed it into a wall
+gust DQN,10,30204,collision,13,gust pushed it into a wall
+gust DQN,10,30206,collision,12,gust pushed it into a wall
+gust DQN,10,30208,collision,1,gust pushed it into a wall
+gust DQN,10,30210,collision,1,gust pushed it into a wall
+gust DQN,10,30211,collision,1,gust pushed it into a wall
+gust DQN,10,30213,collision,3,gust pushed it into a wall
+gust DQN,10,30214,collision,4,gust pushed it into a wall
+gust DQN,10,30217,collision,1,gust pushed it into a wall
+gust DQN,10,30220,collision,4,gust pushed it into a wall
+gust DQN,10,30222,collision,8,gust pushed it into a wall
+gust DQN,10,30223,collision,17,gust pushed it into a wall
+gust DQN,10,30225,collision,11,gust pushed it into a wall
+gust DQN,10,30226,collision,38,gust pushed it into a wall
+gust DQN,10,30227,collision,6,gust pushed it into a wall
+gust DQN,10,30230,collision,21,gust pushed it into a wall
+gust DQN,10,30232,collision,71,gust pushed it into a wall
+gust DQN,10,30233,collision,1,gust pushed it into a wall
+gust DQN,10,30237,collision,1,gust pushed it into a wall
+gust DQN,10,30238,collision,2,gust pushed it into a wall
+gust DQN,10,30239,collision,8,gust pushed it into a wall
+gust DQN,10,30247,collision,20,gust pushed it into a wall
+gust DQN,10,30249,collision,5,gust pushed it into a wall
+gust DQN,10,30251,collision,13,gust pushed it into a wall
+gust DQN,10,30254,collision,7,gust pushed it into a wall
+gust DQN,10,30255,collision,1,gust pushed it into a wall
+gust DQN,10,30256,collision,1,gust pushed it into a wall
+gust DQN,10,30261,collision,16,gust pushed it into a wall
+gust DQN,10,30262,collision,16,gust pushed it into a wall
+gust DQN,10,30265,collision,22,gust pushed it into a wall
+gust DQN,10,30268,collision,1,gust pushed it into a wall
+gust DQN,10,30269,collision,6,gust pushed it into a wall
+gust DQN,10,30271,collision,12,gust pushed it into a wall
+gust DQN,10,30272,collision,5,gust pushed it into a wall
+gust DQN,10,30278,collision,2,gust pushed it into a wall
+gust DQN,10,30280,collision,8,gust pushed it into a wall
+gust DQN,10,30281,collision,17,gust pushed it into a wall
+gust DQN,10,30282,collision,1,gust pushed it into a wall
+gust DQN,10,30283,collision,2,gust pushed it into a wall
+gust DQN,10,30285,collision,2,gust pushed it into a wall
+gust DQN,10,30286,collision,5,gust pushed it into a wall
+gust DQN,10,30288,collision,13,gust pushed it into a wall
+gust DQN,10,30291,collision,10,gust pushed it into a wall
+gust DQN,10,30293,collision,2,gust pushed it into a wall
+gust DQN,10,30294,collision,17,gust pushed it into a wall
+gust DQN,10,30296,collision,1,gust pushed it into a wall
+gust DQN,10,30297,collision,17,gust pushed it into a wall
+gust DQN,10,30299,collision,6,gust pushed it into a wall
+A*,20,30000,collision,14,gust pushed it into a wall
+A*,20,30001,collision,8,gust pushed it into a wall
+A*,20,30003,collision,1,gust pushed it into a wall
+A*,20,30005,collision,1,gust pushed it into a wall
+A*,20,30006,collision,9,gust pushed it into a wall
+A*,20,30007,collision,2,gust pushed it into a wall
+A*,20,30008,collision,3,gust pushed it into a wall
+A*,20,30009,collision,2,gust pushed it into a wall
+A*,20,30010,collision,4,gust pushed it into a wall
+A*,20,30013,collision,11,gust pushed it into a wall
+A*,20,30015,collision,2,gust pushed it into a wall
+A*,20,30019,collision,4,gust pushed it into a wall
+A*,20,30020,collision,2,gust pushed it into a wall
+A*,20,30022,collision,15,gust pushed it into a wall
+A*,20,30023,collision,10,gust pushed it into a wall
+A*,20,30024,collision,16,gust pushed it into a wall
+A*,20,30025,collision,1,gust pushed it into a wall
+A*,20,30026,collision,12,gust pushed it into a wall
+A*,20,30027,collision,8,gust pushed it into a wall
+A*,20,30030,collision,1,gust pushed it into a wall
+A*,20,30032,collision,1,gust pushed it into a wall
+A*,20,30033,collision,4,gust pushed it into a wall
+A*,20,30034,collision,4,gust pushed it into a wall
+A*,20,30037,collision,3,gust pushed it into a wall
+A*,20,30038,collision,7,gust pushed it into a wall
+A*,20,30039,collision,16,gust pushed it into a wall
+A*,20,30040,collision,1,gust pushed it into a wall
+A*,20,30041,collision,3,gust pushed it into a wall
+A*,20,30042,collision,1,gust pushed it into a wall
+A*,20,30043,collision,21,gust pushed it into a wall
+A*,20,30046,collision,2,gust pushed it into a wall
+A*,20,30047,collision,6,gust pushed it into a wall
+A*,20,30048,collision,17,gust pushed it into a wall
+A*,20,30049,collision,1,gust pushed it into a wall
+A*,20,30051,collision,14,gust pushed it into a wall
+A*,20,30052,collision,1,gust pushed it into a wall
+A*,20,30053,collision,14,gust pushed it into a wall
+A*,20,30054,collision,14,gust pushed it into a wall
+A*,20,30055,collision,9,gust pushed it into a wall
+A*,20,30056,collision,3,gust pushed it into a wall
+A*,20,30058,collision,11,gust pushed it into a wall
+A*,20,30061,collision,1,gust pushed it into a wall
+A*,20,30062,collision,3,gust pushed it into a wall
+A*,20,30063,collision,4,gust pushed it into a wall
+A*,20,30066,collision,18,gust pushed it into a wall
+A*,20,30067,collision,7,gust pushed it into a wall
+A*,20,30068,collision,2,gust pushed it into a wall
+A*,20,30069,collision,1,gust pushed it into a wall
+A*,20,30071,collision,2,gust pushed it into a wall
+A*,20,30072,collision,2,gust pushed it into a wall
+A*,20,30073,collision,8,gust pushed it into a wall
+A*,20,30074,collision,16,gust pushed it into a wall
+A*,20,30075,collision,2,gust pushed it into a wall
+A*,20,30076,collision,12,gust pushed it into a wall
+A*,20,30077,collision,1,gust pushed it into a wall
+A*,20,30078,collision,10,gust pushed it into a wall
+A*,20,30079,collision,6,gust pushed it into a wall
+A*,20,30080,collision,14,gust pushed it into a wall
+A*,20,30081,collision,1,gust pushed it into a wall
+A*,20,30082,collision,8,gust pushed it into a wall
+A*,20,30083,collision,2,gust pushed it into a wall
+A*,20,30084,collision,2,gust pushed it into a wall
+A*,20,30085,collision,13,gust pushed it into a wall
+A*,20,30086,collision,22,gust pushed it into a wall
+A*,20,30087,collision,6,gust pushed it into a wall
+A*,20,30088,collision,4,gust pushed it into a wall
+A*,20,30089,collision,10,gust pushed it into a wall
+A*,20,30090,collision,15,gust pushed it into a wall
+A*,20,30091,collision,3,gust pushed it into a wall
+A*,20,30094,collision,6,gust pushed it into a wall
+A*,20,30095,collision,1,gust pushed it into a wall
+A*,20,30096,collision,1,gust pushed it into a wall
+A*,20,30097,collision,1,gust pushed it into a wall
+A*,20,30100,collision,1,gust pushed it into a wall
+A*,20,30101,collision,9,gust pushed it into a wall
+A*,20,30102,collision,13,gust pushed it into a wall
+A*,20,30103,collision,11,gust pushed it into a wall
+A*,20,30104,collision,1,gust pushed it into a wall
+A*,20,30105,collision,9,gust pushed it into a wall
+A*,20,30106,collision,9,gust pushed it into a wall
+A*,20,30108,collision,1,gust pushed it into a wall
+A*,20,30109,collision,7,gust pushed it into a wall
+A*,20,30110,collision,14,gust pushed it into a wall
+A*,20,30111,collision,1,gust pushed it into a wall
+A*,20,30113,collision,4,gust pushed it into a wall
+A*,20,30118,collision,2,gust pushed it into a wall
+A*,20,30119,collision,11,gust pushed it into a wall
+A*,20,30121,collision,16,gust pushed it into a wall
+A*,20,30123,collision,15,gust pushed it into a wall
+A*,20,30125,collision,1,gust pushed it into a wall
+A*,20,30126,collision,4,gust pushed it into a wall
+A*,20,30127,collision,4,gust pushed it into a wall
+A*,20,30128,collision,4,gust pushed it into a wall
+A*,20,30130,collision,8,gust pushed it into a wall
+A*,20,30131,collision,14,gust pushed it into a wall
+A*,20,30133,collision,16,gust pushed it into a wall
+A*,20,30134,collision,1,gust pushed it into a wall
+A*,20,30137,collision,19,gust pushed it into a wall
+A*,20,30138,collision,4,gust pushed it into a wall
+A*,20,30139,collision,8,gust pushed it into a wall
+A*,20,30142,collision,1,gust pushed it into a wall
+A*,20,30143,collision,9,gust pushed it into a wall
+A*,20,30144,collision,6,gust pushed it into a wall
+A*,20,30145,collision,3,gust pushed it into a wall
+A*,20,30146,collision,26,gust pushed it into a wall
+A*,20,30147,collision,13,gust pushed it into a wall
+A*,20,30148,collision,3,gust pushed it into a wall
+A*,20,30149,collision,8,gust pushed it into a wall
+A*,20,30150,collision,8,gust pushed it into a wall
+A*,20,30151,collision,1,gust pushed it into a wall
+A*,20,30152,collision,5,gust pushed it into a wall
+A*,20,30155,collision,4,gust pushed it into a wall
+A*,20,30156,collision,12,gust pushed it into a wall
+A*,20,30158,collision,5,gust pushed it into a wall
+A*,20,30159,collision,15,gust pushed it into a wall
+A*,20,30160,collision,11,gust pushed it into a wall
+A*,20,30161,collision,18,gust pushed it into a wall
+A*,20,30162,collision,6,gust pushed it into a wall
+A*,20,30164,collision,1,gust pushed it into a wall
+A*,20,30165,collision,3,gust pushed it into a wall
+A*,20,30166,collision,1,gust pushed it into a wall
+A*,20,30167,collision,5,gust pushed it into a wall
+A*,20,30168,collision,6,gust pushed it into a wall
+A*,20,30169,collision,3,gust pushed it into a wall
+A*,20,30171,collision,11,gust pushed it into a wall
+A*,20,30172,collision,14,gust pushed it into a wall
+A*,20,30174,collision,2,gust pushed it into a wall
+A*,20,30175,collision,7,gust pushed it into a wall
+A*,20,30177,collision,12,gust pushed it into a wall
+A*,20,30180,collision,14,gust pushed it into a wall
+A*,20,30181,collision,1,gust pushed it into a wall
+A*,20,30183,collision,3,gust pushed it into a wall
+A*,20,30184,collision,6,gust pushed it into a wall
+A*,20,30185,collision,3,gust pushed it into a wall
+A*,20,30188,collision,19,gust pushed it into a wall
+A*,20,30190,collision,4,gust pushed it into a wall
+A*,20,30191,collision,1,gust pushed it into a wall
+A*,20,30192,collision,1,gust pushed it into a wall
+A*,20,30193,collision,14,gust pushed it into a wall
+A*,20,30194,collision,3,gust pushed it into a wall
+A*,20,30195,collision,7,gust pushed it into a wall
+A*,20,30196,collision,15,gust pushed it into a wall
+A*,20,30197,collision,5,gust pushed it into a wall
+A*,20,30198,collision,16,gust pushed it into a wall
+A*,20,30199,collision,5,gust pushed it into a wall
+A*,20,30200,collision,20,gust pushed it into a wall
+A*,20,30201,collision,10,gust pushed it into a wall
+A*,20,30202,collision,1,gust pushed it into a wall
+A*,20,30203,collision,2,gust pushed it into a wall
+A*,20,30204,collision,6,gust pushed it into a wall
+A*,20,30205,collision,1,gust pushed it into a wall
+A*,20,30207,collision,11,gust pushed it into a wall
+A*,20,30208,collision,13,gust pushed it into a wall
+A*,20,30209,collision,19,gust pushed it into a wall
+A*,20,30212,collision,11,gust pushed it into a wall
+A*,20,30213,collision,7,gust pushed it into a wall
+A*,20,30218,collision,13,gust pushed it into a wall
+A*,20,30219,collision,1,gust pushed it into a wall
+A*,20,30220,collision,12,gust pushed it into a wall
+A*,20,30221,collision,8,gust pushed it into a wall
+A*,20,30222,collision,14,gust pushed it into a wall
+A*,20,30223,collision,25,gust pushed it into a wall
+A*,20,30224,collision,1,gust pushed it into a wall
+A*,20,30226,collision,3,gust pushed it into a wall
+A*,20,30227,collision,16,gust pushed it into a wall
+A*,20,30228,collision,3,gust pushed it into a wall
+A*,20,30229,collision,16,gust pushed it into a wall
+A*,20,30230,collision,4,gust pushed it into a wall
+A*,20,30231,collision,4,gust pushed it into a wall
+A*,20,30234,collision,12,gust pushed it into a wall
+A*,20,30235,collision,1,gust pushed it into a wall
+A*,20,30236,collision,1,gust pushed it into a wall
+A*,20,30237,collision,14,gust pushed it into a wall
+A*,20,30238,collision,13,gust pushed it into a wall
+A*,20,30239,collision,6,gust pushed it into a wall
+A*,20,30241,collision,20,gust pushed it into a wall
+A*,20,30242,collision,22,gust pushed it into a wall
+A*,20,30243,collision,6,gust pushed it into a wall
+A*,20,30245,collision,6,gust pushed it into a wall
+A*,20,30246,collision,3,gust pushed it into a wall
+A*,20,30247,collision,5,gust pushed it into a wall
+A*,20,30248,collision,2,gust pushed it into a wall
+A*,20,30250,collision,4,gust pushed it into a wall
+A*,20,30251,collision,18,gust pushed it into a wall
+A*,20,30252,collision,15,gust pushed it into a wall
+A*,20,30253,collision,8,gust pushed it into a wall
+A*,20,30254,collision,1,gust pushed it into a wall
+A*,20,30255,collision,8,gust pushed it into a wall
+A*,20,30256,collision,7,gust pushed it into a wall
+A*,20,30257,collision,12,gust pushed it into a wall
+A*,20,30258,collision,11,gust pushed it into a wall
+A*,20,30259,collision,15,gust pushed it into a wall
+A*,20,30260,collision,1,gust pushed it into a wall
+A*,20,30261,collision,3,gust pushed it into a wall
+A*,20,30262,collision,14,gust pushed it into a wall
+A*,20,30264,collision,1,gust pushed it into a wall
+A*,20,30265,collision,1,gust pushed it into a wall
+A*,20,30267,collision,2,gust pushed it into a wall
+A*,20,30268,collision,9,gust pushed it into a wall
+A*,20,30269,collision,1,gust pushed it into a wall
+A*,20,30270,collision,1,gust pushed it into a wall
+A*,20,30271,collision,5,gust pushed it into a wall
+A*,20,30272,collision,1,gust pushed it into a wall
+A*,20,30273,collision,1,gust pushed it into a wall
+A*,20,30274,collision,14,gust pushed it into a wall
+A*,20,30275,collision,13,gust pushed it into a wall
+A*,20,30277,collision,3,gust pushed it into a wall
+A*,20,30278,collision,9,gust pushed it into a wall
+A*,20,30280,collision,1,gust pushed it into a wall
+A*,20,30281,collision,13,gust pushed it into a wall
+A*,20,30283,collision,19,gust pushed it into a wall
+A*,20,30285,collision,15,gust pushed it into a wall
+A*,20,30287,collision,8,gust pushed it into a wall
+A*,20,30289,collision,24,gust pushed it into a wall
+A*,20,30291,collision,12,gust pushed it into a wall
+A*,20,30293,collision,17,gust pushed it into a wall
+A*,20,30294,collision,2,gust pushed it into a wall
+A*,20,30295,collision,15,gust pushed it into a wall
+A*,20,30296,collision,9,gust pushed it into a wall
+A*,20,30297,collision,12,gust pushed it into a wall
+A*,20,30298,collision,2,gust pushed it into a wall
+A*,20,30299,collision,5,gust pushed it into a wall
+calm DQN,20,30001,collision,8,gust pushed it into a wall
+calm DQN,20,30003,collision,1,gust pushed it into a wall
+calm DQN,20,30004,collision,6,gust pushed it into a wall
+calm DQN,20,30005,collision,1,gust pushed it into a wall
+calm DQN,20,30006,collision,8,gust pushed it into a wall
+calm DQN,20,30007,collision,2,gust pushed it into a wall
+calm DQN,20,30008,collision,23,gust pushed it into a wall
+calm DQN,20,30009,collision,17,gust pushed it into a wall
+calm DQN,20,30015,collision,10,gust pushed it into a wall
+calm DQN,20,30019,collision,11,gust pushed it into a wall
+calm DQN,20,30022,collision,15,gust pushed it into a wall
+calm DQN,20,30023,collision,14,gust pushed it into a wall
+calm DQN,20,30024,collision,16,gust pushed it into a wall
+calm DQN,20,30025,collision,1,gust pushed it into a wall
+calm DQN,20,30026,collision,9,gust pushed it into a wall
+calm DQN,20,30027,collision,22,gust pushed it into a wall
+calm DQN,20,30028,collision,10,gust pushed it into a wall
+calm DQN,20,30029,collision,4,gust pushed it into a wall
+calm DQN,20,30030,collision,1,gust pushed it into a wall
+calm DQN,20,30032,collision,1,gust pushed it into a wall
+calm DQN,20,30033,collision,2,gust pushed it into a wall
+calm DQN,20,30034,collision,4,gust pushed it into a wall
+calm DQN,20,30037,collision,4,gust pushed it into a wall
+calm DQN,20,30038,collision,4,gust pushed it into a wall
+calm DQN,20,30039,collision,16,gust pushed it into a wall
+calm DQN,20,30040,collision,1,gust pushed it into a wall
+calm DQN,20,30041,collision,3,gust pushed it into a wall
+calm DQN,20,30042,collision,1,gust pushed it into a wall
+calm DQN,20,30043,collision,24,gust pushed it into a wall
+calm DQN,20,30044,collision,4,gust pushed it into a wall
+calm DQN,20,30046,collision,18,gust pushed it into a wall
+calm DQN,20,30049,collision,1,gust pushed it into a wall
+calm DQN,20,30050,collision,28,gust pushed it into a wall
+calm DQN,20,30051,collision,14,gust pushed it into a wall
+calm DQN,20,30052,collision,1,gust pushed it into a wall
+calm DQN,20,30053,collision,16,gust pushed it into a wall
+calm DQN,20,30056,collision,18,gust pushed it into a wall
+calm DQN,20,30057,collision,17,gust pushed it into a wall
+calm DQN,20,30058,collision,11,gust pushed it into a wall
+calm DQN,20,30059,collision,10,gust pushed it into a wall
+calm DQN,20,30061,collision,1,gust pushed it into a wall
+calm DQN,20,30062,collision,3,gust pushed it into a wall
+calm DQN,20,30063,collision,6,gust pushed it into a wall
+calm DQN,20,30066,collision,14,gust pushed it into a wall
+calm DQN,20,30068,collision,2,gust pushed it into a wall
+calm DQN,20,30069,collision,1,gust pushed it into a wall
+calm DQN,20,30071,collision,24,gust pushed it into a wall
+calm DQN,20,30072,collision,11,gust pushed it into a wall
+calm DQN,20,30074,collision,16,gust pushed it into a wall
+calm DQN,20,30075,collision,15,gust pushed it into a wall
+calm DQN,20,30076,collision,13,gust pushed it into a wall
+calm DQN,20,30077,collision,1,gust pushed it into a wall
+calm DQN,20,30078,collision,10,gust pushed it into a wall
+calm DQN,20,30080,collision,16,gust pushed it into a wall
+calm DQN,20,30081,collision,1,gust pushed it into a wall
+calm DQN,20,30082,collision,18,gust pushed it into a wall
+calm DQN,20,30085,collision,3,gust pushed it into a wall
+calm DQN,20,30086,collision,15,gust pushed it into a wall
+calm DQN,20,30087,collision,6,gust pushed it into a wall
+calm DQN,20,30088,collision,4,gust pushed it into a wall
+calm DQN,20,30089,collision,10,gust pushed it into a wall
+calm DQN,20,30090,collision,11,gust pushed it into a wall
+calm DQN,20,30095,collision,1,gust pushed it into a wall
+calm DQN,20,30096,collision,1,gust pushed it into a wall
+calm DQN,20,30097,collision,1,gust pushed it into a wall
+calm DQN,20,30099,collision,5,gust pushed it into a wall
+calm DQN,20,30100,collision,1,gust pushed it into a wall
+calm DQN,20,30101,collision,9,gust pushed it into a wall
+calm DQN,20,30102,collision,13,gust pushed it into a wall
+calm DQN,20,30103,collision,21,gust pushed it into a wall
+calm DQN,20,30104,collision,1,gust pushed it into a wall
+calm DQN,20,30106,collision,7,gust pushed it into a wall
+calm DQN,20,30108,collision,1,gust pushed it into a wall
+calm DQN,20,30109,collision,7,gust pushed it into a wall
+calm DQN,20,30111,collision,1,gust pushed it into a wall
+calm DQN,20,30113,collision,30,gust pushed it into a wall
+calm DQN,20,30116,collision,17,gust pushed it into a wall
+calm DQN,20,30118,collision,12,gust pushed it into a wall
+calm DQN,20,30120,collision,15,gust pushed it into a wall
+calm DQN,20,30121,collision,26,gust pushed it into a wall
+calm DQN,20,30123,collision,15,gust pushed it into a wall
+calm DQN,20,30125,collision,1,gust pushed it into a wall
+calm DQN,20,30126,collision,18,gust pushed it into a wall
+calm DQN,20,30127,collision,6,gust pushed it into a wall
+calm DQN,20,30128,collision,12,gust pushed it into a wall
+calm DQN,20,30130,collision,8,gust pushed it into a wall
+calm DQN,20,30131,collision,14,gust pushed it into a wall
+calm DQN,20,30133,collision,12,gust pushed it into a wall
+calm DQN,20,30134,collision,1,gust pushed it into a wall
+calm DQN,20,30135,collision,13,gust pushed it into a wall
+calm DQN,20,30137,collision,20,gust pushed it into a wall
+calm DQN,20,30138,collision,4,gust pushed it into a wall
+calm DQN,20,30140,collision,7,gust pushed it into a wall
+calm DQN,20,30141,collision,7,gust pushed it into a wall
+calm DQN,20,30142,collision,1,gust pushed it into a wall
+calm DQN,20,30144,collision,15,gust pushed it into a wall
+calm DQN,20,30145,collision,6,gust pushed it into a wall
+calm DQN,20,30146,collision,26,gust pushed it into a wall
+calm DQN,20,30147,collision,2,gust pushed it into a wall
+calm DQN,20,30148,collision,3,gust pushed it into a wall
+calm DQN,20,30149,collision,13,gust pushed it into a wall
+calm DQN,20,30150,collision,8,gust pushed it into a wall
+calm DQN,20,30151,collision,1,gust pushed it into a wall
+calm DQN,20,30152,collision,5,gust pushed it into a wall
+calm DQN,20,30154,collision,3,gust pushed it into a wall
+calm DQN,20,30155,collision,4,gust pushed it into a wall
+calm DQN,20,30156,collision,11,gust pushed it into a wall
+calm DQN,20,30158,collision,5,gust pushed it into a wall
+calm DQN,20,30159,collision,14,gust pushed it into a wall
+calm DQN,20,30161,collision,18,gust pushed it into a wall
+calm DQN,20,30162,collision,4,gust pushed it into a wall
+calm DQN,20,30164,collision,1,gust pushed it into a wall
+calm DQN,20,30165,collision,3,gust pushed it into a wall
+calm DQN,20,30166,collision,1,gust pushed it into a wall
+calm DQN,20,30167,collision,5,gust pushed it into a wall
+calm DQN,20,30168,collision,6,gust pushed it into a wall
+calm DQN,20,30169,collision,3,gust pushed it into a wall
+calm DQN,20,30171,collision,6,gust pushed it into a wall
+calm DQN,20,30172,collision,4,gust pushed it into a wall
+calm DQN,20,30174,collision,2,gust pushed it into a wall
+calm DQN,20,30175,collision,7,gust pushed it into a wall
+calm DQN,20,30180,collision,20,gust pushed it into a wall
+calm DQN,20,30181,collision,1,gust pushed it into a wall
+calm DQN,20,30183,collision,3,gust pushed it into a wall
+calm DQN,20,30184,collision,6,gust pushed it into a wall
+calm DQN,20,30185,collision,2,gust pushed it into a wall
+calm DQN,20,30187,collision,10,gust pushed it into a wall
+calm DQN,20,30188,collision,12,gust pushed it into a wall
+calm DQN,20,30190,collision,4,gust pushed it into a wall
+calm DQN,20,30191,collision,1,gust pushed it into a wall
+calm DQN,20,30192,collision,1,gust pushed it into a wall
+calm DQN,20,30193,collision,14,gust pushed it into a wall
+calm DQN,20,30194,collision,3,gust pushed it into a wall
+calm DQN,20,30195,collision,7,gust pushed it into a wall
+calm DQN,20,30196,collision,15,gust pushed it into a wall
+calm DQN,20,30197,collision,8,gust pushed it into a wall
+calm DQN,20,30199,collision,5,gust pushed it into a wall
+calm DQN,20,30200,collision,20,gust pushed it into a wall
+calm DQN,20,30202,collision,1,gust pushed it into a wall
+calm DQN,20,30203,collision,2,gust pushed it into a wall
+calm DQN,20,30204,collision,13,gust pushed it into a wall
+calm DQN,20,30205,collision,1,gust pushed it into a wall
+calm DQN,20,30207,collision,11,gust pushed it into a wall
+calm DQN,20,30208,collision,22,gust pushed it into a wall
+calm DQN,20,30209,collision,10,gust pushed it into a wall
+calm DQN,20,30211,collision,18,gust pushed it into a wall
+calm DQN,20,30212,collision,2,gust pushed it into a wall
+calm DQN,20,30213,collision,7,gust pushed it into a wall
+calm DQN,20,30218,collision,13,gust pushed it into a wall
+calm DQN,20,30219,collision,1,gust pushed it into a wall
+calm DQN,20,30220,collision,4,gust pushed it into a wall
+calm DQN,20,30221,collision,2,gust pushed it into a wall
+calm DQN,20,30222,collision,14,gust pushed it into a wall
+calm DQN,20,30223,collision,25,gust pushed it into a wall
+calm DQN,20,30224,collision,1,gust pushed it into a wall
+calm DQN,20,30226,collision,2,gust pushed it into a wall
+calm DQN,20,30227,collision,16,gust pushed it into a wall
+calm DQN,20,30228,collision,3,gust pushed it into a wall
+calm DQN,20,30229,collision,16,gust pushed it into a wall
+calm DQN,20,30230,collision,4,gust pushed it into a wall
+calm DQN,20,30231,collision,4,gust pushed it into a wall
+calm DQN,20,30232,collision,5,gust pushed it into a wall
+calm DQN,20,30234,collision,12,gust pushed it into a wall
+calm DQN,20,30235,collision,1,gust pushed it into a wall
+calm DQN,20,30236,collision,1,gust pushed it into a wall
+calm DQN,20,30237,collision,14,gust pushed it into a wall
+calm DQN,20,30238,collision,14,gust pushed it into a wall
+calm DQN,20,30239,collision,6,gust pushed it into a wall
+calm DQN,20,30240,collision,21,gust pushed it into a wall
+calm DQN,20,30241,collision,20,gust pushed it into a wall
+calm DQN,20,30242,collision,22,gust pushed it into a wall
+calm DQN,20,30243,collision,14,gust pushed it into a wall
+calm DQN,20,30245,collision,2,gust pushed it into a wall
+calm DQN,20,30246,collision,3,gust pushed it into a wall
+calm DQN,20,30247,collision,2,gust pushed it into a wall
+calm DQN,20,30248,collision,5,gust pushed it into a wall
+calm DQN,20,30250,collision,2,gust pushed it into a wall
+calm DQN,20,30251,collision,18,gust pushed it into a wall
+calm DQN,20,30252,collision,17,gust pushed it into a wall
+calm DQN,20,30253,collision,4,gust pushed it into a wall
+calm DQN,20,30254,collision,1,gust pushed it into a wall
+calm DQN,20,30255,collision,6,gust pushed it into a wall
+calm DQN,20,30256,collision,20,gust pushed it into a wall
+calm DQN,20,30257,collision,12,gust pushed it into a wall
+calm DQN,20,30258,collision,11,gust pushed it into a wall
+calm DQN,20,30259,collision,15,gust pushed it into a wall
+calm DQN,20,30260,collision,1,gust pushed it into a wall
+calm DQN,20,30261,collision,3,gust pushed it into a wall
+calm DQN,20,30262,collision,14,gust pushed it into a wall
+calm DQN,20,30263,collision,2,gust pushed it into a wall
+calm DQN,20,30264,collision,1,gust pushed it into a wall
+calm DQN,20,30265,collision,1,gust pushed it into a wall
+calm DQN,20,30267,collision,2,gust pushed it into a wall
+calm DQN,20,30268,collision,2,gust pushed it into a wall
+calm DQN,20,30269,collision,1,gust pushed it into a wall
+calm DQN,20,30270,collision,1,gust pushed it into a wall
+calm DQN,20,30272,collision,1,gust pushed it into a wall
+calm DQN,20,30273,collision,1,gust pushed it into a wall
+calm DQN,20,30274,collision,18,gust pushed it into a wall
+calm DQN,20,30279,collision,2,gust pushed it into a wall
+calm DQN,20,30280,collision,1,gust pushed it into a wall
+calm DQN,20,30282,collision,8,gust pushed it into a wall
+calm DQN,20,30283,collision,6,gust pushed it into a wall
+calm DQN,20,30285,collision,6,gust pushed it into a wall
+calm DQN,20,30286,collision,15,gust pushed it into a wall
+calm DQN,20,30287,collision,6,gust pushed it into a wall
+calm DQN,20,30289,collision,5,gust pushed it into a wall
+calm DQN,20,30292,collision,2,gust pushed it into a wall
+calm DQN,20,30293,collision,2,gust pushed it into a wall
+calm DQN,20,30295,collision,21,gust pushed it into a wall
+calm DQN,20,30296,collision,9,gust pushed it into a wall
+calm DQN,20,30297,collision,12,gust pushed it into a wall
+calm DQN,20,30298,collision,21,gust pushed it into a wall
+calm DQN,20,30299,collision,5,gust pushed it into a wall
+gust DQN,20,30000,collision,7,gust pushed it into a wall
+gust DQN,20,30001,collision,10,gust pushed it into a wall
+gust DQN,20,30003,collision,1,gust pushed it into a wall
+gust DQN,20,30004,collision,18,gust pushed it into a wall
+gust DQN,20,30005,collision,1,gust pushed it into a wall
+gust DQN,20,30006,collision,22,gust pushed it into a wall
+gust DQN,20,30007,collision,2,gust pushed it into a wall
+gust DQN,20,30008,collision,14,gust pushed it into a wall
+gust DQN,20,30009,collision,2,gust pushed it into a wall
+gust DQN,20,30010,collision,4,gust pushed it into a wall
+gust DQN,20,30012,collision,17,gust pushed it into a wall
+gust DQN,20,30013,collision,11,gust pushed it into a wall
+gust DQN,20,30015,collision,2,gust pushed it into a wall
+gust DQN,20,30016,collision,4,gust pushed it into a wall
+gust DQN,20,30018,collision,3,gust pushed it into a wall
+gust DQN,20,30019,collision,35,gust pushed it into a wall
+gust DQN,20,30020,collision,2,gust pushed it into a wall
+gust DQN,20,30022,collision,15,gust pushed it into a wall
+gust DQN,20,30023,collision,10,gust pushed it into a wall
+gust DQN,20,30024,collision,9,gust pushed it into a wall
+gust DQN,20,30025,collision,1,gust pushed it into a wall
+gust DQN,20,30026,collision,12,gust pushed it into a wall
+gust DQN,20,30027,collision,8,gust pushed it into a wall
+gust DQN,20,30030,collision,1,gust pushed it into a wall
+gust DQN,20,30032,collision,1,gust pushed it into a wall
+gust DQN,20,30033,collision,4,gust pushed it into a wall
+gust DQN,20,30034,collision,4,gust pushed it into a wall
+gust DQN,20,30037,collision,4,gust pushed it into a wall
+gust DQN,20,30038,collision,4,gust pushed it into a wall
+gust DQN,20,30039,collision,16,gust pushed it into a wall
+gust DQN,20,30040,collision,1,gust pushed it into a wall
+gust DQN,20,30042,collision,1,gust pushed it into a wall
+gust DQN,20,30043,collision,6,gust pushed it into a wall
+gust DQN,20,30044,collision,26,gust pushed it into a wall
+gust DQN,20,30045,collision,12,gust pushed it into a wall
+gust DQN,20,30046,collision,2,gust pushed it into a wall
+gust DQN,20,30048,collision,13,gust pushed it into a wall
+gust DQN,20,30049,collision,1,gust pushed it into a wall
+gust DQN,20,30050,collision,17,gust pushed it into a wall
+gust DQN,20,30051,collision,18,gust pushed it into a wall
+gust DQN,20,30052,collision,1,gust pushed it into a wall
+gust DQN,20,30053,collision,16,gust pushed it into a wall
+gust DQN,20,30054,collision,14,gust pushed it into a wall
+gust DQN,20,30056,collision,12,gust pushed it into a wall
+gust DQN,20,30057,collision,3,gust pushed it into a wall
+gust DQN,20,30059,collision,15,gust pushed it into a wall
+gust DQN,20,30060,collision,4,gust pushed it into a wall
+gust DQN,20,30061,collision,1,gust pushed it into a wall
+gust DQN,20,30066,collision,18,gust pushed it into a wall
+gust DQN,20,30068,collision,2,gust pushed it into a wall
+gust DQN,20,30069,collision,1,gust pushed it into a wall
+gust DQN,20,30070,collision,5,gust pushed it into a wall
+gust DQN,20,30071,collision,2,gust pushed it into a wall
+gust DQN,20,30072,collision,2,gust pushed it into a wall
+gust DQN,20,30074,collision,16,gust pushed it into a wall
+gust DQN,20,30075,collision,2,gust pushed it into a wall
+gust DQN,20,30076,collision,13,gust pushed it into a wall
+gust DQN,20,30077,collision,1,gust pushed it into a wall
+gust DQN,20,30078,collision,15,gust pushed it into a wall
+gust DQN,20,30080,collision,16,gust pushed it into a wall
+gust DQN,20,30081,collision,1,gust pushed it into a wall
+gust DQN,20,30082,collision,18,gust pushed it into a wall
+gust DQN,20,30083,collision,2,gust pushed it into a wall
+gust DQN,20,30084,collision,2,gust pushed it into a wall
+gust DQN,20,30085,collision,13,gust pushed it into a wall
+gust DQN,20,30086,collision,15,gust pushed it into a wall
+gust DQN,20,30087,collision,4,gust pushed it into a wall
+gust DQN,20,30088,collision,4,gust pushed it into a wall
+gust DQN,20,30089,collision,10,gust pushed it into a wall
+gust DQN,20,30090,collision,15,gust pushed it into a wall
+gust DQN,20,30095,collision,1,gust pushed it into a wall
+gust DQN,20,30096,collision,1,gust pushed it into a wall
+gust DQN,20,30097,collision,1,gust pushed it into a wall
+gust DQN,20,30099,collision,5,gust pushed it into a wall
+gust DQN,20,30100,collision,1,gust pushed it into a wall
+gust DQN,20,30101,collision,9,gust pushed it into a wall
+gust DQN,20,30104,collision,1,gust pushed it into a wall
+gust DQN,20,30105,collision,14,gust pushed it into a wall
+gust DQN,20,30106,collision,7,gust pushed it into a wall
+gust DQN,20,30108,collision,1,gust pushed it into a wall
+gust DQN,20,30111,collision,1,gust pushed it into a wall
+gust DQN,20,30113,collision,30,gust pushed it into a wall
+gust DQN,20,30115,collision,17,gust pushed it into a wall
+gust DQN,20,30116,collision,17,gust pushed it into a wall
+gust DQN,20,30118,collision,2,gust pushed it into a wall
+gust DQN,20,30119,collision,11,gust pushed it into a wall
+gust DQN,20,30121,collision,16,gust pushed it into a wall
+gust DQN,20,30123,collision,15,gust pushed it into a wall
+gust DQN,20,30125,collision,1,gust pushed it into a wall
+gust DQN,20,30126,collision,18,gust pushed it into a wall
+gust DQN,20,30128,collision,24,gust pushed it into a wall
+gust DQN,20,30131,collision,14,gust pushed it into a wall
+gust DQN,20,30133,collision,16,gust pushed it into a wall
+gust DQN,20,30134,collision,1,gust pushed it into a wall
+gust DQN,20,30136,collision,19,gust pushed it into a wall
+gust DQN,20,30137,collision,20,gust pushed it into a wall
+gust DQN,20,30138,collision,4,gust pushed it into a wall
+gust DQN,20,30139,collision,22,gust pushed it into a wall
+gust DQN,20,30140,collision,7,gust pushed it into a wall
+gust DQN,20,30141,collision,16,gust pushed it into a wall
+gust DQN,20,30142,collision,1,gust pushed it into a wall
+gust DQN,20,30143,collision,36,gust pushed it into a wall
+gust DQN,20,30145,collision,6,gust pushed it into a wall
+gust DQN,20,30146,collision,5,gust pushed it into a wall
+gust DQN,20,30147,collision,4,gust pushed it into a wall
+gust DQN,20,30148,collision,3,gust pushed it into a wall
+gust DQN,20,30150,collision,16,gust pushed it into a wall
+gust DQN,20,30151,collision,1,gust pushed it into a wall
+gust DQN,20,30152,collision,10,gust pushed it into a wall
+gust DQN,20,30153,collision,36,gust pushed it into a wall
+gust DQN,20,30154,collision,4,gust pushed it into a wall
+gust DQN,20,30155,collision,26,gust pushed it into a wall
+gust DQN,20,30156,collision,11,gust pushed it into a wall
+gust DQN,20,30157,collision,7,gust pushed it into a wall
+gust DQN,20,30158,collision,5,gust pushed it into a wall
+gust DQN,20,30159,collision,11,gust pushed it into a wall
+gust DQN,20,30161,collision,3,gust pushed it into a wall
+gust DQN,20,30162,collision,4,gust pushed it into a wall
+gust DQN,20,30163,collision,3,gust pushed it into a wall
+gust DQN,20,30164,collision,1,gust pushed it into a wall
+gust DQN,20,30165,collision,3,gust pushed it into a wall
+gust DQN,20,30166,collision,1,gust pushed it into a wall
+gust DQN,20,30167,collision,13,gust pushed it into a wall
+gust DQN,20,30168,collision,6,gust pushed it into a wall
+gust DQN,20,30169,collision,3,gust pushed it into a wall
+gust DQN,20,30171,collision,7,gust pushed it into a wall
+gust DQN,20,30174,collision,2,gust pushed it into a wall
+gust DQN,20,30177,collision,12,gust pushed it into a wall
+gust DQN,20,30180,collision,14,gust pushed it into a wall
+gust DQN,20,30181,collision,1,gust pushed it into a wall
+gust DQN,20,30183,collision,3,gust pushed it into a wall
+gust DQN,20,30185,collision,3,gust pushed it into a wall
+gust DQN,20,30188,collision,19,gust pushed it into a wall
+gust DQN,20,30191,collision,1,gust pushed it into a wall
+gust DQN,20,30192,collision,1,gust pushed it into a wall
+gust DQN,20,30194,collision,3,gust pushed it into a wall
+gust DQN,20,30195,collision,15,gust pushed it into a wall
+gust DQN,20,30196,collision,18,gust pushed it into a wall
+gust DQN,20,30197,collision,8,gust pushed it into a wall
+gust DQN,20,30198,collision,16,gust pushed it into a wall
+gust DQN,20,30199,collision,13,gust pushed it into a wall
+gust DQN,20,30200,collision,20,gust pushed it into a wall
+gust DQN,20,30201,collision,10,gust pushed it into a wall
+gust DQN,20,30202,collision,1,gust pushed it into a wall
+gust DQN,20,30203,collision,2,gust pushed it into a wall
+gust DQN,20,30205,collision,1,gust pushed it into a wall
+gust DQN,20,30208,collision,22,gust pushed it into a wall
+gust DQN,20,30209,collision,6,gust pushed it into a wall
+gust DQN,20,30213,collision,14,gust pushed it into a wall
+gust DQN,20,30215,collision,24,gust pushed it into a wall
+gust DQN,20,30216,collision,5,gust pushed it into a wall
+gust DQN,20,30218,collision,13,gust pushed it into a wall
+gust DQN,20,30219,collision,1,gust pushed it into a wall
+gust DQN,20,30220,collision,4,gust pushed it into a wall
+gust DQN,20,30222,collision,15,gust pushed it into a wall
+gust DQN,20,30223,collision,8,gust pushed it into a wall
+gust DQN,20,30224,collision,1,gust pushed it into a wall
+gust DQN,20,30226,collision,3,gust pushed it into a wall
+gust DQN,20,30227,collision,4,gust pushed it into a wall
+gust DQN,20,30228,collision,3,gust pushed it into a wall
+gust DQN,20,30229,collision,6,gust pushed it into a wall
+gust DQN,20,30230,collision,4,gust pushed it into a wall
+gust DQN,20,30231,collision,16,gust pushed it into a wall
+gust DQN,20,30232,collision,27,gust pushed it into a wall
+gust DQN,20,30233,collision,10,gust pushed it into a wall
+gust DQN,20,30235,collision,1,gust pushed it into a wall
+gust DQN,20,30236,collision,1,gust pushed it into a wall
+gust DQN,20,30237,collision,14,gust pushed it into a wall
+gust DQN,20,30239,collision,6,gust pushed it into a wall
+gust DQN,20,30240,collision,21,gust pushed it into a wall
+gust DQN,20,30241,collision,20,gust pushed it into a wall
+gust DQN,20,30242,collision,13,gust pushed it into a wall
+gust DQN,20,30243,collision,8,gust pushed it into a wall
+gust DQN,20,30244,collision,14,gust pushed it into a wall
+gust DQN,20,30245,collision,14,gust pushed it into a wall
+gust DQN,20,30248,collision,2,gust pushed it into a wall
+gust DQN,20,30250,collision,20,gust pushed it into a wall
+gust DQN,20,30251,collision,18,gust pushed it into a wall
+gust DQN,20,30252,collision,15,gust pushed it into a wall
+gust DQN,20,30253,collision,8,gust pushed it into a wall
+gust DQN,20,30254,collision,1,gust pushed it into a wall
+gust DQN,20,30256,collision,17,gust pushed it into a wall
+gust DQN,20,30258,collision,17,gust pushed it into a wall
+gust DQN,20,30259,collision,3,gust pushed it into a wall
+gust DQN,20,30260,collision,1,gust pushed it into a wall
+gust DQN,20,30261,collision,3,gust pushed it into a wall
+gust DQN,20,30262,collision,12,gust pushed it into a wall
+gust DQN,20,30264,collision,1,gust pushed it into a wall
+gust DQN,20,30265,collision,1,gust pushed it into a wall
+gust DQN,20,30266,collision,19,gust pushed it into a wall
+gust DQN,20,30267,collision,2,gust pushed it into a wall
+gust DQN,20,30268,collision,9,gust pushed it into a wall
+gust DQN,20,30269,collision,1,gust pushed it into a wall
+gust DQN,20,30270,collision,1,gust pushed it into a wall
+gust DQN,20,30271,collision,5,gust pushed it into a wall
+gust DQN,20,30272,collision,1,gust pushed it into a wall
+gust DQN,20,30273,collision,1,gust pushed it into a wall
+gust DQN,20,30274,collision,5,gust pushed it into a wall
+gust DQN,20,30275,collision,14,gust pushed it into a wall
+gust DQN,20,30276,collision,9,gust pushed it into a wall
+gust DQN,20,30279,collision,11,gust pushed it into a wall
+gust DQN,20,30280,collision,1,gust pushed it into a wall
+gust DQN,20,30281,collision,27,gust pushed it into a wall
+gust DQN,20,30282,collision,8,gust pushed it into a wall
+gust DQN,20,30283,collision,9,gust pushed it into a wall
+gust DQN,20,30287,collision,6,gust pushed it into a wall
+gust DQN,20,30289,collision,15,gust pushed it into a wall
+gust DQN,20,30293,collision,6,gust pushed it into a wall
+gust DQN,20,30294,collision,2,gust pushed it into a wall
+gust DQN,20,30295,collision,15,gust pushed it into a wall
+gust DQN,20,30296,collision,9,gust pushed it into a wall
+gust DQN,20,30297,collision,12,gust pushed it into a wall
+gust DQN,20,30298,collision,2,gust pushed it into a wall
+gust DQN,20,30299,collision,13,gust pushed it into a wall

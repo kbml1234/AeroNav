@@ -1,0 +1,11 @@
+scale16_plus_seed0: trained in 31.2 minutes
+{'vision': 'plus', 'seed': 0, 'train_moves': 500000, 'n': 300, 'success_%': 0.0, 'crash_%': 100.0, 'timeout_%': 0.0, 'train_minutes': 31.2}
+{'vision': 'plus', 'seed': 0, 'train_moves': 1000000, 'n': 300, 'success_%': 0.0, 'crash_%': 100.0, 'timeout_%': 0.0, 'train_minutes': 31.2}
+{'vision': 'plus', 'seed': 0, 'train_moves': 1500000, 'n': 300, 'success_%': 0.0, 'crash_%': 100.0, 'timeout_%': 0.0, 'train_minutes': 31.2}
+{'vision': 'plus', 'seed': 0, 'train_moves': 2000000, 'n': 300, 'success_%': 0.0, 'crash_%': 100.0, 'timeout_%': 0.0, 'train_minutes': 31.2}
+{'vision': 'plus', 'seed': 0, 'train_moves': 2500000, 'n': 300, 'success_%': 0.0, 'crash_%': 100.0, 'timeout_%': 0.0, 'train_minutes': 31.2}
+{'vision': 'plus', 'seed': 0, 'train_moves': 3000000, 'n': 300, 'success_%': 0.0, 'crash_%': 100.0, 'timeout_%': 0.0, 'train_minutes': 31.2}
+{'vision': 'plus', 'seed': 0, 'train_moves': 3500000, 'n': 300, 'success_%': 0.0, 'crash_%': 100.0, 'timeout_%': 0.0, 'train_minutes': 31.2}
+{'vision': 'plus', 'seed': 0, 'train_moves': 4000000, 'n': 300, 'success_%': 0.0, 'crash_%': 100.0, 'timeout_%': 0.0, 'train_minutes': 31.2}
+{'vision': 'plus', 'seed': 0, 'train_moves': 4500000, 'n': 300, 'success_%': 0.0, 'crash_%': 100.0, 'timeout_%': 0.0, 'train_minutes': 31.2}
+{'vision': 'plus', 'seed': 0, 'train_moves': 5000000, 'n': 300, 'success_%': 0.0, 'crash_%': 100.0, 'timeout_%': 0.0, 'train_minutes': 31.2}
